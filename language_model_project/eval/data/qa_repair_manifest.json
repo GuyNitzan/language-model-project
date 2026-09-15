@@ -1,0 +1,597 @@
+{
+  "batch_id": "msgbatch_011Q7YQW4bqgwHeokoJaMiPy",
+  "requests": [
+    {
+      "custom_id": "qa_00006",
+      "chunk_id": "127_Antimicrobial_Drugs_0021",
+      "chapter": "127 Antimicrobial Drugs",
+      "page_start": 2715,
+      "page_end": 2716,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00046",
+      "chunk_id": "40_Autoantibodies_Encountered_in_Patient_0018",
+      "chapter": "40 Autoantibodies Encountered in Patients with Autoimmune Connective Tissue Diseases",
+      "page_start": 828,
+      "page_end": 829,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00069",
+      "chunk_id": "120_Cutaneous_T_Cell_Lymphoma_0047",
+      "chapter": "120 Cutaneous T Cell Lymphoma",
+      "page_start": 2619,
+      "page_end": 2620,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00070",
+      "chunk_id": "43_Systemic_Sclerosis_(Scleroderma)_and__0003",
+      "chapter": "43 Systemic Sclerosis (Scleroderma) and Related Disorders",
+      "page_start": 878,
+      "page_end": 879,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00077",
+      "chunk_id": "81_Other_Viral_Diseases_0013",
+      "chapter": "81 Other Viral Diseases",
+      "page_start": 1748,
+      "page_end": 1749,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00139",
+      "chunk_id": "60_Primary_Immunodeficiencies_0059",
+      "chapter": "60 Primary Immunodeficiencies",
+      "page_start": 1202,
+      "page_end": 1203,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00155",
+      "chunk_id": "60_Primary_Immunodeficiencies_0020",
+      "chapter": "60 Primary Immunodeficiencies",
+      "page_start": 1185,
+      "page_end": 1186,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00156",
+      "chunk_id": "109_Benign_Epidermal_Tumors_and_Prolifer_0038",
+      "chapter": "109 Benign Epidermal Tumors and Proliferations",
+      "page_start": 2323,
+      "page_end": 2323,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00189",
+      "chunk_id": "64_Developmental_Anomalies_0020",
+      "chapter": "64 Developmental Anomalies",
+      "page_start": 1306,
+      "page_end": 1306,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00244",
+      "chunk_id": "74_Bacterial_Diseases_0005",
+      "chapter": "74 Bacterial Diseases",
+      "page_start": 1544,
+      "page_end": 1544,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00248",
+      "chunk_id": "104_Vascular_Malformations_0031",
+      "chapter": "104 Vascular Malformations",
+      "page_start": 2205,
+      "page_end": 2205,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00251",
+      "chunk_id": "122_Cutaneous_Metastases_0008",
+      "chapter": "122 Cutaneous Metastases",
+      "page_start": 2648,
+      "page_end": 2648,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00254",
+      "chunk_id": "45_Other_Rheumatologic_Disorders_and_Aut_0036",
+      "chapter": "45 Other Rheumatologic Disorders and Autoinflammatory Diseases",
+      "page_start": 928,
+      "page_end": 929,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00267",
+      "chunk_id": "104_Vascular_Malformations_0030",
+      "chapter": "104 Vascular Malformations",
+      "page_start": 2205,
+      "page_end": 2205,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00298",
+      "chunk_id": "90_Skin_Signs_of_Abuse_0011",
+      "chapter": "90 Skin Signs of Abuse",
+      "page_start": 1960,
+      "page_end": 1961,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00299",
+      "chunk_id": "34_Vesiculopustular_and_Erosive_Disorder_0004",
+      "chapter": "34 Vesiculopustular and Erosive Disorders in Newborns and Infants",
+      "page_start": 718,
+      "page_end": 718,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00305",
+      "chunk_id": "120_Cutaneous_T_Cell_Lymphoma_0007",
+      "chapter": "120 Cutaneous T Cell Lymphoma",
+      "page_start": 2603,
+      "page_end": 2604,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00309",
+      "chunk_id": "156_Body_Contouring:_Liposuction_and_Non_0005",
+      "chapter": "156 Body Contouring: Liposuction and Non-invasive Modalities",
+      "page_start": 3176,
+      "page_end": 3176,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00353",
+      "chunk_id": "42_Dermatomyositis_0019",
+      "chapter": "42 Dermatomyositis",
+      "page_start": 869,
+      "page_end": 870,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00354",
+      "chunk_id": "13_Other_Eczematous_Eruptions_0012",
+      "chapter": "13 Other Eczematous Eruptions",
+      "page_start": 313,
+      "page_end": 313,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00366",
+      "chunk_id": "77_Fungal_Diseases_0028",
+      "chapter": "77 Fungal Diseases",
+      "page_start": 1641,
+      "page_end": 1641,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00402",
+      "chunk_id": "23_Cutaneous_Manifestations_of_Microvasc_0034",
+      "chapter": "23 Cutaneous Manifestations of Microvascular Occlusion Syndromes",
+      "page_start": 518,
+      "page_end": 518,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00407",
+      "chunk_id": "119_B_Cell_Lymphomas_of_the_Skin_0026",
+      "chapter": "119 B Cell Lymphomas of the Skin",
+      "page_start": 2593,
+      "page_end": 2594,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00409",
+      "chunk_id": "45_Other_Rheumatologic_Disorders_and_Aut_0037",
+      "chapter": "45 Other Rheumatologic Disorders and Autoinflammatory Diseases",
+      "page_start": 929,
+      "page_end": 930,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00424",
+      "chunk_id": "28_The_Biology_of_the_Basement_Membrane_0016",
+      "chapter": "28 The Biology of the Basement Membrane",
+      "page_start": 631,
+      "page_end": 631,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00431",
+      "chunk_id": "86_Ultraviolet_Radiation_0014",
+      "chapter": "86 Ultraviolet Radiation",
+      "page_start": 1883,
+      "page_end": 1883,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00432",
+      "chunk_id": "66_Vitiligo_and_Other_Disorders_of_Hypop_0034",
+      "chapter": "66 Vitiligo and Other Disorders of Hypopigmentation",
+      "page_start": 1347,
+      "page_end": 1347,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00437",
+      "chunk_id": "74_Bacterial_Diseases_0078",
+      "chapter": "74 Bacterial Diseases",
+      "page_start": 1573,
+      "page_end": 1574,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00451",
+      "chunk_id": "111_Adnexal_Neoplasms_0017",
+      "chapter": "111 Adnexal Neoplasms",
+      "page_start": 2362,
+      "page_end": 2362,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00468",
+      "chunk_id": "23_Cutaneous_Manifestations_of_Microvasc_0031",
+      "chapter": "23 Cutaneous Manifestations of Microvascular Occlusion Syndromes",
+      "page_start": 517,
+      "page_end": 518,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00477",
+      "chunk_id": "58_Palmoplantar_Keratodermas_0003",
+      "chapter": "58 Palmoplantar Keratodermas",
+      "page_start": 1143,
+      "page_end": 1143,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00483",
+      "chunk_id": "108_Actinic_Keratosis,_Basal_Cell_Carcin_0014",
+      "chapter": "108 Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+      "page_start": 2280,
+      "page_end": 2281,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00486",
+      "chunk_id": "75_Mycobacterial_Infections_0015",
+      "chapter": "75 Mycobacterial Infections",
+      "page_start": 1593,
+      "page_end": 1593,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00492",
+      "chunk_id": "77_Fungal_Diseases_0015",
+      "chapter": "77 Fungal Diseases",
+      "page_start": 1633,
+      "page_end": 1634,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00510",
+      "chunk_id": "77_Fungal_Diseases_0020",
+      "chapter": "77 Fungal Diseases",
+      "page_start": 1637,
+      "page_end": 1638,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00551",
+      "chunk_id": "135_Photodynamic_Therapy_0014",
+      "chapter": "135 Photodynamic Therapy",
+      "page_start": 2855,
+      "page_end": 2856,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00562",
+      "chunk_id": "10_Erythroderma_0021",
+      "chapter": "10 Erythroderma",
+      "page_start": 252,
+      "page_end": 253,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00568",
+      "chunk_id": "95_Biology_of_the_Extracellular_Matrix_0021",
+      "chapter": "95 Biology of the Extracellular Matrix",
+      "page_start": 2052,
+      "page_end": 2052,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00600",
+      "chunk_id": "70_Hypertrichosis_and_Hirsutism_0009",
+      "chapter": "70 Hypertrichosis and Hirsutism",
+      "page_start": 1453,
+      "page_end": 1455,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00622",
+      "chunk_id": "30_Pemphigoid_Group_0034",
+      "chapter": "30 Pemphigoid Group",
+      "page_start": 668,
+      "page_end": 668,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00638",
+      "chunk_id": "84_Infestations_0000",
+      "chapter": "84 Infestations",
+      "page_start": 1837,
+      "page_end": 1837,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00639",
+      "chunk_id": "79_Human_Papillomaviruses_0015",
+      "chapter": "79 Human Papillomaviruses",
+      "page_start": 1694,
+      "page_end": 1695,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00655",
+      "chunk_id": "115_Neural_and_Neuroendocrine_Neoplasms__0010",
+      "chapter": "115 Neural and Neuroendocrine Neoplasms (Other than Neurofibromatosis)",
+      "page_start": 2511,
+      "page_end": 2512,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00656",
+      "chunk_id": "27_Pregnancy_Dermatoses_0042",
+      "chapter": "27 Pregnancy Dermatoses",
+      "page_start": 623,
+      "page_end": 624,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00667",
+      "chunk_id": "137_Lasers_and_Other_Energy-Based_Therap_0015",
+      "chapter": "137 Lasers and Other Energy-Based Therapies",
+      "page_start": 2880,
+      "page_end": 2881,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00676",
+      "chunk_id": "57_Ichthyoses,_Erythrokeratodermas,_and__0009",
+      "chapter": "57 Ichthyoses, Erythrokeratodermas, and Related Disorders",
+      "page_start": 1103,
+      "page_end": 1104,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00683",
+      "chunk_id": "114_Vascular_Neoplasms_and_Neoplastic-Li_0048",
+      "chapter": "114 Vascular Neoplasms and Neoplastic-Like Proliferations",
+      "page_start": 2489,
+      "page_end": 2490,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00693",
+      "chunk_id": "127_Antimicrobial_Drugs_0042",
+      "chapter": "127 Antimicrobial Drugs",
+      "page_start": 2724,
+      "page_end": 2724,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00718",
+      "chunk_id": "114_Vascular_Neoplasms_and_Neoplastic-Li_0027",
+      "chapter": "114 Vascular Neoplasms and Neoplastic-Like Proliferations",
+      "page_start": 2481,
+      "page_end": 2482,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00721",
+      "chunk_id": "63_Other_Genodermatoses_0060",
+      "chapter": "63 Other Genodermatoses",
+      "page_start": 1287,
+      "page_end": 1288,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00788",
+      "chunk_id": "19_Figurate_Erythemas_0005",
+      "chapter": "19 Figurate Erythemas",
+      "page_start": 421,
+      "page_end": 422,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00790",
+      "chunk_id": "30_Pemphigoid_Group_0036",
+      "chapter": "30 Pemphigoid Group",
+      "page_start": 669,
+      "page_end": 669,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00809",
+      "chunk_id": "99_Atrophies_of_Connective_Tissue_0014",
+      "chapter": "99 Atrophies of Connective Tissue",
+      "page_start": 2104,
+      "page_end": 2105,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00810",
+      "chunk_id": "43_Systemic_Sclerosis_(Scleroderma)_and__0012",
+      "chapter": "43 Systemic Sclerosis (Scleroderma) and Related Disorders",
+      "page_start": 883,
+      "page_end": 884,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00827",
+      "chunk_id": "114_Vascular_Neoplasms_and_Neoplastic-Li_0010",
+      "chapter": "114 Vascular Neoplasms and Neoplastic-Like Proliferations",
+      "page_start": 2475,
+      "page_end": 2475,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00839",
+      "chunk_id": "44_Morphea_and_Lichen_Sclerosus_0015",
+      "chapter": "44 Morphea and Lichen Sclerosus",
+      "page_start": 901,
+      "page_end": 902,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00876",
+      "chunk_id": "57_Ichthyoses,_Erythrokeratodermas,_and__0004",
+      "chapter": "57 Ichthyoses, Erythrokeratodermas, and Related Disorders",
+      "page_start": 1099,
+      "page_end": 1100,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00883",
+      "chunk_id": "78_Cutaneous_Manifestations_of_HIV_Infec_0039",
+      "chapter": "78 Cutaneous Manifestations of HIV Infection",
+      "page_start": 1685,
+      "page_end": 1689,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00920",
+      "chunk_id": "21_Drug_Reactions_0047",
+      "chapter": "21 Drug Reactions",
+      "page_start": 476,
+      "page_end": 477,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00922",
+      "chunk_id": "63_Other_Genodermatoses_0056",
+      "chapter": "63 Other Genodermatoses",
+      "page_start": 1286,
+      "page_end": 1286,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00924",
+      "chunk_id": "55_Genetic_Basis_of_Cutaneous_Diseases_0026",
+      "chapter": "55 Genetic Basis of Cutaneous Diseases",
+      "page_start": 1084,
+      "page_end": 1085,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00990",
+      "chunk_id": "39_Diseases_of_the_Eccrine_and_Apocrine__0009",
+      "chapter": "39 Diseases of the Eccrine and Apocrine Sweat Glands",
+      "page_start": 807,
+      "page_end": 808,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_00996",
+      "chunk_id": "60_Primary_Immunodeficiencies_0021",
+      "chapter": "60 Primary Immunodeficiencies",
+      "page_start": 1186,
+      "page_end": 1186,
+      "split": "train"
+    },
+    {
+      "custom_id": "qa_01010",
+      "chunk_id": "7_Psychocutaneous_Diseases_0021",
+      "chapter": "7 Psychocutaneous Diseases",
+      "page_start": 181,
+      "page_end": 182,
+      "split": "val"
+    },
+    {
+      "custom_id": "qa_01012",
+      "chunk_id": "17_Dermatoses_Due_to_Plants_0027",
+      "chapter": "17 Dermatoses Due to Plants",
+      "page_start": 392,
+      "page_end": 393,
+      "split": "val"
+    },
+    {
+      "custom_id": "qa_01015",
+      "chunk_id": "97_Heritable_Disorders_of_Connective_Tis_0023",
+      "chapter": "97 Heritable Disorders of Connective Tissue",
+      "page_start": 2076,
+      "page_end": 2077,
+      "split": "val"
+    },
+    {
+      "custom_id": "qa_01016",
+      "chunk_id": "98_Dermal_Hypertrophies_0015",
+      "chapter": "98 Dermal Hypertrophies",
+      "page_start": 2090,
+      "page_end": 2091,
+      "split": "val"
+    },
+    {
+      "custom_id": "qa_01046",
+      "chunk_id": "78_Cutaneous_Manifestations_of_HIV_Infec_0017",
+      "chapter": "78 Cutaneous Manifestations of HIV Infection",
+      "page_start": 1676,
+      "page_end": 1677,
+      "split": "val"
+    },
+    {
+      "custom_id": "qa_01079",
+      "chunk_id": "13_Other_Eczematous_Eruptions_0032",
+      "chapter": "13 Other Eczematous Eruptions",
+      "page_start": 324,
+      "page_end": 325,
+      "split": "val"
+    },
+    {
+      "custom_id": "qa_01124",
+      "chunk_id": "62_Mosaicism_and_Linear_Lesions_0012",
+      "chapter": "62 Mosaicism and Linear Lesions",
+      "page_start": 1240,
+      "page_end": 1240,
+      "split": "test"
+    },
+    {
+      "custom_id": "qa_01157",
+      "chunk_id": "121_Other_Lymphoproliferative_and_Myelop_0008",
+      "chapter": "121 Other Lymphoproliferative and Myeloproliferative Diseases",
+      "page_start": 2632,
+      "page_end": 2633,
+      "split": "test"
+    },
+    {
+      "custom_id": "qa_01163",
+      "chunk_id": "97_Heritable_Disorders_of_Connective_Tis_0027",
+      "chapter": "97 Heritable Disorders of Connective Tissue",
+      "page_start": 2077,
+      "page_end": 2078,
+      "split": "test"
+    },
+    {
+      "custom_id": "qa_01177",
+      "chunk_id": "120_Cutaneous_T_Cell_Lymphoma_0028",
+      "chapter": "120 Cutaneous T Cell Lymphoma",
+      "page_start": 2611,
+      "page_end": 2611,
+      "split": "test"
+    },
+    {
+      "custom_id": "qa_01212",
+      "chunk_id": "12_Atopic_Dermatitis_0042",
+      "chapter": "12 Atopic Dermatitis",
+      "page_start": 303,
+      "page_end": 307,
+      "split": "test"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+# Python dependencies for eval/ + training/ (exam parsing, retrieval eval,
+# QLoRA dataset prep, MCQ/generation eval) -- the one component with no
+# pyproject.toml of its own, verified in this exact combination on the
+# CPU-only dev sandbox. This file IS the source of truth for that
+# environment. Install with:
+#   uv run --with-requirements requirements.txt python3 eval/<script>.py
+# or:
+#   python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+#
+# backend/ and pipeline/ each have their OWN uv-managed venv + pyproject.toml
+# (authoritative for those two -- do NOT install this file into either one;
+# their pins genuinely differ by a minor version or two from eval/'s, e.g.
+# anthropic 0.97.0 there vs. 1.2.0 here, and mixing them in one resolve would
+# just create a version conflict for no benefit). Set those up with:
+#   cd backend  && uv sync
+#   cd pipeline && uv sync
+
+pymupdf==1.28.2
+anthropic==1.2.0
+openai==3.3.1
+python-dotenv==1.2.3
+faiss-cpu==1.15.0
+sentence-transformers==6.0.0
+# CPU-only here (torch==2.13.0+cpu on the dev sandbox). Installing this file
+# via plain pip/uv against the default index pulls the full CUDA build
+# (~1.3GB of extra cudnn/cublas downloads) since PyPI's default index has no
+# +cpu wheel; for a lighter CPU-only install add:
+#   --extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.13.0
+transformers>=4.44,<6   # exam-eval scripts only need tokenization here; Colab GPU pins below are separate
+rouge-score==0.1.2
+sacrebleu==2.6.0
+numpy==2.5.2
+
+# --- Colab-only GPU stack (QLoRA fine-tune + LoRA generation-eval arms) ----
+# Installed by notebooks/03_finetune.ipynb and 04_generation_eval.ipynb
+# themselves via `pip install -U ...` at notebook start -- NOT part of this
+# file's install (they need a CUDA machine); listed here for reference only,
+# matching those notebooks' own version bounds exactly:
+#   transformers>=4.44,<5
+#   accelerate>=0.33
+#   peft>=0.12
+#   bitsandbytes>=0.43
+#   datasets
+
+# --- backend/ pins, for reference only (see backend/pyproject.toml) -------
+#   anthropic==0.97.0  fastapi==0.136.1  openai==2.32.0  pydantic==2.13.3
+#   python-dotenv==1.2.2  qdrant-client==1.17.1  uvicorn==0.46.0
+
+# --- pipeline/ pins, for reference only (see pipeline/pyproject.toml) -----
+#   openai==2.32.0  pymupdf==1.27.2.3  python-dotenv==1.2.2
+#   qdrant-client==1.17.1  tqdm==4.67.3

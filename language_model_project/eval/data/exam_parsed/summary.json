@@ -1,0 +1,107 @@
+{
+  "2021": {
+    "year": "2021",
+    "n_questions": 149,
+    "numbering_style": "N.",
+    "glyph_bug": null,
+    "options_complete": 144,
+    "n_answers_parsed": 150,
+    "n_refs_parsed": 150,
+    "buckets": {
+      "text_answerable": 127,
+      "image_dependent": 21,
+      "excluded_lever": 0,
+      "unresolvable": 1
+    }
+  },
+  "2022": {
+    "year": "2022",
+    "n_questions": 150,
+    "numbering_style": "N.",
+    "glyph_bug": null,
+    "options_complete": 145,
+    "n_answers_parsed": 150,
+    "n_refs_parsed": 150,
+    "buckets": {
+      "text_answerable": 122,
+      "image_dependent": 21,
+      "excluded_lever": 5,
+      "unresolvable": 2
+    }
+  },
+  "2023": {
+    "year": "2023",
+    "n_questions": 150,
+    "numbering_style": "N.",
+    "glyph_bug": "",
+    "options_complete": 150,
+    "n_answers_parsed": 150,
+    "n_refs_parsed": 150,
+    "buckets": {
+      "text_answerable": 122,
+      "image_dependent": 23,
+      "excluded_lever": 5,
+      "unresolvable": 0
+    }
+  },
+  "2024_05": {
+    "year": "2024_05",
+    "n_questions": 100,
+    "numbering_style": "N.",
+    "glyph_bug": null,
+    "options_complete": 100,
+    "n_answers_parsed": 100,
+    "n_refs_parsed": 100,
+    "buckets": {
+      "text_answerable": 68,
+      "image_dependent": 27,
+      "excluded_lever": 5,
+      "unresolvable": 0
+    }
+  },
+  "2024_09": {
+    "year": "2024_09",
+    "n_questions": 100,
+    "numbering_style": ".N",
+    "glyph_bug": "",
+    "options_complete": 99,
+    "n_answers_parsed": 100,
+    "n_refs_parsed": 100,
+    "buckets": {
+      "text_answerable": 78,
+      "image_dependent": 18,
+      "excluded_lever": 4,
+      "unresolvable": 0
+    }
+  },
+  "2025": {
+    "year": "2025",
+    "n_questions": 150,
+    "numbering_style": "N.",
+    "glyph_bug": "ð",
+    "options_complete": 140,
+    "n_answers_parsed": 150,
+    "n_refs_parsed": 150,
+    "buckets": {
+      "text_answerable": 116,
+      "image_dependent": 26,
+      "excluded_lever": 4,
+      "unresolvable": 4
+    }
+  },
+  "2026": {
+    "year": "2026",
+    "n_questions": 150,
+    "numbering_style": "N.",
+    "glyph_bug": "ð",
+    "options_complete": 150,
+    "n_answers_parsed": 150,
+    "n_refs_parsed": 150,
+    "buckets": {
+      "text_answerable": 115,
+      "image_dependent": 29,
+      "excluded_lever": 2,
+      "unresolvable": 4
+    }
+  }
+}

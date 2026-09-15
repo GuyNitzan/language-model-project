@@ -1,0 +1,1096 @@
+[
+  {
+    "year": "2021",
+    "q_num": 15,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        360,
+        513
+      ],
+      "table_or_figure": false,
+      "raw": "360,513"
+    },
+    "hebrew_query": "בת55\n \n ברקע סכרת , יתר ל״\nא: אוזינופיליה1500\n \n .  מצורפת\n .תמונה \n \n מה מהבאים\nלא לה?פסיק למטופלת \nא. \nFUSID\nב: ALDACTONE\nג: VILDAGLIPTIN\nד: METFORMIN",
+    "english_query": "A 55-year-old female with a background of diabetes mellitus and hypertension presents with eosinophilia of 1500. An accompanying image is provided. Which of the following medications should be discontinued for this patient?\nA. Fusidic acid (Fusid)\nB. Spironolactone (Aldactone)\nC. Vildagliptin\nD. Metformin",
+    "gold_chunk_ids": [
+      "21_Drug_Reactions_0011",
+      "21_Drug_Reactions_0012",
+      "21_Drug_Reactions_0013",
+      "21_Drug_Reactions_0014",
+      "21_Drug_Reactions_0015",
+      "21_Drug_Reactions_0016",
+      "21_Drug_Reactions_0017",
+      "21_Drug_Reactions_0018",
+      "21_Drug_Reactions_0019",
+      "21_Drug_Reactions_0020",
+      "21_Drug_Reactions_0021",
+      "21_Drug_Reactions_0022",
+      "21_Drug_Reactions_0023",
+      "29_Pemphigus_0027",
+      "29_Pemphigus_0028",
+      "29_Pemphigus_0029",
+      "29_Pemphigus_0030",
+      "29_Pemphigus_0031",
+      "29_Pemphigus_0032",
+      "29_Pemphigus_0033",
+      "29_Pemphigus_0034",
+      "29_Pemphigus_0035"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "47_Amyloidosis_0021",
+      "top1_chapter": "47 Amyloidosis",
+      "top1_snippet": "SYSTEMIC DISEASES Orthotopic liver transplantation represents a therapeutic option for hereditary ATTR amyloidosis 38 and tafamidis meglumine is FDA-approved for treatment of wild-type or hereditary ATTR cardio- myopathy..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.1,
+      "top1_chunk_id": "59_Darier_Disease_and_Hailey–Hailey_Dise_0012",
+      "top1_chapter": "59 Darier Disease and Hailey–Hailey Disease",
+      "top1_snippet": "and elevation of serum lipids. Intermittent therapy to prevent exacerbations during the summer months is a useful approach. In patients with predomi- nantly bullous or intertriginous lesions, oral retinoids may aggravate..."
+    }
+  },
+  {
+    "year": "2021",
+    "q_num": 18,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        231
+      ],
+      "table_or_figure": false,
+      "raw": "231"
+    },
+    "hebrew_query": "מה עומד בבסיס הפתוגנזה שלASTEATOTIC ECZEMA\n \n ?\nא: חסרSEBUM\nב: ירידה במספר ה-\nCORNEODESMOSOMES\nג: ירידה ביצור ה-\"\nNATURAL MOISTURIZER FACTOR\n\"\nד: ירידה בביטוי של ליפידים בשכבת הקרן",
+    "english_query": "What underlies the pathogenesis of asteatotic eczema?\nA: Sebum deficiency\nB: Decrease in the number of corneodesmosomes\nC: Decrease in production of natural moisturizing factor (NMF)\nD: Decreased expression of lipids in the stratum corneum",
+    "gold_chunk_ids": [
+      "12_Atopic_Dermatitis_0042",
+      "12_Atopic_Dermatitis_0043",
+      "13_Other_Eczematous_Eruptions_0000",
+      "13_Other_Eczematous_Eruptions_0001",
+      "13_Other_Eczematous_Eruptions_0002",
+      "13_Other_Eczematous_Eruptions_0003",
+      "13_Other_Eczematous_Eruptions_0004",
+      "13_Other_Eczematous_Eruptions_0005",
+      "13_Other_Eczematous_Eruptions_0006",
+      "13_Other_Eczematous_Eruptions_0007"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "13_Other_Eczematous_Eruptions_0009",
+      "top1_chapter": "13 Other Eczematous Eruptions",
+      "top1_snippet": "and frequent bathing Introduction Dry skin (xerosis, asteatosis, exsiccosis) may result from both exogenous and endogenous causes: a dry climate or low indoor humidity; exces- sive exposure to water, soaps, and surfactan..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.5,
+      "top1_chunk_id": "13_Other_Eczematous_Eruptions_0009",
+      "top1_chapter": "13 Other Eczematous Eruptions",
+      "top1_snippet": "and frequent bathing Introduction Dry skin (xerosis, asteatosis, exsiccosis) may result from both exogenous and endogenous causes: a dry climate or low indoor humidity; exces- sive exposure to water, soaps, and surfactan..."
+    }
+  },
+  {
+    "year": "2021",
+    "q_num": 43,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        333,
+        334
+      ],
+      "table_or_figure": false,
+      "raw": "333-4"
+    },
+    "hebrew_query": "מה\nנכון \n לגבי אבחנה של \nERYTHEMA MULTIFORME MAJOR\n \n בהשוואה ל\nERYTHEMA MULTIFORME MINOR\n \n ?\nא: המיקום השכיח ביותר הוא בגו\nב: מעורבות ריריות היא דומיננטית\nג: העדר סימנים סיסטמים\nד: הנגע העיקרי הואFLAT ATYPICAL TARGET",
+    "english_query": "What is correct regarding the diagnosis of Erythema Multiforme Major compared to Erythema Multiforme Minor?\nA: The most common location is the trunk\nB: Mucosal involvement is dominant\nC: Absence of systemic signs\nD: The main lesion is a flat atypical target",
+    "gold_chunk_ids": [
+      "19_Figurate_Erythemas_0010",
+      "19_Figurate_Erythemas_0011",
+      "19_Figurate_Erythemas_0012",
+      "19_Figurate_Erythemas_0013",
+      "19_Figurate_Erythemas_0014",
+      "19_Figurate_Erythemas_0015",
+      "19_Figurate_Erythemas_0016",
+      "19_Figurate_Erythemas_0017",
+      "19_Figurate_Erythemas_0018",
+      "19_Figurate_Erythemas_0019",
+      "19_Figurate_Erythemas_0020",
+      "19_Figurate_Erythemas_0021",
+      "19_Figurate_Erythemas_0022",
+      "19_Figurate_Erythemas_0023",
+      "19_Figurate_Erythemas_0024"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "20_Erythema_Multiforme,_Stevens–Johnson__0002",
+      "top1_chapter": "20 Erythema Multiforme, Stevens–Johnson Syndrome, and Toxic Epidermal Necrolysis",
+      "top1_snippet": ". 344 ERYTHEMA MULTIFORME Synonym:  Erythema multiforme minor – erythema multiforme von Hebra Key features  A self-limited but potentially recurrent disease  Abrupt onset of papular “target” lesions, with the vast maj..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.14285714285714285,
+      "top1_chunk_id": "20_Erythema_Multiforme,_Stevens–Johnson__0002",
+      "top1_chapter": "20 Erythema Multiforme, Stevens–Johnson Syndrome, and Toxic Epidermal Necrolysis",
+      "top1_snippet": ". 344 ERYTHEMA MULTIFORME Synonym:  Erythema multiforme minor – erythema multiforme von Hebra Key features  A self-limited but potentially recurrent disease  Abrupt onset of papular “target” lesions, with the vast maj..."
+    }
+  },
+  {
+    "year": "2021",
+    "q_num": 117,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        217
+      ],
+      "table_or_figure": false,
+      "raw": "217"
+    },
+    "hebrew_query": "מה נכון לגביWHITE DERMOGRAPHISM\n?\nא: נובע  משחרור תאי מאסט באורטיקריה כרונית\nב: היפופיגמנטציה שקורית אחרי טיפול סטרואידלי מקומית בעיקר בATOPIC \nDERMATITIS\nג: מבחינת המנגנון מדובר  בצורה  לינארית שלPITYRIASIS  ALBA\nד: נובע  מVASOCONSTRICTION\n מוגברת",
+    "english_query": "What is correct regarding WHITE DERMOGRAPHISM?\nA: It results from mast cell degranulation in chronic urticaria\nB: It is hypopigmentation that occurs after topical steroid treatment, mainly in atopic dermatitis\nC: Mechanistically, it represents a linear form of pityriasis alba\nD: It results from exaggerated vasoconstriction",
+    "gold_chunk_ids": [
+      "12_Atopic_Dermatitis_0016",
+      "12_Atopic_Dermatitis_0017",
+      "12_Atopic_Dermatitis_0018",
+      "12_Atopic_Dermatitis_0019",
+      "12_Atopic_Dermatitis_0020",
+      "12_Atopic_Dermatitis_0021",
+      "12_Atopic_Dermatitis_0022",
+      "12_Atopic_Dermatitis_0023",
+      "12_Atopic_Dermatitis_0024",
+      "12_Atopic_Dermatitis_0025",
+      "12_Atopic_Dermatitis_0026",
+      "12_Atopic_Dermatitis_0027"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "0_Basic_Principles_of_Dermatology_0057",
+      "top1_chapter": "0 Basic Principles of Dermatology",
+      "top1_snippet": "melanocytic and non-melano- cytic tumors (first step; Table 0.14 ) and then benign and malignant features of melanocytic nevi and melanoma, respectively (second step; Tables 0.15 & 0.16 ) 38 . Attempts to simplify the de..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.16666666666666666,
+      "top1_chunk_id": "18_Urticaria_and_Angioedema_0019",
+      "top1_chapter": "18 Urticaria and Angioedema",
+      "top1_snippet": "urticaria ( Fig. 18.9 ). It manifests as pruritic linear wheals at sites of scratching or sites of friction, such as collars and cuffs of clothes. Whealing occurs after gentle stroking of the skin in response to a sheari..."
+    }
+  },
+  {
+    "year": "2021",
+    "q_num": 135,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        1,
+        6,
+        79,
+        558,
+        1081,
+        1082,
+        1083,
+        1084,
+        1085,
+        1086,
+        1087,
+        1088,
+        2018
+      ],
+      "table_or_figure": false,
+      "raw": "558 Siegel, Jacob, et al. \"Bullous disorders associated with anti–PD-1 and anti–PD-L1 therapy: a retrospective analysis evaluating the clinical and histopathologic features, frequency, and impact on cancer therapy.\" Journal of the American Academy of Dermatology 79.6 (2018): 1081-1088 ."
+    },
+    "hebrew_query": "מטופלת מאושפזת באונקולוגיה, הופיעו לה שלפוחיות בכפות רגליים וידיים מלוות\n . כאב \n \n ?  מה  הגורם הסביר ביותר\nא: נוגדיPD1\nב: CYTARABINE\nג: NSAIDS\nד: CAPTOPRIL",
+    "english_query": "A patient hospitalized in the oncology department developed blisters on the palms and soles accompanied by pain. What is the most likely cause?\nA: PD-1 inhibitors\nB: Cytarabine\nC: NSAIDs\nD: Captopril",
+    "gold_chunk_ids": [
+      "0_Basic_Principles_of_Dermatology_0000",
+      "0_Basic_Principles_of_Dermatology_0001",
+      "0_Basic_Principles_of_Dermatology_0002",
+      "0_Basic_Principles_of_Dermatology_0003",
+      "0_Basic_Principles_of_Dermatology_0004",
+      "0_Basic_Principles_of_Dermatology_0005",
+      "0_Basic_Principles_of_Dermatology_0006",
+      "0_Basic_Principles_of_Dermatology_0007",
+      "0_Basic_Principles_of_Dermatology_0008",
+      "0_Basic_Principles_of_Dermatology_0009",
+      "0_Basic_Principles_of_Dermatology_0010",
+      "0_Basic_Principles_of_Dermatology_0011",
+      "0_Basic_Principles_of_Dermatology_0012",
+      "0_Basic_Principles_of_Dermatology_0013",
+      "113_Melanoma_0027",
+      "113_Melanoma_0028",
+      "113_Melanoma_0029",
+      "113_Melanoma_0030",
+      "113_Melanoma_0031",
+      "113_Melanoma_0032",
+      "113_Melanoma_0033",
+      "113_Melanoma_0034",
+      "113_Melanoma_0035",
+      "113_Melanoma_0036",
+      "113_Melanoma_0037",
+      "113_Melanoma_0038",
+      "113_Melanoma_0039",
+      "32_Epidermolysis_Bullosa_0024",
+      "32_Epidermolysis_Bullosa_0025",
+      "33_Other_Vesiculobullous_Diseases_0000",
+      "33_Other_Vesiculobullous_Diseases_0001",
+      "33_Other_Vesiculobullous_Diseases_0002",
+      "3_Molecular_Biology_0023",
+      "3_Molecular_Biology_0024",
+      "3_Molecular_Biology_0025",
+      "3_Molecular_Biology_0026",
+      "3_Molecular_Biology_0027",
+      "4_Immunology_0000",
+      "4_Immunology_0001",
+      "4_Immunology_0002",
+      "64_Developmental_Anomalies_0034",
+      "64_Developmental_Anomalies_0035",
+      "64_Developmental_Anomalies_0036",
+      "64_Developmental_Anomalies_0037",
+      "64_Developmental_Anomalies_0038",
+      "64_Developmental_Anomalies_0039",
+      "64_Developmental_Anomalies_0040",
+      "64_Developmental_Anomalies_0041",
+      "64_Developmental_Anomalies_0042",
+      "64_Developmental_Anomalies_0043",
+      "65_Melanocyte_Biology_0000",
+      "65_Melanocyte_Biology_0001",
+      "65_Melanocyte_Biology_0002",
+      "65_Melanocyte_Biology_0003",
+      "65_Melanocyte_Biology_0004",
+      "65_Melanocyte_Biology_0005",
+      "65_Melanocyte_Biology_0006",
+      "65_Melanocyte_Biology_0007",
+      "65_Melanocyte_Biology_0008",
+      "65_Melanocyte_Biology_0009",
+      "65_Melanocyte_Biology_0010",
+      "65_Melanocyte_Biology_0011",
+      "65_Melanocyte_Biology_0012",
+      "65_Melanocyte_Biology_0013"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "130_Other_Systemic_Drugs_0001",
+      "top1_chapter": "130 Other Systemic Drugs",
+      "top1_snippet": "medications will not be utilized frequently enough for a given clinician to become comfortable with their use; therefore, patients Chapter Contents Antimalarials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.1,
+      "top1_chunk_id": "21_Drug_Reactions_0042",
+      "top1_chapter": "21 Drug Reactions",
+      "top1_snippet": "In addition, there is no need to implicate additional diagnoses when lesions are not limited to the hands and feet. Insets: Erythema of the ears due to cytarabine (cytosine arabinoside), sometimes referred to as “Ara-C e..."
+    }
+  },
+  {
+    "year": "2023",
+    "q_num": 2,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        308
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה308"
+    },
+    "hebrew_query": "מבין הסיבות הבאות, מה הסיבה השכיחה ביותר ל-\nACUTE URTICARIA \n?\nא: זיהום בדרכי הנשימה העליונות.\nב: . תגובה לתרופה.\nג: . תגובה למזונות )כולל צבעי מאכל(.\nד: . הפרעה בתפקודי בלוטת התריס.",
+    "english_query": "Among the following causes, which is the most common cause of acute urticaria?\nA: Upper respiratory tract infection.\nB: Drug reaction.\nC: Reaction to foods (including food dyes).\nD: Thyroid dysfunction.",
+    "gold_chunk_ids": [
+      "17_Dermatoses_Due_to_Plants_0037",
+      "17_Dermatoses_Due_to_Plants_0038",
+      "18_Urticaria_and_Angioedema_0000",
+      "18_Urticaria_and_Angioedema_0001",
+      "18_Urticaria_and_Angioedema_0002",
+      "18_Urticaria_and_Angioedema_0003",
+      "18_Urticaria_and_Angioedema_0004"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "18_Urticaria_and_Angioedema_0015",
+      "top1_chapter": "18 Urticaria and Angioedema",
+      "top1_snippet": "• Angioedema without wheals (e.g. hereditary angioedema, ACEi-induced angioedema) • Urticarial syndromes (e.g. autoinflammatory syndromes) * Included within the inducible urticarias in the EAACI/GA 2 LEN/EDF/WAO Guidelin..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.25,
+      "top1_chunk_id": "18_Urticaria_and_Angioedema_0015",
+      "top1_chapter": "18 Urticaria and Angioedema",
+      "top1_snippet": "• Angioedema without wheals (e.g. hereditary angioedema, ACEi-induced angioedema) • Urticarial syndromes (e.g. autoinflammatory syndromes) * Included within the inducible urticarias in the EAACI/GA 2 LEN/EDF/WAO Guidelin..."
+    }
+  },
+  {
+    "year": "2023",
+    "q_num": 14,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        1450,
+        1451,
+        1455
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה1450-1451  , 1455"
+    },
+    "hebrew_query": "בת 28\nא: האםנדבקה במהלך הטרימסטר הראשון, ולכן הסיכוי להדבקת העובר הוא100%\n.\nב: . האםנדבקה לפני שנתיים, ולכן הסיכוי להדבקת העובר הוא50%\n.\nג: . האםנדבקה בתחילת הטרימסטר השני, ולכן הסיכוי להדבקה הוא אפסי.\nד: . האם נדבקה בתחילת הטרימסטר השני ולכן הסיכוי להדבקה הוא 50%\n.",
+    "english_query": "28-year-old woman. [Question relates to timing of maternal infection during pregnancy and risk of vertical transmission to the fetus]\nA: The mother was infected during the first trimester, therefore the chance of infecting the fetus is 100%.\nB: The mother was infected two years ago, therefore the chance of infecting the fetus is 50%.\nC: The mother was infected at the beginning of the second trimester, therefore the chance of infection is zero.\nD: The mother was infected at the beginning of the second trimester, therefore the chance of infection is 50%.",
+    "gold_chunk_ids": [
+      "81_Other_Viral_Diseases_0029",
+      "81_Other_Viral_Diseases_0030",
+      "81_Other_Viral_Diseases_0031",
+      "81_Other_Viral_Diseases_0032",
+      "81_Other_Viral_Diseases_0033",
+      "81_Other_Viral_Diseases_0034",
+      "81_Other_Viral_Diseases_0035",
+      "81_Other_Viral_Diseases_0036",
+      "81_Other_Viral_Diseases_0037",
+      "81_Other_Viral_Diseases_0038",
+      "81_Other_Viral_Diseases_0039",
+      "81_Other_Viral_Diseases_0040",
+      "81_Other_Viral_Diseases_0041",
+      "81_Other_Viral_Diseases_0042",
+      "81_Other_Viral_Diseases_0043",
+      "81_Other_Viral_Diseases_0044",
+      "81_Other_Viral_Diseases_0045",
+      "81_Other_Viral_Diseases_0046",
+      "81_Other_Viral_Diseases_0047"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "70_Hypertrichosis_and_Hirsutism_0016",
+      "top1_chapter": "70 Hypertrichosis and Hirsutism",
+      "top1_snippet": "deficiency in ~75% of affected neonates. Female neonates with both salt-wasting and simple virilizing forms of classic CAH typically have ambiguous genitalia, while male neonates may manifest with subtle hyperpigmentatio..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.25,
+      "top1_chunk_id": "81_Other_Viral_Diseases_0012",
+      "top1_chapter": "81 Other Viral Diseases",
+      "top1_snippet": "a pregnant woman who has been exposed to rubella, serologic testing (IgG and IgM) should be performed. Prophylaxis via administration of IM/IVIg to rubella- susceptible women exposed to confirmed rubella early in pregnan..."
+    }
+  },
+  {
+    "year": "2023",
+    "q_num": 18,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        868,
+        869,
+        870
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה868-870"
+    },
+    "hebrew_query": "איזו מהמחלות הבאות נוצרת מפגיעה במסלולRAS-MITOGEN ACTIVATED PROTEIN KINASE (MAPK)\n?\nא: GOLTZ SYNDROME\n.\nב: .NEUROFIBROMATOSIS TYPE I\n.\nג: .ROTHMUND-THOMPSONE SYNDROME\n.\nד: .CARNEY COMPLEX\n.",
+    "english_query": "Which of the following diseases results from a defect in the RAS-mitogen activated protein kinase (MAPK) pathway?\nA: Goltz syndrome\nB: Neurofibromatosis type I\nC: Rothmund-Thomson syndrome\nD: Carney complex",
+    "gold_chunk_ids": [
+      "54_Basic_Principles_of_Genetics_0028",
+      "54_Basic_Principles_of_Genetics_0029",
+      "54_Basic_Principles_of_Genetics_0030",
+      "54_Basic_Principles_of_Genetics_0031",
+      "55_Genetic_Basis_of_Cutaneous_Diseases_0000",
+      "55_Genetic_Basis_of_Cutaneous_Diseases_0001",
+      "55_Genetic_Basis_of_Cutaneous_Diseases_0002",
+      "55_Genetic_Basis_of_Cutaneous_Diseases_0003",
+      "55_Genetic_Basis_of_Cutaneous_Diseases_0004",
+      "55_Genetic_Basis_of_Cutaneous_Diseases_0005",
+      "55_Genetic_Basis_of_Cutaneous_Diseases_0006",
+      "55_Genetic_Basis_of_Cutaneous_Diseases_0007",
+      "55_Genetic_Basis_of_Cutaneous_Diseases_0008",
+      "55_Genetic_Basis_of_Cutaneous_Diseases_0009",
+      "55_Genetic_Basis_of_Cutaneous_Diseases_0010"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "104_Vascular_Malformations_0006",
+      "top1_chapter": "104 Vascular Malformations",
+      "top1_snippet": "Loss-of-function Glomulin is a component of a multiprotein complex – role in vascular morphogenesis Verrucous venous malformation Mosaic MAP3K3 Gain-of-function Activates MAPK pathway Lymphatic anomalies Lymphatic malfor..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.16666666666666666,
+      "top1_chunk_id": "55_Genetic_Basis_of_Cutaneous_Diseases_0020",
+      "top1_chapter": "55 Genetic Basis of Cutaneous Diseases",
+      "top1_snippet": "of a mosaic is: the coexistence of at least two genotypes in an individual derived from a single zygote, by the time RAS−MITOGEN-ACTIVATED PROTEIN KINASE SIGNALING PATHWAY ABNORMALITIES IN GENODERMATOSES LEOPARD syndrome..."
+    }
+  },
+  {
+    "year": "2023",
+    "q_num": 24,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        1442,
+        1443,
+        1444
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה1442-1444"
+    },
+    "hebrew_query": "בן שנתיים. הובא בשל חום כ-\n10ימים טרם קבלתו\nא: ריתמה\nוקילוף עור בפרינאום. \nמהי הבדיקה הדחופה ביותר? \nא. משטח ותרבית חיידקים מהפרינאום.\nב: . אקו לב.\nג\nג: בדיקות דם לרמת אאוזינופילים ותפקודי כב\nד: ד. בדיקות דם ל-\nANAו-\nRHEMATOID FACTOR\n.",
+    "english_query": "A 2-year-old boy was brought in due to fever of about 10 days duration prior to admission, with erythema and skin peeling (desquamation) in the perineal area. What is the most urgent test to perform? A. Swab and bacterial culture from the perineum. B. Echocardiogram. C. Blood tests for eosinophil count and liver function tests. D. Blood tests for ANA and rheumatoid factor.",
+    "gold_chunk_ids": [
+      "81_Other_Viral_Diseases_0009",
+      "81_Other_Viral_Diseases_0010",
+      "81_Other_Viral_Diseases_0011",
+      "81_Other_Viral_Diseases_0012",
+      "81_Other_Viral_Diseases_0013",
+      "81_Other_Viral_Diseases_0014",
+      "81_Other_Viral_Diseases_0015",
+      "81_Other_Viral_Diseases_0016",
+      "81_Other_Viral_Diseases_0017",
+      "81_Other_Viral_Diseases_0018",
+      "81_Other_Viral_Diseases_0019",
+      "81_Other_Viral_Diseases_0020",
+      "81_Other_Viral_Diseases_0021",
+      "81_Other_Viral_Diseases_0022",
+      "81_Other_Viral_Diseases_0023"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "68_Biology_of_Hair_and_Nails_0012",
+      "top1_chapter": "68 Biology of Hair and Nails",
+      "top1_snippet": "p h o F o l l Anagen II Anagen VI Anagen IV A B Anagen FGF5 TGF- β NTs BMP-2/4 Hairless † VDR Prolactin Glucocorticoids IL-6, oncostatin M Noggin * WNT ** SHH IGF-1 HGF * KGF * FGF7 * BDNF = brain-derived neurotrophic fa..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.125,
+      "top1_chunk_id": "6_Pruritus_and_Dysesthesia_0007",
+      "top1_chapter": "6 Pruritus and Dysesthesia",
+      "top1_snippet": "Sexual history • Travel history • Prior diagnoses made by physician or patient skin. Assessment for dermographism should be performed in all patients with pruritus. LABORATORY AND RADIOGRAPHIC EVALUATION IN PATIENTS WITH..."
+    }
+  },
+  {
+    "year": "2023",
+    "q_num": 103,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        276
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה276"
+    },
+    "hebrew_query": "בנאי מתייצג עם תפרחת כרונית בידיים וממצאים היסטולוגים, כמוצג בתמונות שלהלן:\nמה השלב הראשון בבירור?\nא: תבחיני מטלית.\nב: .השלמת אנמנזה לגבי שימוש בתכשירים המכילים ארסן.\nג: .בדיקת דם לסרולוגיה לעגבת.\nד: .השלמת אנמנזה לגבי תדירות שטיפת ידיים.",
+    "english_query": "A construction worker presents with a chronic rash on the hands and histological findings, as shown in the images below. What is the first step in the workup? A: Patch testing. B: Completing history-taking regarding use of arsenic-containing preparations. C: Blood test for syphilis serology. D: Completing history-taking regarding frequency of handwashing.",
+    "gold_chunk_ids": [
+      "15_Irritant_Contact_Dermatitis_0020",
+      "15_Irritant_Contact_Dermatitis_0021",
+      "15_Irritant_Contact_Dermatitis_0022",
+      "15_Irritant_Contact_Dermatitis_0023",
+      "15_Irritant_Contact_Dermatitis_0024",
+      "15_Irritant_Contact_Dermatitis_0025"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "134_Ultraviolet_Therapy_0008",
+      "top1_chapter": "134 Ultraviolet Therapy",
+      "top1_snippet": "the management and treatment of psoriasis with phototherapy. J Am Acad Dermatol 2019;81:775–804. * Mohammad TF, Al-Jamal M, Hamzavi IH, et al. The Vitiligo Working Group recommendations for narrowband ultraviolet B light..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.25,
+      "top1_chunk_id": "16_Occupational_Dermatoses_0003",
+      "top1_chapter": "16 Occupational Dermatoses",
+      "top1_snippet": "help- ful. When occupational dermatitis is suspected but a cause cannot be established from the history, a workplace visit may prove invaluable and may also elucidate the source of an allergen previously detected via pat..."
+    }
+  },
+  {
+    "year": "2023",
+    "q_num": 127,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        2014
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה2014"
+    },
+    "hebrew_query": "איזה מהטיפולים הבאים למלנומה מכוונים כנגד מוטציות במסלולBRAF\n?\nא: VEMURAFENIB\nב: TRAMETINIB\nג: IPILIMUMAB\nד: NIVOLUMAB",
+    "english_query": "Which of the following melanoma treatments target mutations in the BRAF pathway? A: Vemurafenib B: Trametinib C: Ipilimumab D: Nivolumab",
+    "gold_chunk_ids": [
+      "113_Melanoma_0011",
+      "113_Melanoma_0012",
+      "113_Melanoma_0013",
+      "113_Melanoma_0014",
+      "113_Melanoma_0015",
+      "113_Melanoma_0016",
+      "113_Melanoma_0017",
+      "113_Melanoma_0018",
+      "113_Melanoma_0019",
+      "113_Melanoma_0020",
+      "113_Melanoma_0021",
+      "113_Melanoma_0022",
+      "113_Melanoma_0023",
+      "113_Melanoma_0024",
+      "113_Melanoma_0025",
+      "113_Melanoma_0026",
+      "113_Melanoma_0027"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "128_Systemic_Immunomodulators_0043",
+      "top1_chapter": "128 Systemic Immunomodulators",
+      "top1_snippet": "Naxitamab (Danyelza) GD2 Neuroblastoma Necitumumab (Portrazza) EGFR Advanced squamous non-small cell lung cancer Nirsevimab (Beyfortus) RSV RSV disease Nivolumab (Opdivo) PD-1 Unresectable/metastatic melanoma, squamous c..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.14285714285714285,
+      "top1_chunk_id": "113_Melanoma_0085",
+      "top1_chapter": "113 Melanoma",
+      "top1_snippet": "III and IV melanoma. Clinical trials have or are currently evaluating regimens in which ICIs and BRAF/MEK inhibitors are administered in combi- nation or sequentially as well as possible advantages of pulse-dosing target..."
+    }
+  },
+  {
+    "year": "2023",
+    "q_num": 130,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        1212,
+        1213
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה1212-1213"
+    },
+    "hebrew_query": "בת 46\n, פנתה בשל הממצאים בציפורני הידיים המופיעים בתמונה:\nמהי מחלת הרקע ממנה היא סובלת\nא: SYSTEMIC AMYLOIDOSIS\nב: BRONCHIECTASIS\nג: CIRRHOSIS\nד: LAXATIVE ABUSE",
+    "english_query": "A 46-year-old woman presented due to findings on the fingernails shown in the image. What is the underlying disease from which she suffers? A: Systemic amyloidosis, B: Bronchiectasis, C: Cirrhosis, D: Laxative abuse",
+    "gold_chunk_ids": [
+      "70_Hypertrichosis_and_Hirsutism_0028",
+      "70_Hypertrichosis_and_Hirsutism_0029",
+      "70_Hypertrichosis_and_Hirsutism_0030",
+      "71_Nail_Disorders_0000",
+      "71_Nail_Disorders_0001",
+      "71_Nail_Disorders_0002",
+      "71_Nail_Disorders_0003"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "47_Amyloidosis_0017",
+      "top1_chapter": "47 Amyloidosis",
+      "top1_snippet": "Amyloid is also often found around sweat glands and within blood vessel walls ( Fig. 47.12 ). Rarely, an infiltrate of amyloid-producing monoclonal plasma cells can be found adjacent to the amyloid deposits. An unusual p..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.2,
+      "top1_chunk_id": "71_Nail_Disorders_0019",
+      "top1_chapter": "71 Nail Disorders",
+      "top1_snippet": "eczema is often associated with nail changes. In acute eczema, there are vesicles and erythema of the proximal nail fold and the hyponychium. Nail matrix damage produces irregular pitting and Beau’s lines; onychomadesis ..."
+    }
+  },
+  {
+    "year": "2024_09",
+    "q_num": 11,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        164,
+        165
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה164-165"
+    },
+    "hebrew_query": ", הובא בשל תפרחת אסימפטומטית אשר הופיעה במהלך השבוע האחרון עם התפשטות11 בן\nא: .CD4+ T CELLS וני הינין ההיסטולוגי האופיינהתס\nב: .FIBRINOID NECROSIS\nג: .INTERFACE DERMATITIS\nד: .במרבית המקרים תהיה אטיפיה של הלימפוציטים\n4/44\n ­ חלק יחיד25.09.2024 09:00 ­  ­ מחלות עור ומין118",
+    "english_query": "An 11-year-old boy was brought in because of an asymptomatic eruption that appeared over the past week with spreading [lesions]. What is the characteristic histological finding?\nA. CD4+ T cells\nB. Fibrinoid necrosis\nC. Interface dermatitis\nD. In most cases there will be atypia of the lymphocytes",
+    "gold_chunk_ids": [
+      "8_Psoriasis_0064",
+      "8_Psoriasis_0065",
+      "9_Other_Papulosquamous_Disorders_0000",
+      "9_Other_Papulosquamous_Disorders_0001",
+      "9_Other_Papulosquamous_Disorders_0002",
+      "9_Other_Papulosquamous_Disorders_0003",
+      "9_Other_Papulosquamous_Disorders_0004",
+      "9_Other_Papulosquamous_Disorders_0005",
+      "9_Other_Papulosquamous_Disorders_0006",
+      "9_Other_Papulosquamous_Disorders_0007",
+      "9_Other_Papulosquamous_Disorders_0008",
+      "9_Other_Papulosquamous_Disorders_0009",
+      "9_Other_Papulosquamous_Disorders_0010",
+      "9_Other_Papulosquamous_Disorders_0011",
+      "9_Other_Papulosquamous_Disorders_0012"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "44_Morphea_and_Lichen_Sclerosus_0005",
+      "top1_chapter": "44 Morphea and Lichen Sclerosus",
+      "top1_snippet": "as a biomarker for SSc 14 . One theoretical therapeutic approach for morphea would be to redirect Th2 responses into Th1 responses. Unfortunately, placebo- controlled clinical trials of the Th1-inducing cytokines IFN- γ ..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.5,
+      "top1_chunk_id": "91_Histiocytoses_0020",
+      "top1_chapter": "91 Histiocytoses",
+      "top1_snippet": "may persist; recurrences have been observed. In some children, there may be a less symmetric distribution pattern and papules can become xanthomatous. Internal involvement has not been described and the affected individu..."
+    }
+  },
+  {
+    "year": "2024_09",
+    "q_num": 22,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        586,
+        594
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה594  , 586"
+    },
+    "hebrew_query": "?הנאיזו מהתרופות הבאות מחמירה אק\nא: VITAMIN B12\nב: VITAMIN A\nג: VITAMIN C\nד: VITAMIN D",
+    "english_query": "Which of the following medications worsens acne?\nA: Vitamin B12\nB: Vitamin A\nC: Vitamin C\nD: Vitamin D",
+    "gold_chunk_ids": [
+      "34_Vesiculopustular_and_Erosive_Disorder_0034",
+      "34_Vesiculopustular_and_Erosive_Disorder_0035",
+      "35_Structure_and_Function_of_Eccrine,_Ap_0000",
+      "35_Structure_and_Function_of_Eccrine,_Ap_0001",
+      "35_Structure_and_Function_of_Eccrine,_Ap_0002",
+      "35_Structure_and_Function_of_Eccrine,_Ap_0003",
+      "35_Structure_and_Function_of_Eccrine,_Ap_0004",
+      "35_Structure_and_Function_of_Eccrine,_Ap_0005",
+      "35_Structure_and_Function_of_Eccrine,_Ap_0006",
+      "35_Structure_and_Function_of_Eccrine,_Ap_0007",
+      "36_Acne_Vulgaris_0000",
+      "36_Acne_Vulgaris_0001",
+      "36_Acne_Vulgaris_0002",
+      "36_Acne_Vulgaris_0003",
+      "36_Acne_Vulgaris_0004",
+      "36_Acne_Vulgaris_0005",
+      "36_Acne_Vulgaris_0006",
+      "36_Acne_Vulgaris_0007",
+      "36_Acne_Vulgaris_0008",
+      "36_Acne_Vulgaris_0009",
+      "36_Acne_Vulgaris_0010",
+      "36_Acne_Vulgaris_0011",
+      "36_Acne_Vulgaris_0012"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "51_Nutritional_Diseases_0009",
+      "top1_chapter": "51 Nutritional Diseases",
+      "top1_snippet": "circumstances, the recommended average daily dietary intake for each micronutrient is measured in milligrams or even smaller quantities. This distinguishes micronutrients from macro- nutrients (carbohydrates, fats, prote..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.1,
+      "top1_chunk_id": "36_Acne_Vulgaris_0031",
+      "top1_chapter": "36 Acne Vulgaris",
+      "top1_snippet": "include topical agents (azelaic acid, clindamycin, erythromycin), oral antibiotics (azithromycin, cephalexin), and intralesional triamcinolone. BPO, benzoyl peroxide. Acne Vulgaris creams, lotions, foams, solutions, and ..."
+    }
+  },
+  {
+    "year": "2024_09",
+    "q_num": 23,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        884
+      ],
+      "table_or_figure": true,
+      "raw": "בולוניה884   טבלה56.4"
+    },
+    "hebrew_query": "?ו בקרטיןנאי טינבאיזו מהמחלות הבאות הפגם הג\nא: ICHTHYOSIS HYSTRIX CURTH–MACKLIN\nב: PACHYONYCHIA CONGENITA\nג: DOWLING−DEGOS DISEASE\nד: SEVERE DERMATITIS, ALLERGIES & METABOLIC WASTING (SAM)\n8/44\n ­ חלק יחיד25.09.2024 09:00 ­  ­ מחלות עור ומין118",
+    "english_query": "In which of the following diseases is the underlying defect in a keratin gene?\nA: Ichthyosis hystrix, Curth-Macklin type\nB: Pachyonychia congenita\nC: Dowling-Degos disease\nD: Severe dermatitis, multiple allergies, and metabolic wasting (SAM) syndrome",
+    "gold_chunk_ids": [
+      "55_Genetic_Basis_of_Cutaneous_Diseases_0028",
+      "56_Biology_of_Keratinocytes_0000",
+      "56_Biology_of_Keratinocytes_0001",
+      "56_Biology_of_Keratinocytes_0002",
+      "56_Biology_of_Keratinocytes_0003",
+      "56_Biology_of_Keratinocytes_0004",
+      "56_Biology_of_Keratinocytes_0005",
+      "56_Biology_of_Keratinocytes_0006",
+      "56_Biology_of_Keratinocytes_0007",
+      "56_Biology_of_Keratinocytes_0008"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "57_Ichthyoses,_Erythrokeratodermas,_and__0026",
+      "top1_chapter": "57 Ichthyoses, Erythrokeratodermas, and Related Disorders",
+      "top1_snippet": ". The resulting mutant keratin protein is often extended and has an arginine-rich carboxy terminus. This leads to varying degrees of mislocalization of KIFs to the nucleus instead of the cytoplasm. Each island of normal ..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.14285714285714285,
+      "top1_chunk_id": "57_Ichthyoses,_Erythrokeratodermas,_and__0026",
+      "top1_chapter": "57 Ichthyoses, Erythrokeratodermas, and Related Disorders",
+      "top1_snippet": ". The resulting mutant keratin protein is often extended and has an arginine-rich carboxy terminus. This leads to varying degrees of mislocalization of KIFs to the nucleus instead of the cytoplasm. Each island of normal ..."
+    }
+  },
+  {
+    "year": "2024_09",
+    "q_num": 29,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        2251,
+        2252,
+        2253
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה2251-2253"
+    },
+    "hebrew_query": "?IL-17 וגדותנ כון בהתייחס לתרופותנ מה מהבאים\nא: .אסור לתת לחולים עם אי ספיקת לב\nב: .פוצהנ אסור לתת לחולים עם טרשת\nד: ידה מהווה תופעת לוואי של הטיפולנזיהום בק\nד.\n.טיפול הבחירה בחולים הסובלים גם ממחלת מעי דלקתית",
+    "english_query": "Regarding IL-17 inhibitor drugs, which of the following is correct?\nA: Contraindicated in patients with heart failure.\nB: Contraindicated in patients with multiple sclerosis.\nC: Candida infection is a side effect of the treatment.\nD: Treatment of choice in patients who also suffer from inflammatory bowel disease.",
+    "gold_chunk_ids": [
+      "127_Antimicrobial_Drugs_0006",
+      "127_Antimicrobial_Drugs_0007",
+      "127_Antimicrobial_Drugs_0008",
+      "127_Antimicrobial_Drugs_0009",
+      "127_Antimicrobial_Drugs_0010",
+      "127_Antimicrobial_Drugs_0011",
+      "127_Antimicrobial_Drugs_0012",
+      "127_Antimicrobial_Drugs_0013",
+      "127_Antimicrobial_Drugs_0014",
+      "127_Antimicrobial_Drugs_0015",
+      "127_Antimicrobial_Drugs_0016",
+      "127_Antimicrobial_Drugs_0017",
+      "127_Antimicrobial_Drugs_0018",
+      "127_Antimicrobial_Drugs_0019",
+      "127_Antimicrobial_Drugs_0020",
+      "127_Antimicrobial_Drugs_0021",
+      "127_Antimicrobial_Drugs_0022",
+      "127_Antimicrobial_Drugs_0023",
+      "127_Antimicrobial_Drugs_0024"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "128_Systemic_Immunomodulators_0024",
+      "top1_chapter": "128 Systemic Immunomodulators",
+      "top1_snippet": "particular agent or components of its formu- lation. These medications should be used with caution in patients with chronic/recurrent infections or inflammatory bowel disease, with Crohn disease representing a contraindi..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.3333333333333333,
+      "top1_chunk_id": "128_Systemic_Immunomodulators_0024",
+      "top1_chapter": "128 Systemic Immunomodulators",
+      "top1_snippet": "particular agent or components of its formu- lation. These medications should be used with caution in patients with chronic/recurrent infections or inflammatory bowel disease, with Crohn disease representing a contraindi..."
+    }
+  },
+  {
+    "year": "2024_09",
+    "q_num": 57,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        209
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה209"
+    },
+    "hebrew_query": "?בעולם המערביATOPIC DERMATITIS  אפידמיולוגיה של-כון בהתייחס לנ מה מהבאים\nא: . מהילדים10%-30% -מתרחשת ב\nב: . מהמתבגרים10%-30% -מתרחשת ב\nג: .יםנ ש12 סים להפוגה עד גילנכנ  מהילדים90% -כ\nד: .יםנ ש5 י גילנ מהילדים המחלה מתחילה לפ50% -ב",
+    "english_query": "Regarding the epidemiology of Atopic Dermatitis in the Western world, which of the following is correct?\nA: It occurs in 10%-30% of children.\nB: It occurs in 10%-30% of adolescents.\nC: About 90% of children achieve remission by age 12 years.\nD: In 50% of children, the disease begins before age 5 years.",
+    "gold_chunk_ids": [
+      "11_Lichen_Planus_and_Lichenoid_Dermatose_0050",
+      "11_Lichen_Planus_and_Lichenoid_Dermatose_0051",
+      "12_Atopic_Dermatitis_0000",
+      "12_Atopic_Dermatitis_0001",
+      "12_Atopic_Dermatitis_0002",
+      "12_Atopic_Dermatitis_0003",
+      "12_Atopic_Dermatitis_0004",
+      "12_Atopic_Dermatitis_0005",
+      "12_Atopic_Dermatitis_0006",
+      "12_Atopic_Dermatitis_0007"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "77_Fungal_Diseases_0010",
+      "top1_chapter": "77 Fungal Diseases",
+      "top1_snippet": "macerated skin encourage dermatophyte invasion, and increased susceptibility related to immunologic factors may be inherited. Once dermatophytes invade and begin to proliferate in the skin, several mechanisms aid in limi..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 1.0,
+      "top1_chunk_id": "12_Atopic_Dermatitis_0002",
+      "top1_chapter": "12 Atopic Dermatitis",
+      "top1_snippet": "of AD. In 1994, Williams and co-workers 6 simplified Hanifin and Rajka’s criteria to establish the UK Working Party’s Diagnostic Criteria for AD, which were validated for the purpose of clinical studies; these criteria w..."
+    }
+  },
+  {
+    "year": "2024_09",
+    "q_num": 59,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        367
+      ],
+      "table_or_figure": true,
+      "raw": "בולוניה367   טבלה21.16"
+    },
+    "hebrew_query": "ים והיפרקרטוזיס בכפות הידיים\nא: TRAMETINIB- MEK INHIBITOR\nב: DABRAFENIB- BRAF INHIBITOR\nג: CETUXIMAB- EGFR INHIBITOR\nד: IMATINIB- TYROSINE KINASE INHIBITOR\n22/44\n ­ חלק יחיד25.09.2024 09:00 ­  ­ מחלות עור ומין118",
+    "english_query": "...and hyperkeratosis of the palms [which drug is most likely responsible for this side effect?]\nA: Trametinib – MEK inhibitor\nB: Dabrafenib – BRAF inhibitor\nC: Cetuximab – EGFR inhibitor\nD: Imatinib – Tyrosine kinase inhibitor",
+    "gold_chunk_ids": [
+      "21_Drug_Reactions_0031",
+      "21_Drug_Reactions_0032",
+      "21_Drug_Reactions_0033",
+      "21_Drug_Reactions_0034",
+      "21_Drug_Reactions_0035",
+      "21_Drug_Reactions_0036",
+      "21_Drug_Reactions_0037",
+      "21_Drug_Reactions_0038",
+      "21_Drug_Reactions_0039",
+      "21_Drug_Reactions_0040",
+      "21_Drug_Reactions_0041"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "128_Systemic_Immunomodulators_0044",
+      "top1_chapter": "128 Systemic Immunomodulators",
+      "top1_snippet": "CD20 Multiple sclerosis Tyrosine kinase inhibitors (see Table 21.16 ) Abemaciclib (Verzenio) CDK4/6 Advanced/metastatic breast cancer Acalabrutinib (Calquence) Bruton tyrosine kinase Mantle cell lymphoma Adagrasib (Kraza..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.25,
+      "top1_chunk_id": "131_Drug_Interactions_0028",
+      "top1_chapter": "131 Drug Interactions",
+      "top1_snippet": "kinase inhibitors have been used to treat inflammatory skin disorders including psoriasis and atopic dermatitis. With regard to drug–drug interactions, the most relevant kinase inhib- itors for dermatologists are BRAF/ME..."
+    }
+  },
+  {
+    "year": "2024_09",
+    "q_num": 61,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        618
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה618"
+    },
+    "hebrew_query": "ער, יומיים לאחר רחצהנ פפולות פוליקולריות בצקתיות ופוסטולות מגרדות הופיעו בצידי הגו של\n.ער ממאירות המטולוגיתנה(. לנבג'קוזי )ראו תמו\n?מהו הטיפול האמפירי המתאים ביותר\nא: VALCYCLOVIR 500MGX3/DAY 5 DAYS\nב: CIPROFLOXACIN 500MGX2/DAY 7 DAYS\nג: CEFORAL 1GRX2/DAY 7 DAYS\nד: TERBINAFINE 250MG/DAY 28 DAYS",
+    "english_query": "A young man, two days after bathing [in a jacuzzi], developed itchy edematous follicular papules and pustules on the sides of the trunk (see image). Suggestive of 'Jacuzzi folliculitis' (Pseudomonas folliculitis) in a patient with a hematologic malignancy. What is the most appropriate empiric treatment? a) Valacyclovir 500mg x3/day for 5 days b) Ciprofloxacin 500mg x2/day for 7 days c) Cefadroxil (Ceforal) 1g x2/day for 7 days d) Terbinafine 250mg/day for 28 days",
+    "gold_chunk_ids": [
+      "37_Rosacea_and_Related_Disorders_0014",
+      "37_Rosacea_and_Related_Disorders_0015",
+      "37_Rosacea_and_Related_Disorders_0016",
+      "37_Rosacea_and_Related_Disorders_0017",
+      "37_Rosacea_and_Related_Disorders_0018",
+      "37_Rosacea_and_Related_Disorders_0019",
+      "37_Rosacea_and_Related_Disorders_0020",
+      "37_Rosacea_and_Related_Disorders_0021"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "80_Human_Herpesviruses_0021",
+      "top1_chapter": "80 Human Herpesviruses",
+      "top1_snippet": "days or 125 mg po BID × 5 days Valacyclovir: 500 mg po BID × 3 days or 1 g po daily × 5 days Chronic suppression Acyclovir: 400 mg po BID Famciclovir: 250 mg po BID Valacyclovir: 500 mg po daily for < 10 outbreaks/year o..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.1,
+      "top1_chunk_id": "38_Folliculitis,_Follicular_Occlusion_Te_0040",
+      "top1_chapter": "38 Folliculitis, Follicular Occlusion Tetrad, and Other Follicular Disorders",
+      "top1_snippet": "clindamycin + rifampin, there was no significant difference in efficacy 74a . is a weight-tiered dosing regimen for adolescents (12 years and older, weighing at least 30 kg). long-term therapeutic option. inhibitors 81a,..."
+    }
+  },
+  {
+    "year": "2024_09",
+    "q_num": 78,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        149
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה149"
+    },
+    "hebrew_query": "?לווית בפסוריאזיסנ וגע לתחלואהנכון בנ מה מהבאים\nא: .י שכיח בפסוריאזיסנזיהום חיידקי מש\nב: .ייםנ בציפורDERMATOPHYTES מוכה שלנ שכיחות\nג: .BLACK HAIRY TONGUE שכיחות מוגברת של\nד: PSORIASIS INVERSA -י שכיח בנדידיאלי משנזיהום ק",
+    "english_query": "Regarding psoriasis and associated conditions/comorbidities, which of the following is correct?\nA: Secondary bacterial infection is common in psoriasis.\nB: There is a decreased incidence of dermatophyte infection of the nails (in psoriasis).\nC: There is an increased incidence of black hairy tongue (in psoriasis).\nD: Secondary candidal infection is common in inverse psoriasis.",
+    "gold_chunk_ids": [
+      "8_Psoriasis_0025",
+      "8_Psoriasis_0026",
+      "8_Psoriasis_0027",
+      "8_Psoriasis_0028",
+      "8_Psoriasis_0029",
+      "8_Psoriasis_0030",
+      "8_Psoriasis_0031",
+      "8_Psoriasis_0032",
+      "8_Psoriasis_0033",
+      "8_Psoriasis_0034",
+      "8_Psoriasis_0035",
+      "8_Psoriasis_0036",
+      "8_Psoriasis_0037",
+      "8_Psoriasis_0038",
+      "8_Psoriasis_0039",
+      "8_Psoriasis_0040"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "47_Amyloidosis_0022",
+      "top1_chapter": "47 Amyloidosis",
+      "top1_snippet": "Courtesy Jennifer McNiff, MD . eFig. 47.10 Primary systemic AL amyloi- dosis. A Macroglossia with dental impres- sions on the tongue. B Papulonodules of the tongue; some are purpuric while others are translucent with a y..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.3333333333333333,
+      "top1_chunk_id": "8_Psoriasis_0023",
+      "top1_chapter": "8 Psoriasis",
+      "top1_snippet": "only sites of involvement, the term “inverse” psoriasis is sometimes used. Localized dermatophyte, candidal, or bacterial infec- tions can be a trigger for flexural psoriasis. Oral mucosa Migratory annular erythematous l..."
+    }
+  },
+  {
+    "year": "2024_09",
+    "q_num": 79,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        1984
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה1984"
+    },
+    "hebrew_query": "?מה מהבאים מחייב כריתה\nא: .וינבוס כחול בגב היד, שלא עבר שינ\nב: .בוס שחזר אחרי ביופסיית גילוח, ועבר את גבול הצלקתנ\nג: .טציהנבוס בעל הילה של דפיגמנ\nד: .יטלי בעל גוון בלתי אחידנגנבוס קונ\n33/44\n ­ חלק יחיד25.09.2024 09:00 ­  ­ מחלות עור ומין118",
+    "english_query": "Which of the following requires excision?\nA: A blue nevus on the dorsum of the hand that has not changed.\nB: A nevus that recurred after a shave biopsy and extended beyond the border of the scar.\nC: A nevus with a halo of depigmentation (halo nevus).\nD: A congenital nevus with non-uniform coloration.",
+    "gold_chunk_ids": [
+      "112_Benign_Melanocytic_Neoplasms_and_Mel_0026",
+      "112_Benign_Melanocytic_Neoplasms_and_Mel_0027",
+      "112_Benign_Melanocytic_Neoplasms_and_Mel_0028",
+      "112_Benign_Melanocytic_Neoplasms_and_Mel_0029",
+      "112_Benign_Melanocytic_Neoplasms_and_Mel_0030",
+      "112_Benign_Melanocytic_Neoplasms_and_Mel_0031",
+      "112_Benign_Melanocytic_Neoplasms_and_Mel_0032",
+      "112_Benign_Melanocytic_Neoplasms_and_Mel_0033",
+      "112_Benign_Melanocytic_Neoplasms_and_Mel_0034",
+      "112_Benign_Melanocytic_Neoplasms_and_Mel_0035",
+      "112_Benign_Melanocytic_Neoplasms_and_Mel_0036",
+      "112_Benign_Melanocytic_Neoplasms_and_Mel_0037",
+      "112_Benign_Melanocytic_Neoplasms_and_Mel_0038"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "20_Erythema_Multiforme,_Stevens–Johnson__0028",
+      "top1_chapter": "20 Erythema Multiforme, Stevens–Johnson Syndrome, and Toxic Epidermal Necrolysis",
+      "top1_snippet": "persistent erosions of the mucous membranes, urethral stenosis, phimosis, vaginal synechiae and stenosis with dyspareunia or hemato­ colpos, nail dystrophy, and diffuse hair loss ( Fig. 20.12 ). These can often be minimi..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 1.0,
+      "top1_chunk_id": "112_Benign_Melanocytic_Neoplasms_and_Mel_0027",
+      "top1_chapter": "112 Benign Melanocytic Neoplasms and Melanotic Lesions",
+      "top1_snippet": "45 years of age. MBNs are often aggressive, with frequent metastasis to regional lymph nodes and the liver. In addition to the GNAQ or GNA11 mutations in blue nevi, MBN often show additional genomic aberra- tions in BAP1..."
+    }
+  },
+  {
+    "year": "2024_09",
+    "q_num": 96,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        930
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה930"
+    },
+    "hebrew_query": ".ה בגלל יובש עורי, עור מעובה בכפות רגליים\nא: ימו חרשת וגם אצלו פגיעה בשמיעהנ, פ40 בן\n?מה החלבון הפגוע\nא.\nCONNEXIN 26\nב: CATHEPSIN C\nג: DESMOGLEIN 1\nד: LORICRIN",
+    "english_query": "A 40-year-old patient presents with dry skin and thickened skin (keratoderma) on the soles of the feet, and also has hearing impairment (deafness). Which protein is affected?\nA. Connexin 26\nB. Cathepsin C\nC. Desmoglein 1\nD. Loricrin",
+    "gold_chunk_ids": [
+      "57_Ichthyoses,_Erythrokeratodermas,_and__0081",
+      "58_Palmoplantar_Keratodermas_0000",
+      "58_Palmoplantar_Keratodermas_0001",
+      "58_Palmoplantar_Keratodermas_0002"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "29_Pemphigus_0006",
+      "top1_chapter": "29 Pemphigus",
+      "top1_snippet": "network ( Fig. 29.3 ). As a consequence of these interactions, cadherins produce strong cellular adhesion and morphologic changes in the cells. Cadherin molecules form dimers as their functional unit, with the dis- tal e..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.1,
+      "top1_chunk_id": "58_Palmoplantar_Keratodermas_0016",
+      "top1_chapter": "58 Palmoplantar Keratodermas",
+      "top1_snippet": "Cicatrizing kerato- derma with hearing impairment  Keratoderma with sensorineural deafness  Vohwinkel syndrome with deafness Vohwinkel syndrome is autosomal dominantly inherited and caused by mutations in the gap junct..."
+    }
+  },
+  {
+    "year": "2024_09",
+    "q_num": 99,
+    "reference": {
+      "book": "bolognia",
+      "chapter": null,
+      "pages": [
+        329,
+        330
+      ],
+      "table_or_figure": false,
+      "raw": "בולוניה329-330"
+    },
+    "hebrew_query": ":הנתה בשל הפריחה המוצגת בתמונים. פנ ש74 בת\n?מה מחלת הרקע הסבירה ביותר של החולה\nא: BREAST CARCINOMA\nב: SUBACUTE CUTANEOUS LUPUS ERYTHEMATOSUS\nג: GLUCAGONOMA\nד: LYME DISEASE",
+    "english_query": "A 74-year-old woman presented due to the rash shown in the images. What is the patient's most likely underlying disease? A: Breast carcinoma. B: Subacute cutaneous lupus erythematosus. C: Glucagonoma. D: Lyme disease.",
+    "gold_chunk_ids": [
+      "19_Figurate_Erythemas_0000",
+      "19_Figurate_Erythemas_0001",
+      "19_Figurate_Erythemas_0002",
+      "19_Figurate_Erythemas_0003",
+      "19_Figurate_Erythemas_0004",
+      "19_Figurate_Erythemas_0005",
+      "19_Figurate_Erythemas_0006",
+      "19_Figurate_Erythemas_0007",
+      "19_Figurate_Erythemas_0008",
+      "19_Figurate_Erythemas_0009",
+      "19_Figurate_Erythemas_0010",
+      "19_Figurate_Erythemas_0011",
+      "19_Figurate_Erythemas_0012",
+      "19_Figurate_Erythemas_0013",
+      "19_Figurate_Erythemas_0014",
+      "19_Figurate_Erythemas_0015",
+      "19_Figurate_Erythemas_0016"
+    ],
+    "hebrew_result": {
+      "hit_at_10": false,
+      "mrr": 0.0,
+      "top1_chunk_id": "25_Neutrophilic_Dermatoses_0013",
+      "top1_chapter": "25 Neutrophilic Dermatoses",
+      "top1_snippet": "urticaria (e.g. Schnitzler syndrome) • Autoinflammatory diseases (see Tables 45.6 & 45.7 ) • Periodic fever syndromes (see Table 45.2 ) • Erythema multiforme • Urticarial vasculitis • Erythema elevatum diutinum • Behçet ..."
+    },
+    "english_result": {
+      "hit_at_10": true,
+      "mrr": 0.125,
+      "top1_chunk_id": "53_Dermatologic_Manifestations_in_Patien_0010",
+      "top1_chapter": "53 Dermatologic Manifestations in Patients with Systemic Disease",
+      "top1_snippet": "~25%–30% of adult patients 11a Mycosis fungoides Patch, plaque, or nodular disease (see Ch. 120 ) Increased risk of second malignancies: other lymphomas >> leukemia or solid organ malignancies Pancreatic panniculitis Sub..."
+    }
+  }
+]

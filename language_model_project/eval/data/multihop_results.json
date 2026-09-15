@@ -1,0 +1,26 @@
+{
+  "multi_hop__hebrew_raw": {
+    "n": 23,
+    "n_ungraded": 0,
+    "hit_at_1": 0.087,
+    "mrr_at_10": 0.1348
+  },
+  "multi_hop__english_claude": {
+    "n": 23,
+    "n_ungraded": 0,
+    "hit_at_1": 0.1739,
+    "mrr_at_10": 0.2225
+  },
+  "single_location__hebrew_raw": {
+    "n": 494,
+    "n_ungraded": 0,
+    "hit_at_1": 0.0283,
+    "mrr_at_10": 0.0465
+  },
+  "single_location__english_claude": {
+    "n": 493,
+    "n_ungraded": 0,
+    "hit_at_1": 0.0304,
+    "mrr_at_10": 0.0527
+  }
+}

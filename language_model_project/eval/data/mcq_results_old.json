@@ -1,0 +1,2897 @@
+{
+  "D": {
+    "metrics": {
+      "n": 258,
+      "accuracy": 0.7209302325581395,
+      "n_unparseable": 2,
+      "by_bucket": {
+        "text_answerable": {
+          "n": 211,
+          "accuracy": 0.7535545023696683
+        },
+        "image_dependent": {
+          "n": 47,
+          "accuracy": 0.574468085106383
+        }
+      },
+      "macro_f1_single_answer": 0.7213421425580447,
+      "position_bias": {
+        "א": {
+          "precision": 0.8125,
+          "recall": 0.7027027027027027,
+          "f1": 0.7536231884057971,
+          "n_predicted": 64,
+          "n_correct": 74
+        },
+        "ב": {
+          "precision": 0.7066666666666667,
+          "recall": 0.7162162162162162,
+          "f1": 0.7114093959731544,
+          "n_predicted": 75,
+          "n_correct": 74
+        },
+        "ג": {
+          "precision": 0.6764705882352942,
+          "recall": 0.7419354838709677,
+          "f1": 0.7076923076923077,
+          "n_predicted": 68,
+          "n_correct": 62
+        },
+        "ד": {
+          "precision": 0.6888888888888889,
+          "recall": 0.7380952380952381,
+          "f1": 0.7126436781609196,
+          "n_predicted": 45,
+          "n_correct": 42
+        }
+      }
+    },
+    "records": [
+      {
+        "year": "2025",
+        "q_num": 1,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 2,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 3,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 4,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 5,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 6,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 7,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 9,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 11,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 12,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 13,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 14,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 15,
+        "bucket": "image_dependent",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 16,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 17,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 18,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 19,
+        "bucket": "image_dependent",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 21,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 22,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 23,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 24,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 25,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 27,
+        "bucket": "image_dependent",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 29,
+        "bucket": "text_answerable",
+        "correct": [
+          "א",
+          "ב",
+          "ג",
+          "ד"
+        ],
+        "has_multi_answer": true,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 30,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 32,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 34,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 35,
+        "bucket": "text_answerable",
+        "correct": [
+          "א",
+          "ב"
+        ],
+        "has_multi_answer": true,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 36,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 37,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 38,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 40,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 42,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 43,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 44,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 45,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 46,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 48,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 49,
+        "bucket": "image_dependent",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 50,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 51,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 52,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": null,
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 53,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 54,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 55,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 56,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 57,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 59,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 60,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 61,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 65,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 67,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 68,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 69,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 70,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 71,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 72,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 73,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 74,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 75,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 76,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 78,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 79,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 80,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 81,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 83,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 84,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 85,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 86,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 87,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 88,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 89,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 90,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 91,
+        "bucket": "image_dependent",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 92,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 93,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 95,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 96,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 97,
+        "bucket": "image_dependent",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 98,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 99,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 102,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 103,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 104,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 105,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 106,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 108,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 109,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": null,
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 110,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 111,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 112,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 113,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 114,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 115,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 116,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 119,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 120,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 122,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 123,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 124,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 125,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 126,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 127,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 129,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 130,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 131,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 132,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 133,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 134,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 135,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 137,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 138,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 139,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 140,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 141,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 142,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 145,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 146,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 148,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 149,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2025",
+        "q_num": 150,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 1,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 3,
+        "bucket": "image_dependent",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 4,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 5,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 7,
+        "bucket": "image_dependent",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 8,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 9,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 10,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 11,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 12,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 13,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 14,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 15,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 16,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב",
+          "ג"
+        ],
+        "has_multi_answer": true,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 18,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 19,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 20,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 21,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 22,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 23,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 24,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 25,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 26,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 29,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 30,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 31,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 32,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 35,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 36,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 37,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 38,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 39,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 41,
+        "bucket": "image_dependent",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 42,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 43,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 44,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 45,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 46,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 47,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 48,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 49,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 50,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 51,
+        "bucket": "image_dependent",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 52,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 53,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 54,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 55,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 56,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 57,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 58,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 59,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 60,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 61,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 62,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 63,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 64,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 65,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 66,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 67,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 68,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 69,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 70,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 72,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 73,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 74,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 75,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 76,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 77,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 78,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 79,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 80,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 81,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 82,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 83,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 84,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 85,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 86,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 87,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 88,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 89,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 90,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 91,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 92,
+        "bucket": "image_dependent",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 93,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 94,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 95,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 96,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 97,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 98,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 99,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 100,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 101,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 102,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 103,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 104,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 105,
+        "bucket": "image_dependent",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 106,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 107,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 108,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 110,
+        "bucket": "image_dependent",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 111,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 112,
+        "bucket": "text_answerable",
+        "correct": [
+          "א",
+          "ג"
+        ],
+        "has_multi_answer": true,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 113,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 114,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 115,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 116,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 117,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 118,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 119,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 120,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 121,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 122,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 124,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 125,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 126,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 127,
+        "bucket": "image_dependent",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 128,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 129,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 130,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 131,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 132,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 133,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 134,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 135,
+        "bucket": "text_answerable",
+        "correct": [
+          "ג"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 136,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 137,
+        "bucket": "image_dependent",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 139,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 140,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 141,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 142,
+        "bucket": "text_answerable",
+        "correct": [
+          "ב"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 143,
+        "bucket": "image_dependent",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 144,
+        "bucket": "image_dependent",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 145,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 146,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ב",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 147,
+        "bucket": "text_answerable",
+        "correct": [
+          "ד"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ד",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 148,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "ג",
+        "option_scores": null
+      },
+      {
+        "year": "2026",
+        "q_num": 149,
+        "bucket": "text_answerable",
+        "correct": [
+          "א"
+        ],
+        "has_multi_answer": false,
+        "predicted": "א",
+        "option_scores": null
+      }
+    ],
+    "adapter": null
+  }
+}

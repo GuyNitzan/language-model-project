@@ -1,0 +1,2576 @@
+{
+  "2025::2": {
+    "stem_en": "Which keratin is defective in Dowling-Degos disease?",
+    "options_en": {
+      "א": "Keratin 14.",
+      "ב": "Keratin 10.",
+      "ג": "Keratin 5.",
+      "ד": "Keratin 2."
+    }
+  },
+  "2025::1": {
+    "stem_en": "Which of the following diseases is caused by a mutation in the DESMOPLAKIN gene?",
+    "options_en": {
+      "א": "Lamellar ichthyosis",
+      "ב": "Epidermolysis bullosa with pyloric atresia",
+      "ג": "Carvajal syndrome",
+      "ד": "Ichthyosis vulgaris"
+    }
+  },
+  "2025::4": {
+    "stem_en": "Which of the following characterizes focal palmoplantar non-syndromic keratoderma?",
+    "options_en": {
+      "א": "Itchy (pruritic) lesions.",
+      "ב": "It develops during adolescence.",
+      "ג": "Hyperhidrosis.",
+      "ד": "Severe involvement of the nails."
+    }
+  },
+  "2025::5": {
+    "stem_en": "An 18-year-old presents with the appearance shown in the image:\n\nA histological image is also attached:\n\nWhich of the following is correct regarding his disease?",
+    "options_en": {
+      "א": "There is impairment in intracellular Ca+2 signaling.",
+      "ב": "The defective gene is ABCA12.",
+      "ג": "It is inherited in an autosomal recessive manner.",
+      "ד": "The male-to-female ratio in disease incidence is 3:1."
+    }
+  },
+  "2025::7": {
+    "stem_en": "Which of the following is a characteristic finding of Neurofibromatosis Type 1?",
+    "options_en": {
+      "א": "Nevus anemicus.",
+      "ב": "Microcephaly.",
+      "ג": "Aortic stenosis.",
+      "ד": "Keratoconus."
+    }
+  },
+  "2025::3": {
+    "stem_en": "A newborn born at 36 weeks' gestation is shown in the image. Genetic (molecular) testing later revealed a mutation in the ALOX12B gene. Which of the following characterizes this disease?",
+    "options_en": {
+      "א": "In about 50% of cases, palmoplantar keratoderma is expected to develop.",
+      "ב": "The condition is expected to resolve completely during childhood.",
+      "ג": "This is a disease with X-linked recessive inheritance.",
+      "ד": "The disease is accompanied by cardiac involvement in most cases."
+    }
+  },
+  "2025::13": {
+    "stem_en": "Which of the following is a pseudocyst?",
+    "options_en": {
+      "א": "Hydrocystoma",
+      "ב": "Digital mucous cyst",
+      "ג": "Steatocystoma",
+      "ד": "Proliferating trichilemmal cyst"
+    }
+  },
+  "2025::9": {
+    "stem_en": "A 60-year-old man presents due to an asymptomatic rash shown in the image below. In addition, a histological image is shown of a plaque on the upper eyelid. Which of the following tests would help confirm the diagnosis?",
+    "options_en": {
+      "א": "Blood lipid levels (HDL, LDL).",
+      "ב": "Immunoglobulins and protein electrophoresis.",
+      "ג": "TSH.",
+      "ד": "Glycated hemoglobin (HbA1c) levels."
+    }
+  },
+  "2025::15": {
+    "stem_en": "In which of the following diagnoses can the blood vessels described in the dermoscopic image below classically be found?",
+    "options_en": {
+      "א": "Basal cell carcinoma",
+      "ב": "Sebaceous hyperplasia",
+      "ג": "Clear cell acanthoma",
+      "ד": "Bowen's disease"
+    }
+  },
+  "2025::14": {
+    "stem_en": "Which of the following is correct regarding SYRINGOMA?",
+    "options_en": {
+      "א": "It usually presents as a single lesion.",
+      "ב": "ERUPTIVE SYRINGOMA usually appears on the trunk.",
+      "ג": "There is an increased incidence in patients with COWDEN SYNDROME.",
+      "ד": "Surgical removal should be recommended to prevent development into BCC."
+    }
+  },
+  "2025::17": {
+    "stem_en": "What is associated with anti-Mi-2 antibodies in dermatomyositis?",
+    "options_en": {
+      "א": "Amyopathic dermatomyositis.",
+      "ב": "Good response to treatment.",
+      "ג": "Cardiac involvement.",
+      "ד": "High incidence of malignancy."
+    }
+  },
+  "2025::16": {
+    "stem_en": "How long does it take for the epidermis to completely renew itself in an adult over the age of 50?",
+    "options_en": {
+      "א": "One to two weeks.",
+      "ב": "More than 3 months.",
+      "ג": "One to two months.",
+      "ד": "Less than a week."
+    }
+  },
+  "2025::18": {
+    "stem_en": "Which form of cutaneous lupus is particularly characterized by thickening of the basement membrane?",
+    "options_en": {
+      "א": "Acute cutaneous lupus erythematosus",
+      "ב": "Subacute cutaneous lupus erythematosus",
+      "ג": "Discoid lupus erythematosus",
+      "ד": "Lupus erythematosus tumidus"
+    }
+  },
+  "2025::19": {
+    "stem_en": "Which gene is associated with the development of the cutaneous finding of lupus shown in the image?",
+    "options_en": {
+      "א": "TGM1 (Transglutaminase 1)",
+      "ב": "ATP2A2",
+      "ג": "COL7A1",
+      "ד": "TREX1"
+    }
+  },
+  "2025::20": {
+    "stem_en": "Which of the following autoantibodies is associated with a poor prognosis in scleroderma?",
+    "options_en": {
+      "א": "",
+      "ב": "",
+      "ג": "",
+      "ד": ""
+    }
+  },
+  "2025::23": {
+    "stem_en": "Which of the following hereditary periodic fever syndromes is cryopyrin-associated?",
+    "options_en": {
+      "א": "FMF (Familial Mediterranean Fever).",
+      "ב": "Hypergammaglobulinemia D with periodic fever syndrome.",
+      "ג": "MWS (Muckle-Wells Syndrome).",
+      "ד": "TRAPS (TNF Receptor-Associated Periodic Syndrome)."
+    }
+  },
+  "2025::22": {
+    "stem_en": "Which of the following is a more common site for extragenital lichen sclerosus?",
+    "options_en": {
+      "א": "Scalp",
+      "ב": "Periorbital area",
+      "ג": "Shoulders",
+      "ד": "Ankles"
+    }
+  },
+  "2025::25": {
+    "stem_en": "Which of the following markers stains both blood vessels and lymphatic vessels?",
+    "options_en": {
+      "א": "CD31",
+      "ב": "PROX1",
+      "ג": "Podoplanin",
+      "ד": "Von Willebrand factor"
+    }
+  },
+  "2025::24": {
+    "stem_en": "Which location of a congenital dermoid cyst is associated with the highest risk of intracranial extension?",
+    "options_en": {
+      "א": "Temple.",
+      "ב": "Angle of the mouth.",
+      "ג": "Nose.",
+      "ד": "Ear."
+    }
+  },
+  "2025::21": {
+    "stem_en": "Which of the following features is included in H syndrome?",
+    "options_en": {
+      "א": "Hearing loss.",
+      "ב": "Tall stature.",
+      "ג": "Hypopigmentation.",
+      "ד": "Hair loss."
+    }
+  },
+  "2025::28": {
+    "stem_en": "What is the correct sequence of the stages of wound healing?",
+    "options_en": {
+      "א": "",
+      "ב": "",
+      "ג": "",
+      "ד": ""
+    }
+  },
+  "2025::29": {
+    "stem_en": "Which type of tumor has the highest cure rate after removal by Mohs surgery?",
+    "options_en": {
+      "א": "Merkel cell carcinoma.",
+      "ב": "Dermatofibrosarcoma protuberans.",
+      "ג": "Microcystic adnexal carcinoma.",
+      "ד": "Sebaceous carcinoma."
+    }
+  },
+  "2025::27": {
+    "stem_en": "Based on the skin findings shown in the image of this infant, which additional skin finding would you expect to find in this infant, from among those listed below?",
+    "options_en": {
+      "א": "Epidermal nevus",
+      "ב": "Nevus spilus",
+      "ג": "Nevus anemicus",
+      "ד": "Nevus sebaceus"
+    }
+  },
+  "2025::30": {
+    "stem_en": "Which of the following substances is used in the process of permanent waving?",
+    "options_en": {
+      "א": "Monoethanolamine.",
+      "ב": "Guanidine hydroxide.",
+      "ג": "Aminophenols.",
+      "ד": "Sodium thioglycolate."
+    }
+  },
+  "2025::32": {
+    "stem_en": "Which of the following is approved for the treatment of psoriasis in a child younger than 6 years?",
+    "options_en": {
+      "א": "Risankizumab.",
+      "ב": "Bimekizumab.",
+      "ג": "Guselkumab.",
+      "ד": "Adalimumab."
+    }
+  },
+  "2025::31": {
+    "stem_en": "Which of the following is LESS likely to be associated with Body-Focused Repetitive Behavior (BFRB)?",
+    "options_en": {
+      "א": "",
+      "ב": "",
+      "ג": "",
+      "ד": ""
+    }
+  },
+  "2025::37": {
+    "stem_en": "A 12-year-old boy suffers from recurrent sunburns and the appearance of erosions and blisters, mainly following minor trauma.",
+    "options_en": {
+      "א": "Poikiloderma.",
+      "ב": "Onset of symptoms during adolescence.",
+      "ג": "Mucosal involvement.",
+      "ד": "Squamous cell carcinoma."
+    }
+  },
+  "2025::38": {
+    "stem_en": "A 19-year-old male, an infantry recruit in basic training, has suffered for the past three weeks from the appearance of blisters on the soles of his feet, accompanied by pain, which heal within a week.",
+    "options_en": {
+      "א": "Allergic contact dermatitis.",
+      "ב": "Friction blister.",
+      "ג": "Epidermolysis bullosa simplex.",
+      "ד": "Peeling skin syndrome."
+    }
+  },
+  "2025::36": {
+    "stem_en": "Which of the following causes the development of blisters in dermatitis herpetiformis?",
+    "options_en": {
+      "א": "Complement binding to IgA anti-transglutaminase 2.",
+      "ב": "Neutrophil proteases.",
+      "ג": "Binding of anti-transglutaminase 3 antibodies to the basement membrane.",
+      "ד": "Eosinophilic basic protein."
+    }
+  },
+  "2025::35": {
+    "stem_en": "Which of the following is correct regarding MUCOUS MEMBRANE PEMPHIGOID?",
+    "options_en": {
+      "א": "Indirect immunofluorescence (IIF) performed on monkey esophagus is positive in 20-30% of patients.",
+      "ב": "Antibodies against integrin alpha 6 cause ocular mucous membrane pemphigoid (ocular MMP).",
+      "ג": "The most common antibody is directed against laminin 332.",
+      "ד": "Antibodies against collagen XVII bind to the dermal side on salt-split skin testing."
+    }
+  },
+  "2025::26": {
+    "stem_en": "Which of the following is correct regarding the lesion shown in the image, which appeared one week after birth and gradually grew larger?",
+    "options_en": {
+      "א": "It is common in newborns of young mothers.",
+      "ב": "It is more common in boys.",
+      "ג": "It stains negative for GLUT1 on immunohistochemistry.",
+      "ד": "Histology is characterized by a prominent basement membrane."
+    }
+  },
+  "2025::39": {
+    "stem_en": "Which of the following is correct regarding the clinical course of ERYTHEMA TOXICUM NEONATORUM?",
+    "options_en": {
+      "א": "",
+      "ב": "In about half of cases the rash is present at birth. The eruption is accompanied by severe itching.",
+      "ג": "It is more common among premature infants.",
+      "ד": "It classically presents on the face and trunk."
+    }
+  },
+  "2025::43": {
+    "stem_en": "A 66-year-old man has been suffering for 15 years from a widespread asymptomatic eruption (image 1).",
+    "options_en": {
+      "א": "Large cell transformation of mycosis fungoides.",
+      "ב": "Lymphomatoid papulosis, type C.",
+      "ג": "Cutaneous progression of systemic anaplastic large cell lymphoma.",
+      "ד": "Follicular B-cell lymphoma."
+    }
+  },
+  "2025::42": {
+    "stem_en": "A 35-year-old woman",
+    "options_en": {
+      "א": "The biopsy may demonstrate a vascular tumor with numerous mitoses.",
+      "ב": "There may be oxalate deposits within the blood vessels.",
+      "ג": "The biopsy may demonstrate a perivascular infiltrate with fibrinoid material in the vessel wall and nuclear dust (leukocytoclasia).",
+      "ד": "Narrowing of the arterial lumen diameter due to proliferation of the intimal layer."
+    }
+  },
+  "2025::46": {
+    "stem_en": "In which of the following stages does massive apoptosis of keratinocytes occur?",
+    "options_en": {
+      "א": "Anagen",
+      "ב": "Telogen",
+      "ג": "Exogen",
+      "ד": "Catagen"
+    }
+  },
+  "2025::44": {
+    "stem_en": "Which of the following is correct regarding NB-UVB treatment in psoriasis?",
+    "options_en": {
+      "א": "The clinical goal is to achieve mild erythema.",
+      "ב": "The initial dose is determined using MED (minimal erythema dose), and the radiation dose is increased in increments of 20-120 mJ/cm².",
+      "ג": "In the absence of erythema, the radiation dose should be increased by up to 50% once a week.",
+      "ד": "If painful erythema develops, treatment should be continued at the same dose."
+    }
+  },
+  "2025::47": {
+    "stem_en": "A 45-year-old woman. On examination, she presents as shown in the image with cicatricial (scarring) alopecia of the frontal scalp, with partial loss of the eyebrows and eyelashes. Which of the following is expected to be found on dermoscopic examination?",
+    "options_en": {
+      "א": "",
+      "ב": "",
+      "ג": "",
+      "ד": ""
+    }
+  },
+  "2025::49": {
+    "stem_en": "A 67-year-old man presents with the findings shown in the image. Which of the following medications is most likely to have caused this phenomenon?",
+    "options_en": {
+      "א": "Minocycline",
+      "ב": "Propranolol",
+      "ג": "Cetuximab",
+      "ד": "Lithium"
+    }
+  },
+  "2025::48": {
+    "stem_en": "A 27-year-old woman presents with hair growth (hirsutism/hypertrichosis) on the lower body and back.",
+    "options_en": {
+      "א": "X-linked hypertrichosis",
+      "ב": "Non-classical congenital adrenal hyperplasia",
+      "ג": "Porphyria cutanea tarda",
+      "ד": "Acquired localized hypertrichosis"
+    }
+  },
+  "2025::41": {
+    "stem_en": "A 63-year-old male... for some time... in remission. Which of the following is correct regarding his disease?",
+    "options_en": {
+      "א": "The most common age group affected is young women.",
+      "ב": "In about half of the cases, the condition resolves spontaneously within 10 years.",
+      "ג": "The most common action spectrum is UVA+UVB.",
+      "ד": "Involvement of sun-protected skin rules out the diagnosis."
+    }
+  },
+  "2025::51": {
+    "stem_en": "A 35-year-old male was referred due to an erythematous plaque accompanied by pain on the penis.",
+    "options_en": {
+      "א": "Lichen sclerosus",
+      "ב": "Zoon balanitis",
+      "ג": "Lichen planus",
+      "ד": "Squamous intraepithelial neoplasia"
+    }
+  },
+  "2025::45": {
+    "stem_en": "A 45-year-old female patient.",
+    "options_en": {
+      "א": "Cephalexin 2 g as a single dose, one hour before the procedure.",
+      "ב": "Amoxicillin 2 g as a single dose, one hour before the procedure.",
+      "ג": "Cephalexin 2 g as a single dose, one day before the procedure.",
+      "ד": "No need for prophylactic antibiotic treatment."
+    }
+  },
+  "2025::54": {
+    "stem_en": "A 32-year-old female",
+    "options_en": {
+      "א": "Doxycycline",
+      "ב": "Rifampin",
+      "ג": "Ciprofloxacin",
+      "ד": "Amikacin"
+    }
+  },
+  "2025::50": {
+    "stem_en": "What is the most likely cause of the hyperkeratotic lesion shown in the image, in a patient wearing dentures?",
+    "options_en": {
+      "א": "Smoking.",
+      "ב": "Allergic contact dermatitis.",
+      "ג": "Fungal infection (candidiasis).",
+      "ד": "Vitamin B12 deficiency."
+    }
+  },
+  "2025::56": {
+    "stem_en": "A 27-year-old man presents with fever, headache, and muscle pain for two weeks. Two weeks prior, he had unprotected sexual intercourse.",
+    "options_en": {
+      "א": "HIV-1 RNA",
+      "ב": "HIV-1 DNA",
+      "ג": "A sustained decrease in CD8 levels",
+      "ד": "P24 antigen"
+    }
+  },
+  "2025::58": {
+    "stem_en": "What would you expect to find on a Tzanck smear performed on the patient with the finding shown in the image below?",
+    "options_en": {
+      "א": "",
+      "ב": "",
+      "ג": "",
+      "ד": ""
+    }
+  },
+  "2025::57": {
+    "stem_en": "A 42-year-old woman. Which strain of human papillomavirus (HPV) is most likely to have caused this finding?",
+    "options_en": {
+      "א": "HPV type 6",
+      "ב": "HPV type 16",
+      "ג": "HPV type 8",
+      "ד": "HPV type 18"
+    }
+  },
+  "2025::61": {
+    "stem_en": "A 37-year-old man",
+    "options_en": {
+      "א": "Praziquantel 40 mg/kg",
+      "ב": "Gradual extraction",
+      "ג": "Pyrantel pamoate",
+      "ד": "Ivermectin 200 mcg/kg"
+    }
+  },
+  "2025::59": {
+    "stem_en": "A 5-year-old girl. About a week after a subfebrile febrile illness with headache and muscle aches, an erythematous rash appeared on the cheeks, followed by a rash with a reticular (lacy) distribution on the upper body, as demonstrated in the image below. What is the virus causing this disease?",
+    "options_en": {
+      "א": "MEASLES",
+      "ב": "PARVOVIRUS B19",
+      "ג": "RUBELLA",
+      "ד": "HHV6"
+    }
+  },
+  "2025::60": {
+    "stem_en": "A 32-year-old man... unprotected [sexual intercourse]...",
+    "options_en": {
+      "א": "Treponema pallidum",
+      "ב": "Chlamydia trachomatis",
+      "ג": "Haemophilus ducreyi",
+      "ד": "Klebsiella granulomatis"
+    }
+  },
+  "2025::52": {
+    "stem_en": "A child was hospitalized due to fever and restlessness. On examination, the findings shown in the image were noted. A biopsy was taken from this child. In which of the following diseases would histological findings similar to those seen in this biopsy be expected?",
+    "options_en": {
+      "א": "Hailey-Hailey disease (benign familial pemphigus)",
+      "ב": "Pemphigus vulgaris",
+      "ג": "Pemphigus foliaceus",
+      "ד": "Erythema multiforme"
+    }
+  },
+  "2025::65": {
+    "stem_en": "Which condition in a parent poses the highest risk for the child developing atopic dermatitis?",
+    "options_en": {
+      "א": "Allergic rhinitis",
+      "ב": "Atopic dermatitis",
+      "ג": "Asthma from a young age",
+      "ד": "Food allergies with high IgE levels"
+    }
+  },
+  "2025::55": {
+    "stem_en": "A 35-year-old man with toenail changes as shown in the images. Which of the following pathogens is most likely to be found on culture from the nail?",
+    "options_en": {
+      "א": "Microsporum canis",
+      "ב": "Trichophyton interdigitale",
+      "ג": "Trichophyton tonsurans",
+      "ד": "Epidermophyton floccosum"
+    }
+  },
+  "2025::68": {
+    "stem_en": "Which of the following rashes can be a manifestation of IRRITANT CONTACT DERMATITIS?",
+    "options_en": {
+      "א": "Urticaria.",
+      "ב": "Vasculitis.",
+      "ג": "Folliculitis.",
+      "ד": "Hyperpigmentation."
+    }
+  },
+  "2025::66": {
+    "stem_en": "Which of the following is correct regarding INFANTILE SEBORRHEIC DERMATITIS?",
+    "options_en": {
+      "א": "It is very itchy.",
+      "ב": "It appears at a later age than atopic dermatitis.",
+      "ג": "It involves the skin folds.",
+      "ד": "It causes feeding difficulties in the newborn."
+    }
+  },
+  "2025::73": {
+    "stem_en": "Which of the following can result from applying mupirocin over large body surface areas?",
+    "options_en": {
+      "א": "Heart failure.",
+      "ב": "Vasculitis.",
+      "ג": "Renal toxicity.",
+      "ד": "Nasal congestion and decreased sense of taste."
+    }
+  },
+  "2025::72": {
+    "stem_en": "Which of the following has NOT been described as a side effect of topical retinoids?",
+    "options_en": {
+      "א": "Photoallergic contact dermatitis",
+      "ב": "Ectropion",
+      "ג": "A common occurrence in psoriasis patients",
+      "ד": "Worsening of acne at the beginning of treatment"
+    }
+  },
+  "2025::75": {
+    "stem_en": "Botulinum toxin injection for axillary hyperhidrosis: what is the duration of effect of the first injection?",
+    "options_en": {
+      "א": "About 3 weeks.",
+      "ב": "About 3 months.",
+      "ג": "About 4 months.",
+      "ד": "About 7 months."
+    }
+  },
+  "2025::74": {
+    "stem_en": "Which of the following is recommended after hair transplantation during the first three days?",
+    "options_en": {
+      "א": "Prednisone at a dose of 40 mg per day.",
+      "ב": "Engage in physical activity to increase blood flow to the scalp.",
+      "ג": "Remove the crusts by softening them with bath oil and gentle combing.",
+      "ד": "Do not wash the scalp with running water."
+    }
+  },
+  "2025::69": {
+    "stem_en": "A patient develops mild itching in his hands after touching a peach; he feels itchy.",
+    "options_en": {
+      "א": "Kiwi.",
+      "ב": "Avocado.",
+      "ג": "Banana.",
+      "ד": "Pear."
+    }
+  },
+  "2025::78": {
+    "stem_en": "A 35-year-old woman presents with painful lesions on the lips accompanied by a rash on the limbs, as shown in the image.",
+    "options_en": {
+      "א": "Parakeratosis.",
+      "ב": "Full-thickness necrosis of the epidermis.",
+      "ג": "Vacuolar degeneration of the basal layer.",
+      "ד": "Eosinophilic spongiosis."
+    }
+  },
+  "2025::79": {
+    "stem_en": "Which of the following is part of the diagnostic criteria for Drug-Induced Hypersensitivity Syndrome (DIHS/DRESS, J-SCAR)?",
+    "options_en": {
+      "א": "ALT level of 80 U/L.",
+      "ב": "Interstitial nephritis.",
+      "ג": "Rapid improvement of clinical symptoms after discontinuation of the drug.",
+      "ד": "Reactivation of Epstein-Barr virus (EBV)."
+    }
+  },
+  "2025::80": {
+    "stem_en": "What is the mode of inheritance of the disease described in the images?",
+    "options_en": {
+      "א": "X-linked",
+      "ב": "Multifactorial",
+      "ג": "Autosomal dominant",
+      "ד": "Autosomal recessive"
+    }
+  },
+  "2025::81": {
+    "stem_en": "Which of the following is included among the extracellular steps of collagen biosynthesis?",
+    "options_en": {
+      "א": "Glycosylation of asparagine residues.",
+      "ב": "Formation of covalent cross-links.",
+      "ג": "Formation of disulfide bonds.",
+      "ד": "Folding of the triple helix."
+    }
+  },
+  "2025::83": {
+    "stem_en": "A 19-year-old male. Aside from mitral valve prolapse, he presents with the skin findings described below, appearing on the neck. Histopathology of a biopsy taken from the lesion is shown (Alizarin Red staining) [image attached]. Which of the following genes is associated with the development of this disease?",
+    "options_en": {
+      "א": "ABCC6",
+      "ב": "LAMA5",
+      "ג": "COL7A1",
+      "ד": "KRT9"
+    }
+  },
+  "2025::84": {
+    "stem_en": "45-year-old male",
+    "options_en": {
+      "א": "High incidence among African-Americans.",
+      "ב": "Association with other fibromatoses.",
+      "ג": "Incidence increases in older women.",
+      "ד": "Autosomal recessive inheritance."
+    }
+  },
+  "2025::85": {
+    "stem_en": "Which of the clinical and histopathological correlations presented below is correct?",
+    "options_en": {
+      "א": "Anetoderma is characterized by a band-like excess of mid-dermal elastic fibers.",
+      "ב": "Mid-dermal elastolysis is characterized by calcified elastic fibers in the mid-dermis.",
+      "ג": "Cutis laxa is characterized by fragmented elastic fibers.",
+      "ד": "Atrophoderma of Pasini and Pierini is characterized by clumping of elastic fibers."
+    }
+  },
+  "2025::87": {
+    "stem_en": "In which of the following types of lasers is the primary target chromophore melanin?",
+    "options_en": {
+      "א": "Q-switched Nd:YAG laser.",
+      "ב": "KTP laser.",
+      "ג": "Erbium:YAG laser.",
+      "ד": "Carbon dioxide (CO2) laser."
+    }
+  },
+  "2025::88": {
+    "stem_en": "Which of the following skin conditions will NOT be treated with ablative lasers?",
+    "options_en": {
+      "א": "Rhinophyma",
+      "ב": "Tattoo removal",
+      "ג": "Acne scarring",
+      "ד": "Syringoma"
+    }
+  },
+  "2025::91": {
+    "stem_en": "What is the most recommended test for identifying the viral etiology in a child with a prominent rash on sun-exposed areas (shown in the image), bilateral cheeks, and the extensor aspects of the arms?",
+    "options_en": {
+      "א": "Western blot",
+      "ב": "Exome sequencing",
+      "ג": "ELISA",
+      "ד": "In situ hybridization"
+    }
+  },
+  "2025::90": {
+    "stem_en": "Which of the following measures would reduce the complications of electrosurgery treatment in a patient implanted with an implantable cardioverter-defibrillator (ICD)?",
+    "options_en": {
+      "א": "Using cutting current.",
+      "ב": "Applying short bursts of energy lasting no more than 5 seconds at a time.",
+      "ג": "Using electrocautery.",
+      "ד": "Placing the electrosurgical device close to the area of the implanted device."
+    }
+  },
+  "2025::86": {
+    "stem_en": "Which of the following distinguishes DAYLIGHT-ACTIVATED PHOTODYNAMIC THERAPY (PDT) from ARTIFICIAL LIGHT-ACTIVATED PDT?",
+    "options_en": {
+      "א": "The formulation of the preparation (cream/ointment).",
+      "ב": "Skin preparation before treatment, such as curettage.",
+      "ג": "The use of a photosensitizer of the ALA type.",
+      "ד": "The duration of incubation time of the topical preparation before light exposure."
+    }
+  },
+  "2025::93": {
+    "stem_en": "Which of the following secretes Thymic Stromal Lymphopoietin (TSLP)?",
+    "options_en": {
+      "א": "Keratinocytes.",
+      "ב": "Neutrophils.",
+      "ג": "Macrophages.",
+      "ד": "Nerve fibers."
+    }
+  },
+  "2025::96": {
+    "stem_en": "Which of the following histological findings characterizes Pityriasis Lichenoides et Varioliformis Acuta (PLEVA) as compared to the chronic form (Pityriasis Lichenoides Chronica)?",
+    "options_en": {
+      "א": "Focal keratinocyte necrosis.",
+      "ב": "Lymphocytic vasculitis.",
+      "ג": "Interface dermatitis.",
+      "ד": "Parakeratosis."
+    }
+  },
+  "2025::95": {
+    "stem_en": "Which of the following is correct regarding psoriatic arthritis in adults?",
+    "options_en": {
+      "א": "In most cases, the arthritis appears before the onset of psoriasis.",
+      "ב": "Onset in young women is a risk factor for severe arthritis.",
+      "ג": "The elbows and knees are the most commonly affected joints.",
+      "ד": "The prevalence is similar in patients with mild psoriasis and those with severe psoriasis."
+    }
+  },
+  "2025::98": {
+    "stem_en": "Which of the following is correct regarding mucosal involvement in Lichen Planus?",
+    "options_en": {
+      "א": "In most cases with erosions of the vulva, there will also be oral cavity involvement.",
+      "ב": "Involvement of the oral mucosa and genitalia is more common in young men.",
+      "ג": "The most common form of oral involvement is the erosive form.",
+      "ד": "Vaginal involvement is present in about 10% of cases in which vulvar involvement is present."
+    }
+  },
+  "2025::97": {
+    "stem_en": "An infant presents with erythroderma, and a hair examination (shown in the image) reveals findings consistent with trichorrhexis invaginata (bamboo hair). Which of the following is LESS likely to be found on this infant's blood test?",
+    "options_en": {
+      "א": "Elevated IgE level.",
+      "ב": "Positive RAST (radioallergosorbent test) results to foods.",
+      "ג": "Hypokalemia.",
+      "ד": "Eosinophilia."
+    }
+  },
+  "2025::102": {
+    "stem_en": "When is an incisional biopsy preferable to a punch biopsy?",
+    "options_en": {
+      "א": "Capillary malformation.",
+      "ב": "Plaque-stage mycosis fungoides.",
+      "ג": "Eosinophilic fasciitis.",
+      "ד": "Granuloma faciale."
+    }
+  },
+  "2025::100": {
+    "stem_en": "A 7-month-old boy has the itchy rash shown in the picture. What is the likely cause of his condition?",
+    "options_en": {
+      "א": "",
+      "ב": "",
+      "ג": "",
+      "ד": ""
+    }
+  },
+  "2025::104": {
+    "stem_en": "Which of the following dressings is most suitable for a deep venous ulcer with heavy discharge and signs of secondary infection?",
+    "options_en": {
+      "א": "Alginate dressing.",
+      "ב": "Hydrogel dressing.",
+      "ג": "Thin hydrocolloid membrane dressing.",
+      "ד": "Thick hydrocolloid membrane dressing."
+    }
+  },
+  "2025::105": {
+    "stem_en": "After excision of a lesion measuring 4 mm on the nape of the neck, which nylon suture thickness is preferable to use?",
+    "options_en": {
+      "א": "6-0 nylon suture",
+      "ב": "5-0 nylon suture",
+      "ג": "3-0 nylon suture",
+      "ד": "2-0 nylon suture"
+    }
+  },
+  "2025::108": {
+    "stem_en": "What would you recommend to a patient with ROSACEA?",
+    "options_en": {
+      "א": "Use of waterproof sunscreens and cosmetics.",
+      "ב": "Use of a sunscreen based on zinc oxide.",
+      "ג": "Washing the face with hot water.",
+      "ד": "Use of a glycolic acid peel at least twice a week."
+    }
+  },
+  "2025::107": {
+    "stem_en": "A patient being treated with a preparation containing clindamycin and benzoyl peroxide complains of redness and peeling of the skin.",
+    "options_en": {
+      "א": "The preparation should be applied carefully and only to the acne lesions themselves.",
+      "ב": "The preparation should be applied in a very thin layer.",
+      "ג": "The family physician should be informed about a sensitivity to clindamycin.",
+      "ד": "Treatment should be continued without any change, as the rash will resolve spontaneously after a few days."
+    }
+  },
+  "2025::109": {
+    "stem_en": "Which of the following is NOT part of the follicular occlusion tetrad?",
+    "options_en": {
+      "א": "Disseminate and recurrent infundibulofolliculitis",
+      "ב": "Acne conglobata",
+      "ג": "Pilonidal sinus",
+      "ד": "Hidradenitis suppurativa"
+    }
+  },
+  "2025::110": {
+    "stem_en": "What is the most common time period for the phenomenon shown in the image to develop after getting a tattoo?",
+    "options_en": {
+      "א": "2-6 days.",
+      "ב": "2-6 weeks.",
+      "ג": "2-6 months.",
+      "ד": "2-6 years."
+    }
+  },
+  "2025::112": {
+    "stem_en": "What is the most common autoimmune disease associated with adult vitiligo patients?",
+    "options_en": {
+      "א": "Autoimmune thyroid disease",
+      "ב": "Type 1 diabetes",
+      "ג": "Psoriasis",
+      "ד": "Alopecia areata"
+    }
+  },
+  "2025::115": {
+    "stem_en": "Which additional treatment will decrease the risk of developing non-melanoma skin cancer?",
+    "options_en": {
+      "א": "Adding a MEK inhibitor to a BRAF V600 inhibitor.",
+      "ב": "Adding psoralen to UVA therapy (PUVA).",
+      "ג": "Adding methotrexate (MTX) to a TNF inhibitor.",
+      "ד": "Adding voriconazole to a JAK inhibitor."
+    }
+  },
+  "2025::119": {
+    "stem_en": "Which of the following treatments is a BRAF inhibitor?",
+    "options_en": {
+      "א": "Ipilimumab",
+      "ב": "Trametinib",
+      "ג": "Dabrafenib",
+      "ד": "Nivolumab"
+    }
+  },
+  "2025::116": {
+    "stem_en": "What characterizes ephelides (freckles)?",
+    "options_en": {
+      "א": "Equal prevalence between the sexes.",
+      "ב": "Less prominent in summer due to tanning of the surrounding skin.",
+      "ג": "",
+      "ד": "Appearance at an older age."
+    }
+  },
+  "2025::117": {
+    "stem_en": "A 4-month-old boy presents with multiple nevi, as seen in the images, which appeared two months ago. Which of the following is correct regarding this phenomenon?",
+    "options_en": {
+      "א": "",
+      "ב": "These are not congenital nevi; most of them will have a BRAF mutation.",
+      "ג": "The definition of multiple congenital nevi is the presence of more than 10 lesions.",
+      "ד": "Neurocutaneous melanosis should be ruled out."
+    }
+  },
+  "2025::111": {
+    "stem_en": "Which of the following characterizes IMMEDIATE PIGMENTARY DARKENING (IPD)?",
+    "options_en": {
+      "א": "It occurs after exposure to narrow-band UVB.",
+      "ב": "It occurs as early as one hour after exposure.",
+      "ג": "It disappears within 20-30 minutes.",
+      "ד": "It occurs due to acute damage to DNA."
+    }
+  },
+  "2025::121": {
+    "stem_en": "A 40-year-old man",
+    "options_en": {
+      "א": "35 mg",
+      "ב": "350 mg",
+      "ג": "50 mg",
+      "ד": "500 mg"
+    }
+  },
+  "2025::120": {
+    "stem_en": "Which of the following is NOT an effective blocker in the UVB range?",
+    "options_en": {
+      "א": "PABA",
+      "ב": "Avobenzone",
+      "ג": "Zinc oxide",
+      "ד": "Micronized zinc oxide"
+    }
+  },
+  "2025::124": {
+    "stem_en": "A 40-year-old woman developed fever and a rash, as shown in the image:",
+    "options_en": {
+      "א": "Granulocyte colony-stimulating factor (G-CSF)",
+      "ב": "Allopurinol",
+      "ג": "Simvastatin",
+      "ד": "Eltroxin (levothyroxine)"
+    }
+  },
+  "2025::126": {
+    "stem_en": "Which of the following pregnancy dermatoses is most dangerous to fetal health?",
+    "options_en": {
+      "א": "Polymorphic eruption of pregnancy",
+      "ב": "Gestational pemphigoid",
+      "ג": "Intrahepatic cholestasis of pregnancy",
+      "ד": "Atopic eruption of pregnancy"
+    }
+  },
+  "2025::125": {
+    "stem_en": "Histological and clinical picture of a rash that appeared in a 50-year-old patient. What is the recommended treatment?",
+    "options_en": {
+      "א": "Secukinumab",
+      "ב": "Mepolizumab (Nucala) - anti-IL5",
+      "ג": "Anakinra",
+      "ד": "Adalimumab"
+    }
+  },
+  "2025::127": {
+    "stem_en": "What is the characteristic clonal vascular skin tumor in a patient presenting with sensory and motor polyneuropathy, sclerotic bone lesions, hepatosplenomegaly, hyperhidrosis, and hypertrichosis?",
+    "options_en": {
+      "א": "Glomeruloid hemangioma",
+      "ב": "Epithelioid hemangioma",
+      "ג": "Kaposi's sarcoma",
+      "ד": "Angiosarcoma"
+    }
+  },
+  "2025::131": {
+    "stem_en": "A 15-year-old boy has diffusely thickened skin with a rough texture, diffusely dark in color, due to recurrent episodes of urticaria and blistering, as shown in the image, accompanied by diarrhea. What is the most likely diagnosis?",
+    "options_en": {
+      "א": "Diffuse cutaneous mastocytosis",
+      "ב": "Junctional epidermolysis bullosa",
+      "ג": "Lipoid proteinosis",
+      "ד": "Leukemia cutis"
+    }
+  },
+  "2025::130": {
+    "stem_en": "What is the most important prognostic histological factor in leiomyosarcoma?",
+    "options_en": {
+      "א": "Tumor location – dermis versus subcutis.",
+      "ב": "Presence of necrotic cells within the tumor.",
+      "ג": "Positive staining for BRAF.",
+      "ד": "Positive staining for desmin."
+    }
+  },
+  "2025::132": {
+    "stem_en": "Which type of primary cutaneous B-cell lymphoma is the most aggressive?",
+    "options_en": {
+      "א": "Follicle center cell lymphoma.",
+      "ב": "Marginal zone B-cell lymphoproliferative disorder.",
+      "ג": "EBV-positive mucocutaneous ulcer.",
+      "ד": "Diffuse large B-cell lymphoma, leg type."
+    }
+  },
+  "2025::129": {
+    "stem_en": "A nodule that is firm to palpation, skin-colored, located in the shoulder area (see image).",
+    "options_en": {
+      "א": "Staining for CD34 is negative.",
+      "ב": "Staining for Factor XIIIA is positive.",
+      "ג": "Changes (rearrangements) involving the PDGFB gene can be found in this tumor.",
+      "ד": "The tumor cells show activation of GLI."
+    }
+  },
+  "2025::134": {
+    "stem_en": "Among the following inflammatory conditions, which one occurs more frequently in patients with chronic lymphocytic leukemia (CLL) relative to patients with acute myeloid leukemia (AML)?",
+    "options_en": {
+      "א": "Eosinophilic dermatosis of hematologic malignancy.",
+      "ב": "Sweet syndrome.",
+      "ג": "Pyoderma gangrenosum.",
+      "ד": "Neutrophilic eccrine hidradenitis."
+    }
+  },
+  "2025::135": {
+    "stem_en": "A woman presents several years after undergoing surgery for breast cancer, which was removed. Over the past two months she has had a skin finding that has not responded to several courses of antibiotics. What is the most likely diagnosis?",
+    "options_en": {
+      "א": "Eosinophilic cellulitis",
+      "ב": "Carcinoma erysipeloides",
+      "ג": "Radiation dermatitis",
+      "ד": "Carcinoma en cuirasse"
+    }
+  },
+  "2025::128": {
+    "stem_en": "Which of the following is correct regarding MERKEL CELL TUMOR?",
+    "options_en": {
+      "א": "It appears equally across all age groups.",
+      "ב": "Positive immunohistochemical staining for CK10.",
+      "ג": "Integration of the polyomavirus MCPyV into the cell's chromosome is found in all tumors.",
+      "ד": "In advanced disease, treatment is with anti-PD1/anti-PD-L1."
+    }
+  },
+  "2025::138": {
+    "stem_en": "What is the earliest manifestation of lipoid proteinosis?",
+    "options_en": {
+      "א": "Papules on the face.",
+      "ב": "Hoarseness.",
+      "ג": "Wart-like (verrucous) lesions on the elbows.",
+      "ד": "Loss of eyelashes (madarosis)."
+    }
+  },
+  "2025::141": {
+    "stem_en": "A patient suffering from acute graft-versus-host disease (GVHD) with extensive skin involvement and systemic symptoms is not responding to treatment with prednisone. What is the appropriate next step in treatment?",
+    "options_en": {
+      "א": "Anti-TNF therapy",
+      "ב": "Ruxolitinib",
+      "ג": "IVIG (intravenous immunoglobulin)",
+      "ד": "Dupilumab (Dupixent)"
+    }
+  },
+  "2025::139": {
+    "stem_en": "Which of the following is true regarding the hereditary (familial) form of porphyria cutanea tarda?",
+    "options_en": {
+      "א": "There is decreased activity of uroporphyrinogen III synthase.",
+      "ב": "There is decreased activity of uroporphyrinogen decarboxylase.",
+      "ג": "The inheritance pattern is recessive.",
+      "ד": "The acquired form is more common than the hereditary form."
+    }
+  },
+  "2025::142": {
+    "stem_en": "What is the common cause of peristomal skin inflammation (dermatitis around a stoma)?",
+    "options_en": {
+      "א": "Irritant contact dermatitis.",
+      "ב": "Allergic contact dermatitis.",
+      "ג": "Pyoderma gangrenosum.",
+      "ד": "Bullous pemphigoid."
+    }
+  },
+  "2025::143": {
+    "stem_en": "A 56-year-old man with myelodysplastic syndrome",
+    "options_en": {
+      "א": "",
+      "ב": "",
+      "ג": "",
+      "ד": ""
+    }
+  },
+  "2025::140": {
+    "stem_en": "Which of the following is recommended in the treatment of calciphylaxis?",
+    "options_en": {
+      "א": "Switching from hemodialysis to peritoneal dialysis.",
+      "ב": "Sodium thiosulfate has been reported to be effective.",
+      "ג": "Switching from direct-acting oral anticoagulants (DOACs) to warfarin.",
+      "ד": "A diet low in vitamin K."
+    }
+  },
+  "2025::146": {
+    "stem_en": "Which of the following is a selective inhibitor mainly of JAK1?",
+    "options_en": {
+      "א": "Upadacitinib",
+      "ב": "Deucravacitinib",
+      "ג": "Baricitinib",
+      "ד": "Ruxolitinib"
+    }
+  },
+  "2025::144": {
+    "stem_en": "Which of the following is correct regarding LOCALIZED LIPOATROPHY?",
+    "options_en": {
+      "א": "",
+      "ב": "At the growth hormone injection site, this results from a direct lipolytic effect; it is more common with insulin pump use than with insulin injections.",
+      "ג": "Most cases that are secondary to mechanical trauma are irreversible.",
+      "ד": "The most common drug causing this condition is benzathine penicillin."
+    }
+  },
+  "2025::145": {
+    "stem_en": "A 23-year-old woman presents a few days after recovering from streptococcal pharyngitis, with fever, arthralgia, and a rash on her shins. Her clinical and pathological images are shown here. What is correct regarding her rash?",
+    "options_en": {
+      "א": "It is more associated with ulcerative colitis than with Crohn's disease.",
+      "ב": "Involvement of the face or neck casts doubt on the diagnosis.",
+      "ג": "Arthralgia indicates systemic disease.",
+      "ד": "Yearly recurrence of the lesions is common in cases that are not associated with systemic disease."
+    }
+  },
+  "2025::149": {
+    "stem_en": "Which of the following is correct regarding side effects of methotrexate?",
+    "options_en": {
+      "א": "Pancytopenia usually develops after two years of use.",
+      "ב": "Oligospermia is irreversible.",
+      "ג": "Administration of folic acid reduces gastrointestinal side effects.",
+      "ד": "A liver biopsy should be performed before starting treatment in patients with diabetes and fatty liver."
+    }
+  },
+  "2026::1": {
+    "stem_en": "By which mechanism does morphine cause generalized pruritus (itching)?",
+    "options_en": {
+      "א": "Increased levels of IL-31 and keratinocyte-derived cytokines.",
+      "ב": "Increased concentration of Substance P.",
+      "ג": "Activation of Mas-related G protein-coupled receptors (MRGPRs).",
+      "ד": "Disruption of the balance of activity between the μ-receptor and the κ (kappa)-receptor."
+    }
+  },
+  "2025::147": {
+    "stem_en": "What is a common side effect of IL-17 (inhibitors)?",
+    "options_en": {
+      "א": "Conjunctivitis.",
+      "ב": "Exacerbation of multiple sclerosis (MS).",
+      "ג": "",
+      "ד": "Candida infection, and development of ANA and anti-dsDNA antibodies."
+    }
+  },
+  "2026::2": {
+    "stem_en": "Which of the following is correct regarding BULLOUS IMPETIGO?",
+    "options_en": {
+      "א": "It tends to present with wide erythema surrounding the lesions.",
+      "ב": "",
+      "ג": "It is caused by the same toxin that causes staphylococcal scalded skin syndrome (SSSS).",
+      "ד": "It is more common in newborns and resolves within a week without treatment."
+    }
+  },
+  "2026::3": {
+    "stem_en": "Below is a diagram of the basement membrane. What are the fibers marked with the red arrow composed of?",
+    "options_en": {
+      "א": "Laminin 332.",
+      "ב": "Keratin 14.",
+      "ג": "Type VII collagen.",
+      "ד": "Integrin α6β4."
+    }
+  },
+  "2026::6": {
+    "stem_en": "An 18-year-old male presents with the rash shown in the image, present for months. What are the expected findings on Direct Immunofluorescence (DIF) testing?",
+    "options_en": {
+      "א": "",
+      "ב": "",
+      "ג": "",
+      "ד": ""
+    }
+  },
+  "2026::7": {
+    "stem_en": "A 74-year-old man with no underlying illnesses presents with the rash shown in the image, which appeared five days earlier. Which of the following is correct regarding treatment with ACYCLOVIR in this patient?",
+    "options_en": {
+      "א": "There is no point in giving treatment 72 hours after the onset of symptoms.",
+      "ב": "It will not prevent reactivation of the virus in the future.",
+      "ג": "Intravenous administration is preferable in this patient.",
+      "ד": "It will reduce the risk of postherpetic neuralgia."
+    }
+  },
+  "2025::150": {
+    "stem_en": "A patient is regularly taking a medication to reduce gastric acidity. Which drug from the azole antifungal family can be given to this patient (i.e., whose absorption is not dependent on gastric acidity)?",
+    "options_en": {
+      "א": "Fluconazole",
+      "ב": "Itraconazole",
+      "ג": "Posaconazole",
+      "ד": "Ketoconazole"
+    }
+  },
+  "2026::8": {
+    "stem_en": "During delivery, a blister was observed in the newborn, as shown in the image. The blister resolved spontaneously after two days. What is the most likely diagnosis?",
+    "options_en": {
+      "א": "Sucking blister",
+      "ב": "Neonatal herpes",
+      "ג": "Neonatal pemphigus vulgaris",
+      "ד": "Impetigo"
+    }
+  },
+  "2026::11": {
+    "stem_en": "Which of the following photosensitivity syndromes is caused by chromosomal instability?",
+    "options_en": {
+      "א": "Xeroderma pigmentosum",
+      "ב": "Cockayne syndrome",
+      "ג": "Bloom syndrome",
+      "ד": "Trichothiodystrophy"
+    }
+  },
+  "2026::13": {
+    "stem_en": "A 25-year-old patient has a patch that appears (becomes visible) upon exposure to heat. What is the probable diagnosis?",
+    "options_en": {
+      "א": "Vitiligo",
+      "ב": "Nevus anemicus",
+      "ג": "Nevus depigmentosus",
+      "ד": "Pityriasis alba"
+    }
+  },
+  "2026::14": {
+    "stem_en": "Which of the following treatments is NOT suitable for combination with photochemotherapy (PUVA)?",
+    "options_en": {
+      "א": "Anthralin",
+      "ב": "Methotrexate",
+      "ג": "Cyclosporine",
+      "ד": "Isotretinoin"
+    }
+  },
+  "2026::10": {
+    "stem_en": "How does immediate tanning occur after exposure to Ultraviolet A (UVA)?",
+    "options_en": {
+      "א": "Increase in melanin synthesis.",
+      "ב": "Increase in the number of melanocytes.",
+      "ג": "Oxidation and redistribution of existing melanin.",
+      "ד": "Increased transfer of melanosomes to keratinocytes."
+    }
+  },
+  "2026::15": {
+    "stem_en": "What may be a side effect of using Monsel's solution (ferric subsulfate 20%)?",
+    "options_en": {
+      "א": "Foreign body reaction",
+      "ב": "Bleeding",
+      "ג": "Delayed wound healing",
+      "ד": "Tattoo (pigmentation)"
+    }
+  },
+  "2026::4": {
+    "stem_en": "What is the significance of a positive Nikolsky sign in a bullous disease?",
+    "options_en": {
+      "א": "Loss of intercellular adhesion (cohesion) within the epidermis.",
+      "ב": "Thinning of the epidermis overlying the dermal papillae.",
+      "ג": "",
+      "ד": "Vacuolar changes in the granular layer."
+    }
+  },
+  "2026::16": {
+    "stem_en": "Shown before you is an immunohistochemical stain of normal epidermis. What is this stain?",
+    "options_en": {
+      "א": "MART1",
+      "ב": "CD1a",
+      "ג": "S100",
+      "ד": "HMB45"
+    }
+  },
+  "2026::18": {
+    "stem_en": "What is the appropriate method for investigating the function of a specific gene?",
+    "options_en": {
+      "א": "Developing a mouse model.",
+      "ב": "Performing RT-PCR for the gene of interest.",
+      "ג": "Performing massive next-generation sequencing.",
+      "ד": "Fluorescent in situ hybridization (FISH) on a biopsy from the patient."
+    }
+  },
+  "2026::22": {
+    "stem_en": "A patient presents with the following rash, and the image below shows the histologic findings. What is the correct diagnosis?",
+    "options_en": {
+      "א": "Psoriasis",
+      "ב": "Granular parakeratosis",
+      "ג": "Dowling-Degos disease",
+      "ד": "Fordyce disease"
+    }
+  },
+  "2026::20": {
+    "stem_en": "A patient presents with the rash shown in the image; her sibling has a similar disease. Which of the following is correct regarding the etiology of the rash?",
+    "options_en": {
+      "א": "A mutation in the IL-8 gene.",
+      "ב": "An activating mutation in CARD14.",
+      "ג": "Suppression of the NF-κB pathway.",
+      "ד": "A decrease in IL-22 levels."
+    }
+  },
+  "2026::23": {
+    "stem_en": "A biopsy, including immunofluorescence, was sent for the patient, as shown below. What is the correct diagnosis?",
+    "options_en": {
+      "א": "Discoid lupus erythematosus/lichen planus overlap syndrome.",
+      "ב": "Lichen planopilaris.",
+      "ג": "Lichen planus pigmentosus.",
+      "ד": "Erythema multiforme."
+    }
+  },
+  "2026::12": {
+    "stem_en": "Mixed bacterial growth was found [in a wound culture].",
+    "options_en": {
+      "א": "This represents a bacterial finding without clinical significance.",
+      "ב": "It inhibits wound healing.",
+      "ג": "It requires systemic antibiotic treatment.",
+      "ד": "It requires prolonged antibiotic treatment (more than a few weeks)."
+    }
+  },
+  "2026::25": {
+    "stem_en": "Which of the following transmits Bartonella, which causes trench fever?",
+    "options_en": {
+      "א": "Sarcoptes scabiei.",
+      "ב": "Phthirus pubis (pubic lice).",
+      "ג": "Body lice.",
+      "ד": "Chewing lice."
+    }
+  },
+  "2026::24": {
+    "stem_en": "A person allergic to penicillin was bitten by a dog. Which of the following treatments is most appropriate for him?",
+    "options_en": {
+      "א": "Amoxicillin/clavulanic acid (Augmentin).",
+      "ב": "Clarithromycin together with Resprim (trimethoprim/sulfamethoxazole).",
+      "ג": "Clindamycin together with ciprofloxacin (Ciprogis).",
+      "ד": "Doxycycline together with levofloxacin (Tavanic)."
+    }
+  },
+  "2026::31": {
+    "stem_en": "In which of the following calcification disorders can correction of serum calcium and phosphate levels lead to resorption of the skin lesions?",
+    "options_en": {
+      "א": "Benign nodular calcification",
+      "ב": "Pancreatic panniculitis",
+      "ג": "Calcinosis cutis in eosinophilic fasciitis",
+      "ד": "Idiopathic calcified nodules of the scrotum"
+    }
+  },
+  "2026::19": {
+    "stem_en": "Which of the following is correct regarding antigen presentation via Major Histocompatibility Complex (MHC) class I?",
+    "options_en": {
+      "א": "It is dependent on B cells.",
+      "ב": "The antigen must undergo pinocytosis.",
+      "ג": "The antigen is produced inside the cell.",
+      "ד": "The antigen is presented to CD4-positive T cells."
+    }
+  },
+  "2026::33": {
+    "stem_en": "A 55-year-old woman presented with a disseminated rash 3 months after bone marrow transplantation, with the following histology: Which of the following clinical pictures best matches the histological picture?",
+    "options_en": {
+      "א": "",
+      "ב": "",
+      "ג": "",
+      "ד": ""
+    }
+  },
+  "2026::32": {
+    "stem_en": "45-year-old male",
+    "options_en": {
+      "א": "Vitamin B12, administered intramuscularly (I.M.)",
+      "ב": "Antidiuretic hormone, administered subcutaneously (S.C.)",
+      "ג": "Nicotinamide, administered orally (P.O.)",
+      "ד": "Ruxolitinib"
+    }
+  },
+  "2026::26": {
+    "stem_en": "A patient being treated with a diagnosis of DELUSION OF PARASITOSIS. This condition is most commonly associated with which of the following?",
+    "options_en": {
+      "א": "Lead poisoning.",
+      "ב": "Amphetamine addiction.",
+      "ג": "HIV infection.",
+      "ד": "Vitamin C deficiency."
+    }
+  },
+  "2026::29": {
+    "stem_en": "A 55-year-old male presents with lesions on the elbows as shown in the image, present for about a year. Histology is shown in image 2. Von Kossa staining is negative. What was the first manifestation of the disease?",
+    "options_en": {
+      "א": "Arthritis of the 1st toe.",
+      "ב": "Eruptive xanthoma.",
+      "ג": "Thickening and hardening of the skin.",
+      "ד": "Muscle weakness and periorbital edema."
+    }
+  },
+  "2026::35": {
+    "stem_en": "A 35-year-old man was admitted due to weakness, fatigue, and lesions on the shins (image 1 shows nodules that are erythematous and draining pus). Biopsy findings (image 2) show subcutaneous inflammation composed of neutrophils surrounding collagen fibers in the septa between fat lobules, in a septal pattern. Which of the following is correct regarding this disease?",
+    "options_en": {
+      "א": "It is associated with Crohn's disease.",
+      "ב": "It can be accompanied by cirrhosis and emphysema.",
+      "ג": "It can lead to venous insufficiency.",
+      "ד": "It appears in 15% of cases of systemic lupus erythematosus (SLE)."
+    }
+  },
+  "2026::21": {
+    "stem_en": "Which of the following psoriasis treatments gives the patient the greatest chance of achieving a 75% reduction in PASI within 4 weeks?",
+    "options_en": {
+      "א": "Adalimumab, administered at a dose of 40 mg once every two weeks.",
+      "ב": "Acitretin, administered at a dose of 25 mg per day.",
+      "ג": "Methotrexate, administered at a dose of 25 mg per week.",
+      "ד": "Cyclosporine, administered at a dose of 5 mg/kg."
+    }
+  },
+  "2026::39": {
+    "stem_en": "Which of the following is used to treat alopecia/hypotrichosis?",
+    "options_en": {
+      "א": "Minoxidil",
+      "ב": "Bimatoprost",
+      "ג": "Eflornithine",
+      "ד": "Anthralin"
+    }
+  },
+  "2026::37": {
+    "stem_en": "A 37-year-old [patient] with severe atopic dermatitis. Two months after starting a new systemic treatment, marked improvement occurred, but a new rash appeared as shown in the image. What treatment did he receive?",
+    "options_en": {
+      "א": "A dihydrofolate reductase inhibitor.",
+      "ב": "A specific JAK1 inhibitor.",
+      "ג": "An antibody against IL-4R alpha.",
+      "ד": "An antibody against IL-13R2."
+    }
+  },
+  "2026::42": {
+    "stem_en": "Which of the following is correct regarding skin development in the fetus?",
+    "options_en": {
+      "א": "At week 8, the epidermis is covered by a layer called the periderm, which is later shed.",
+      "ב": "At week 10, keratinization exists only within the hair follicle.",
+      "ג": "The basal layer appears at week 16.",
+      "ד": "Hair follicles appear after week 24."
+    }
+  },
+  "2026::38": {
+    "stem_en": "A 45-year-old woman suffers from atopic dermatitis. She started drug treatment; after two months there was improvement, but she then developed weakness and pain in her right arm.",
+    "options_en": {
+      "א": "Upadacitinib",
+      "ב": "Methotrexate",
+      "ג": "Dupilumab",
+      "ד": "Lebrikizumab"
+    }
+  },
+  "2026::41": {
+    "stem_en": "What is the structure circled in the image?",
+    "options_en": {
+      "א": "Sebaceous gland",
+      "ב": "Hair follicle",
+      "ג": "Eccrine sweat gland",
+      "ד": "Collection of Langerhans cells"
+    }
+  },
+  "2026::43": {
+    "stem_en": "In a 10-year-old child diagnosed with dermatomyositis, antibodies were found: TIF1-γ (P155). What is the significance of this finding?",
+    "options_en": {
+      "א": "High incidence of skin calcifications.",
+      "ב": "Treatment-resistant disease.",
+      "ג": "Association with malignancy.",
+      "ד": "Severe muscle involvement."
+    }
+  },
+  "2026::36": {
+    "stem_en": "Regarding localized lipoatrophy from medications, mark the correct statement:",
+    "options_en": {
+      "א": "The common cause is local injection of growth hormone.",
+      "ב": "Frequent rotation of the injection site can reduce the risk.",
+      "ג": "Injection of TNF-alpha carries the highest risk.",
+      "ד": "Drugs associated with lipoatrophy do not cause lipohypertrophy."
+    }
+  },
+  "2026::45": {
+    "stem_en": "A 28-year-old female weighing 52 kg presented with joint pain and the rash shown in the photo. Liver and kidney function tests were normal. An eye examination performed prior to treatment was normal. What is the correct recommendation regarding starting treatment with Plaquenil (hydroxychloroquine sulfate) in this patient?",
+    "options_en": {
+      "א": "100 mg per day.",
+      "ב": "200 mg per day, with an eye examination every 5 years.",
+      "ג": "400 mg per day, with an eye examination every half year.",
+      "ד": "400 mg per day; in a young, healthy patient there is no need for eye examinations."
+    }
+  },
+  "2026::44": {
+    "stem_en": "Which of the following is correct regarding DISCOID LUPUS?",
+    "options_en": {
+      "א": "The disease involves both skin and mucous membranes.",
+      "ב": "Transition to systemic disease usually occurs within the first five years.",
+      "ג": "The lesions are limited to sun-exposed skin.",
+      "ד": "The hypertrophic form usually appears on the arms."
+    }
+  },
+  "2026::50": {
+    "stem_en": "LANA staining of a biopsy from the lesion shown in image #1 is positive. Which of the following is correct regarding the classic form of the disease?",
+    "options_en": {
+      "א": "It usually does not occur in HIV-positive patients.",
+      "ב": "Involvement of the oral cavity and gastrointestinal tract is characteristic of long-standing disease.",
+      "ג": "It occurs with equal frequency in young and older individuals.",
+      "ד": "In children, an aggressive variant involving the lymph nodes is characteristic."
+    }
+  },
+  "2026::48": {
+    "stem_en": "In which of the following hemangiomas is there a high risk of ulceration?",
+    "options_en": {
+      "א": "A segmental hemangioma",
+      "ב": "A 2 cm hemangioma on the lower back of an infant",
+      "ג": "A 1 cm hemangioma on the upper part of the forehead",
+      "ד": "A hemangioma undergoing regression in an infant"
+    }
+  },
+  "2026::51": {
+    "stem_en": "A 50-year-old man presents due to cyanosis (blueness) of the fingers and ulcers on the toes. On examination, the findings are as shown in the image. Which of the following is the most likely cause?",
+    "options_en": {
+      "א": "Prolidase deficiency",
+      "ב": "Martorell hypertensive ulcers",
+      "ג": "Venous insufficiency",
+      "ד": "Cryofibrinogenemia"
+    }
+  },
+  "2026::47": {
+    "stem_en": "Which of the following is NOT correct regarding the process of melanin production?",
+    "options_en": {
+      "א": "Reduction of L-DOPA produces eumelanin.",
+      "ב": "Formation of pheomelanin requires a high level of tyrosinase.",
+      "ג": "Tyrosine-related proteins break down tyrosinase.",
+      "ד": "L-phenylalanine inhibits melanin production by inhibiting tyrosinase."
+    }
+  },
+  "2026::53": {
+    "stem_en": "In which of the following cases should Mohs micrographic surgery be performed for squamous cell carcinoma (SCC) of the scalp?",
+    "options_en": {
+      "א": "A tumor that has recurred at the site of a previous scar.",
+      "ב": "Pain at the tumor site.",
+      "ג": "Age over 85 years.",
+      "ד": "A tumor arising secondary to tinea (ringworm)."
+    }
+  },
+  "2026::49": {
+    "stem_en": "An infant/child has had a lesion on the scalp for several months. What auxiliary test is required?",
+    "options_en": {
+      "א": "Abdominal ultrasound.",
+      "ב": "Chest X-ray.",
+      "ג": "Referral to an ophthalmologist.",
+      "ד": "No tests are required."
+    }
+  },
+  "2026::57": {
+    "stem_en": "Which of the following is correct regarding segmental vitiligo?",
+    "options_en": {
+      "א": "It is the most common form in children.",
+      "ב": "It tends to spread beyond the segmental area within the first two years.",
+      "ג": "There is an increased prevalence of autoimmune diseases compared to the classic form.",
+      "ד": "There is an increased prevalence of leukotrichia."
+    }
+  },
+  "2026::52": {
+    "stem_en": "Which of the following is correct regarding the wound healing process?",
+    "options_en": {
+      "א": "Platelets participate in the healing process.",
+      "ב": "There is a decrease in the amount of proteases.",
+      "ג": "T cells appear during the inflammatory phase.",
+      "ד": "Collagen type III appears in the scar before collagen type I."
+    }
+  },
+  "2026::58": {
+    "stem_en": "Which of the following is correct regarding the therapeutic approach to atopic dermatitis?",
+    "options_en": {
+      "א": "In cases of disease exacerbation, it is recommended to add systemic antibiotic treatment even if there are no signs of infection.",
+      "ב": "Non-sedating antihistamines are effective for treating atopic dermatitis.",
+      "ג": "Proactive use of topical steroids twice a week reduces the risk of flare-ups.",
+      "ד": "Long-term treatment with systemic steroids is an accepted treatment."
+    }
+  },
+  "2026::54": {
+    "stem_en": "A patient is being treated for contact dermatitis caused by exposure to RESORCINOL. Which of the following is most likely to contain RESORCINOL?",
+    "options_en": {
+      "א": "A facial mask containing mango extract.",
+      "ב": "A cream containing poison oak.",
+      "ג": "An antibacterial soap used for acne treatment.",
+      "ד": "A lilac-scented soap."
+    }
+  },
+  "2026::59": {
+    "stem_en": "Which of the following is correct regarding SEBORRHEIC DERMATITIS?",
+    "options_en": {
+      "א": "White scales in the scalp hair.",
+      "ב": "The absence of redness or irritation is considered the mildest form of the disease. On the scalp, the occipital area is the most commonly affected.",
+      "ג": "Facial involvement is usually asymmetric.",
+      "ד": "It does not involve the nasolabial fold."
+    }
+  },
+  "2026::61": {
+    "stem_en": "Which of the following has a higher irritant potential?",
+    "options_en": {
+      "א": "Amphoteric surfactants.",
+      "ב": "Sodium lauryl sulfate.",
+      "ג": "Cocamide MEA.",
+      "ד": "Cocamidopropyl betaine."
+    }
+  },
+  "2026::63": {
+    "stem_en": "Which of the following is true regarding phytophotodermatitis?",
+    "options_en": {
+      "א": "Bergapten causes severe reactions.",
+      "ב": "It is usually a type III allergic reaction.",
+      "ג": "The main action spectrum is UVB.",
+      "ד": "It is usually accompanied by itching."
+    }
+  },
+  "2026::62": {
+    "stem_en": "Which of the following is correct regarding people with contact urticaria to latex?",
+    "options_en": {
+      "א": "The rash appears more frequently with contact to syringe plungers/stoppers than with gloves.",
+      "ב": "Some of them may also suffer from hypersensitivity to certain fruits.",
+      "ג": "Hypoallergenic gloves and preparations are safe for them to use.",
+      "ד": "They should avoid using nitrile gloves."
+    }
+  },
+  "2026::64": {
+    "stem_en": "Which of the following is correct regarding suppression of the hypothalamic-pituitary-adrenal axis by oral steroid treatment?",
+    "options_en": {
+      "א": "The adrenal glands are affected first.",
+      "ב": "Giving steroids as a single dose in the morning reduces the suppression.",
+      "ג": "Rapid discontinuation after prolonged treatment reduces the suppression.",
+      "ד": "The initial screening test for axis suppression is measurement of evening cortisol levels."
+    }
+  },
+  "2026::65": {
+    "stem_en": "Which of the following is correct regarding osteoporosis secondary to systemic steroid treatment?",
+    "options_en": {
+      "א": "The vertebrae are more susceptible to damage than the long bones.",
+      "ב": "The test of choice for evaluating osteoporosis is a plain X-ray.",
+      "ג": "In postmenopausal women, it is recommended to wait six months before starting treatment with bisphosphonates.",
+      "ד": "Bisphosphonates can be given to women of childbearing age."
+    }
+  },
+  "2026::60": {
+    "stem_en": "Which of the following is correct regarding allergic contact dermatitis?",
+    "options_en": {
+      "א": "People with nickel sensitivity are recommended to avoid white gold jewelry.",
+      "ב": "Some fragrance (perfume) ingredients are also used as preservatives.",
+      "ג": "Fabrics that are 100% polyester contain the highest amount of formaldehyde.",
+      "ד": "Paraphenylenediamine (PPD) has the highest allergenic potential when fully oxidized."
+    }
+  },
+  "2026::69": {
+    "stem_en": "Which of the following statements is correct regarding the use of materials as wound dressing material?",
+    "options_en": {
+      "א": "Honey reduces bad odor.",
+      "ב": "Povidone iodine accelerates the wound healing process.",
+      "ג": "It is recommended to use topical antibiotics to prevent infection after excision.",
+      "ד": "Silver ions raise the level of matrix metalloproteinases (MMPs)."
+    }
+  },
+  "2026::70": {
+    "stem_en": "Which of the following is correct regarding foam dressings?",
+    "options_en": {
+      "א": "Most of them adhere well to the skin.",
+      "ב": "It is recommended to change them once a week.",
+      "ג": "They absorb fluid from the wound.",
+      "ד": "They are recommended for treating dry wounds."
+    }
+  },
+  "2026::67": {
+    "stem_en": "Which of the following is correct regarding tetracyclines?",
+    "options_en": {
+      "א": "They bind to the 30S ribosomal subunit.",
+      "ב": "Minocycline is more phototoxic than doxycycline.",
+      "ג": "Antacids improve the absorption of tetracycline.",
+      "ד": "In patients with renal failure, the dose of doxycycline needs to be adjusted."
+    }
+  },
+  "2026::68": {
+    "stem_en": "Which of the following is correct regarding suture selection?",
+    "options_en": {
+      "א": "For closing a wound under tension on the face, 3-0 nylon is recommended.",
+      "ב": "Absorbable sutures can cause a foreign body granuloma reaction.",
+      "ג": "Skin grafts should not be sutured using fast-absorbing gut suture.",
+      "ד": "A running subcuticular suture for closing incisions on the trunk increases the risk of suture track (spitting) marks."
+    }
+  },
+  "2026::75": {
+    "stem_en": "Which of the following is correct regarding the relationship between erythema multiforme (EM) and herpes simplex virus (HSV)?",
+    "options_en": {
+      "א": "The association is found in up to 10% of erythema multiforme cases.",
+      "ב": "Erythema multiforme is a reactive process, and viral particles cannot be found within the lesions.",
+      "ג": "In most cases, HSV can be cultured from the erythema multiforme lesions.",
+      "ד": "Labial (cold sore) herpes precedes about half of erythema multiforme cases."
+    }
+  },
+  "2026::76": {
+    "stem_en": "Which of the following is characteristic of a serum sickness-like reaction to a drug?",
+    "options_en": {
+      "א": "It is more common in adult women.",
+      "ב": "It usually occurs within minutes of taking the drug.",
+      "ג": "It may lead to kidney damage.",
+      "ד": "It occurs in about 1 in 2000 children taking cefaclor."
+    }
+  },
+  "2026::71": {
+    "stem_en": "Which of the following is correct regarding punch biopsy technique?",
+    "options_en": {
+      "א": "The punch is placed on the skin without stretching the skin.",
+      "ב": "",
+      "ג": "After inserting the punch, it is recommended to rotate it clockwise. In order to remove the specimen, it is recommended to grasp the center of the specimen with surgical forceps.",
+      "ד": "For a punch biopsy, it is recommended to remove the suture after 5-7 days."
+    }
+  },
+  "2026::78": {
+    "stem_en": "What is the common location of acquired perforating dermatosis?",
+    "options_en": {
+      "א": "Lower extremities.",
+      "ב": "Flexural areas.",
+      "ג": "Oral mucosa.",
+      "ד": "Elbows."
+    }
+  },
+  "2026::77": {
+    "stem_en": "A 46-year-old woman, with no history of skin disease, presented with a localized rash at the site of a drug injection, as shown in the image. This is not [a fixed drug eruption / a case of...]. Which drug was most likely injected to her?",
+    "options_en": {
+      "א": "A vaccine containing thimerosal.",
+      "ב": "Interferon.",
+      "ג": "Insulin.",
+      "ד": "Anakinra."
+    }
+  },
+  "2026::79": {
+    "stem_en": "Which of the following is a common cutaneous manifestation of Marfan syndrome?",
+    "options_en": {
+      "א": "Kyrle's disease",
+      "ב": "Keloidal acne",
+      "ג": "Dystrophic calcification",
+      "ד": "Striae"
+    }
+  },
+  "2026::81": {
+    "stem_en": "A 72-year-old man presents with recurrent episodes over the past year of facial swelling and pain, including redness of the left ear (auricle). (Additional finding noted.)",
+    "options_en": {
+      "א": "Sequencing of a gene located on the X chromosome.",
+      "ב": "Patch test.",
+      "ג": "Skin biopsy of lesions on the shins.",
+      "ד": "Complement levels and rheumatoid factor (RF)."
+    }
+  },
+  "2026::80": {
+    "stem_en": "Which of the following distinguishes a hypertrophic scar from a keloid scar?",
+    "options_en": {
+      "א": "It spreads beyond the borders of the original wound.",
+      "ב": "It develops within weeks of the injury.",
+      "ג": "It shows persistent (fixed) erythema.",
+      "ד": "It does not resolve or regress spontaneously without treatment."
+    }
+  },
+  "2026::84": {
+    "stem_en": "What is the advantage of using the Nd:YAG 1064nm LASER in the treatment of vascular lesions?",
+    "options_en": {
+      "א": "Superficial penetration into the skin.",
+      "ב": "Higher absorption in hemoglobin compared to the PDL LASER.",
+      "ג": "The possibility of treatment in dark skin.",
+      "ד": "The treatment is almost painless."
+    }
+  },
+  "2026::83": {
+    "stem_en": "What is the principle underlying the use of a NON-ABLATIVE LASER for skin rejuvenation, compared to other lasers?",
+    "options_en": {
+      "א": "The light is delivered in the form of PULSES.",
+      "ב": "The light comes from a Q-SWITCHED source.",
+      "ג": "Use of the FAR INFRARED spectrum.",
+      "ד": "Selective absorption in water, producing a thermal effect in the dermis."
+    }
+  },
+  "2026::88": {
+    "stem_en": "Which of the following characterizes scalp involvement in psoriasis?",
+    "options_en": {
+      "א": "Involvement is usually without a clear border.",
+      "ב": "It is usually limited to the hairline border.",
+      "ג": "It is the most common cause of pityriasis amiantacea.",
+      "ד": "It can lead to alopecia only when induced by anti-TNF agents."
+    }
+  },
+  "2026::87": {
+    "stem_en": "Which of the following is NOT recommended in treatment by electrocoagulation?",
+    "options_en": {
+      "א": "Disinfecting the area with an alcohol pad before the procedure.",
+      "ב": "Replacing disposable needles between patients.",
+      "ג": "Applying ointment to the treated site.",
+      "ד": "Warning the patient that delayed bleeding may occur at the treated site."
+    }
+  },
+  "2026::86": {
+    "stem_en": "What characterizes the dose dynamics of electron beam therapy for skin lesions?",
+    "options_en": {
+      "א": "The maximum radiation dose is measured in the epidermis.",
+      "ב": "Treating with small fields reduces the effectiveness of treatment in the deeper part of the lesion.",
+      "ג": "The radiation intensity decreases gradually toward the periphery of the treated lesion.",
+      "ד": "A higher dose is required compared to treatment with photons."
+    }
+  },
+  "2026::90": {
+    "stem_en": "Which of the following is NOT caused by a mutation in the KRT1 gene?",
+    "options_en": {
+      "א": "Epidermolytic palmoplantar keratoderma.",
+      "ב": "Ichthyosis with confetti.",
+      "ג": "Ichthyosis hystrix of Curth-Macklin.",
+      "ד": "Superficial epidermolytic ichthyosis."
+    }
+  },
+  "2026::91": {
+    "stem_en": "A 3-day-old male infant",
+    "options_en": {
+      "א": "Netherton syndrome",
+      "ב": "Trichothiodystrophy",
+      "ג": "Sjögren-Larsson syndrome",
+      "ד": "Infantile Gaucher disease"
+    }
+  },
+  "2026::89": {
+    "stem_en": "A 6-year-old [patient] with a skin condition involving plaques...",
+    "options_en": {
+      "א": "Costello syndrome.",
+      "ב": "Hypotrichosis simplex of the scalp.",
+      "ג": "Keratosis-ichthyosis-deafness syndrome.",
+      "ד": "Naxos disease."
+    }
+  },
+  "2026::92": {
+    "stem_en": "A hereditary [condition] may cause the skin finding shown in the image. Which of the following genes is most likely responsible for the causative pathogenic mutation?",
+    "options_en": {
+      "א": "LOR",
+      "ב": "KRT9",
+      "ג": "DSP",
+      "ד": "AAGAB"
+    }
+  },
+  "2026::94": {
+    "stem_en": "Which foreign-body reaction is characteristic of the use of zirconium oxide in salts (e.g., deodorants)?",
+    "options_en": {
+      "א": "Pseudolymphomatous reaction",
+      "ב": "Pyogenic granuloma-like reaction",
+      "ג": "Sarcoidosis-like (granulomatous) reaction",
+      "ד": "Photoallergic eczematous reaction"
+    }
+  },
+  "2026::97": {
+    "stem_en": "Which of the following genes is involved in the pathogenesis of lichen planus-like keratosis?",
+    "options_en": {
+      "א": "PIK3CA",
+      "ב": "ATP2A2",
+      "ג": "CARD14",
+      "ד": "NEK9"
+    }
+  },
+  "2026::96": {
+    "stem_en": "A 35-year-old man presents with a rash on the palms as shown in the image. Histology reveals nodular aggregates of foam cells in the superficial dermis. Which of the following is LEAST likely in this case?",
+    "options_en": {
+      "א": "Hypercholesterolemia.",
+      "ב": "Alcoholism.",
+      "ג": "Atherosclerotic coronary artery disease.",
+      "ד": "Hypertriglyceridemia."
+    }
+  },
+  "2026::98": {
+    "stem_en": "Which of the following cysts has a wall lined by stratified squamous epithelium?",
+    "options_en": {
+      "א": "Median raphe cyst",
+      "ב": "Urachal cyst",
+      "ג": "Eccrine hidrocystoma",
+      "ד": "Dermoid cyst"
+    }
+  },
+  "2026::93": {
+    "stem_en": "Which of the following statements regarding the pathogenesis of the condition shown in the clinical images is correct?",
+    "options_en": {
+      "א": "High calcium stores in the endoplasmic reticulum and in the keratinocyte cytoplasm.",
+      "ב": "A defect in the SERCA2b protein.",
+      "ג": "Low calcium stores in the Golgi lumen and in the keratinocyte cytoplasm.",
+      "ד": "The structure and function of the desmosomal proteins are normal."
+    }
+  },
+  "2026::103": {
+    "stem_en": "Which of the following genes is involved in the pathogenesis of nevus sebaceous?",
+    "options_en": {
+      "א": "GJB2",
+      "ב": "BRAF",
+      "ג": "GJA1",
+      "ד": "HRAS"
+    }
+  },
+  "2026::102": {
+    "stem_en": "Which of the following meets the diagnostic criteria for NEUROFIBROMATOSIS TYPE 1 (NF1)? The findings described in each option are the only findings present in the patient/family.",
+    "options_en": {
+      "א": "A patient with unilateral axillary freckling on the right side, whose father has NF1.",
+      "ב": "A patient with an optic glioma and a 15 mm dermal neurofibroma on the back.",
+      "ג": "A patient with a single Lisch nodule in the right eye, whose mother has NF1.",
+      "ד": "A patient with pseudoarthrosis of the tibia and a plexiform neurofibroma."
+    }
+  },
+  "2026::105": {
+    "stem_en": "Which of the following is correct regarding the diagnosis shown in the image?",
+    "options_en": {
+      "א": "It has a high incidence in children before the age of puberty.",
+      "ב": "It is directly related to increased secretion of sebum.",
+      "ג": "Comedones are not a characteristic finding.",
+      "ד": "Ulceration is a common complication."
+    }
+  },
+  "2026::106": {
+    "stem_en": "Which of the following blocks UVA radiation well?",
+    "options_en": {
+      "א": "Cinnamates",
+      "ב": "Salicylates",
+      "ג": "Octocrylene",
+      "ד": "Zinc oxide"
+    }
+  },
+  "2026::107": {
+    "stem_en": "Which of the following corresponds to STAGE IIB (melanoma staging)?",
+    "options_en": {
+      "א": "Breslow thickness 1.2 mm, two mitoses, and a negative sentinel lymph node.",
+      "ב": "Breslow thickness 1.2 mm and a positive sentinel lymph node.",
+      "ג": "Breslow thickness 2 mm, four mitoses, without ulceration.",
+      "ד": "Breslow thickness 3 mm, without mitoses, with ulceration."
+    }
+  },
+  "2026::95": {
+    "stem_en": "A 47-year-old female with no known underlying diseases. For about a month she has had a rash on the shins with a progressive course. No accompanying symptoms except recent weakness. Clinical and histological findings are shown. Regarding the comorbidity expected to be associated with this condition, which of the following is correct?",
+    "options_en": {
+      "א": "About 10% of type 1 diabetic patients will develop this disease.",
+      "ב": "The risk decreases in diabetic patients with well-balanced (controlled) glucose levels.",
+      "ג": "Thyroid dysfunction is expected in about a quarter of cases.",
+      "ד": "Pancreatitis has been described in about 15% of cases."
+    }
+  },
+  "2026::108": {
+    "stem_en": "What is the probable diagnosis for the patient shown in the image?",
+    "options_en": {
+      "א": "Naegeli–Franceschetti–Jadassohn syndrome",
+      "ב": "Dyskeratosis congenita",
+      "ג": "Dowling–Degos disease",
+      "ד": "Darier disease"
+    }
+  },
+  "2026::100": {
+    "stem_en": "A 53-year-old male presents with an asymptomatic rash in a periorbital distribution that has been present for several months, shown in the image below.",
+    "options_en": {
+      "א": "In half of the cases, a single lesion appears.",
+      "ב": "Systemic involvement is present in all patients.",
+      "ג": "Skin involvement in areas of scarring is common.",
+      "ד": "In a quarter of the patients, there is no skin involvement."
+    }
+  },
+  "2026::113": {
+    "stem_en": "What color fluorescence is obtained under Wood's lamp in Trichomycosis axillaris?",
+    "options_en": {
+      "א": "Blue",
+      "ב": "Yellow",
+      "ג": "Green",
+      "ד": "Red (coral red)"
+    }
+  },
+  "2026::112": {
+    "stem_en": "Which immune receptor is inhibited by the drug CEMIPLIMAB?",
+    "options_en": {
+      "א": "PD-1",
+      "ב": "CTLA-4",
+      "ג": "PD-L1",
+      "ד": "CD28"
+    }
+  },
+  "2026::109": {
+    "stem_en": "Which of the following is correct regarding melanosomes in light skin?",
+    "options_en": {
+      "א": "They are more numerous per cell than in dark skin.",
+      "ב": "",
+      "ג": "They are larger than in dark skin. Their distribution within lysosomes and the keratinocyte cytoplasm is in clusters of 2-10.",
+      "ד": "Their degradation rate is very slow."
+    }
+  },
+  "2026::110": {
+    "stem_en": "What causes the blue-gray color seen in the diagnosis shown in the following image?",
+    "options_en": {
+      "א": "Accumulation of hemosiderin around blood vessels in the dermis.",
+      "ב": "Accumulation of lipofuscin in dermal cells.",
+      "ג": "Selective light scattering (Tyndall effect) resulting from the deep location of melanin in the dermis.",
+      "ד": "Excessive oxidation of melanin due to increased tyrosinase activity."
+    }
+  },
+  "2026::117": {
+    "stem_en": "At what age is the deep form of granuloma annulare typically seen?",
+    "options_en": {
+      "א": "Above age 60.",
+      "ב": "Adolescents aged 13-18.",
+      "ג": "Children, mainly under age 6.",
+      "ד": "Ages 30-40."
+    }
+  },
+  "2026::114": {
+    "stem_en": "A 7-year-old boy has a single 6 mm skin lesion located on the thigh. Below are clinical and histological images of the lesion. What is the name of the structure indicated by the arrow?",
+    "options_en": {
+      "א": "Kamino body",
+      "ב": "Dutcher body",
+      "ג": "Psammoma body",
+      "ד": "Civatte body"
+    }
+  },
+  "2026::118": {
+    "stem_en": "Which of the following is NOT correct regarding the bulge of the hair follicle?",
+    "options_en": {
+      "א": "It undergoes regression during the catagen phase.",
+      "ב": "It is located within the outer root sheath.",
+      "ג": "It contains slowly dividing cells.",
+      "ד": "In wound healing, its cells contribute to the interfollicular epidermis."
+    }
+  },
+  "2026::121": {
+    "stem_en": "Which of the following is correct regarding ORAL SQUAMOUS CELL CARCINOMA?",
+    "options_en": {
+      "א": "Its prognosis is identical to that of squamous cell carcinoma (SCC) of the skin.",
+      "ב": "An early warning sign preceding the appearance of the tumor is pain in the oral cavity.",
+      "ג": "The most common location in the oral cavity is the buccal mucosa.",
+      "ד": "Heavy alcohol consumption is a risk factor."
+    }
+  },
+  "2026::120": {
+    "stem_en": "Which group of drugs causes periungual pyogenic granuloma?",
+    "options_en": {
+      "א": "Antibiotics.",
+      "ב": "Antihypertensives.",
+      "ג": "Corticosteroids.",
+      "ד": "Antiretrovirals."
+    }
+  },
+  "2026::119": {
+    "stem_en": "A woman with hirsutism, a regular menstrual cycle, and normal ovaries on ultrasound. What is the diagnosis?",
+    "options_en": {
+      "א": "Polycystic ovary syndrome",
+      "ב": "Idiopathic hirsutism",
+      "ג": "Ovarian hyperthecosis",
+      "ד": "Non-classic congenital adrenal hyperplasia"
+    }
+  },
+  "2026::116": {
+    "stem_en": "Which of the following patients meets the diagnostic criteria for Basal Cell Nevus Syndrome (BCNS)?",
+    "options_en": {
+      "א": "A single basal cell carcinoma (BCC) at age 33, additional ribs on chest X-ray, and macrocephaly above the 97th percentile.",
+      "ב": "Two palmar pits, a cleft lip, and an ovarian fibroma.",
+      "ג": "Macrocephaly above the 97th percentile, bifid vertebrae, and a first-degree relative with BCNS.",
+      "ד": "A histologically confirmed odontogenic keratocyst of the jaw, medulloblastoma at age 6, and macrocephaly above the 97th percentile."
+    }
+  },
+  "2026::122": {
+    "stem_en": "What is the most common site for melanoma of the genitalia?",
+    "options_en": {
+      "א": "Labia minora",
+      "ב": "Cervix",
+      "ג": "Vagina",
+      "ד": "Urethral orifice"
+    }
+  },
+  "2026::124": {
+    "stem_en": "Which of the following is correct regarding infection with Mycobacterium marinum?",
+    "options_en": {
+      "א": "In most cases it infects intact (non-injured) skin.",
+      "ב": "Infection occurs through contact with fresh water or salt water.",
+      "ג": "Symptoms appear around 3 months after infection.",
+      "ד": "The likelihood of infection in a jacuzzi/hot tub (40°C) is higher than in a swimming pool (30-31°C)."
+    }
+  },
+  "2026::123": {
+    "stem_en": "In the patients shown in the image, the same bacterium was identified by culture. In which of these cases is the suspicion of immunosuppression highest?",
+    "options_en": {
+      "א": "",
+      "ב": "",
+      "ג": "",
+      "ד": ""
+    }
+  },
+  "2026::126": {
+    "stem_en": "Which form of Tinea Capitis is NOT caused by Trichophyton tonsurans?",
+    "options_en": {
+      "א": "Favus",
+      "ב": "Seborrheic dermatitis-like form",
+      "ג": "Kerion",
+      "ד": "Black dot"
+    }
+  },
+  "2026::125": {
+    "stem_en": "Which are the main cells affected in rickettsial infections?",
+    "options_en": {
+      "א": "Endothelial cells",
+      "ב": "Epithelial cells",
+      "ג": "Nerve cells",
+      "ד": "Blood cells"
+    }
+  },
+  "2026::115": {
+    "stem_en": "What commonly happens to the hair in the affected area in Fox–Fordyce disease?",
+    "options_en": {
+      "א": "Hypertrichosis due to irritation",
+      "ב": "Loss of hair in the involved areas",
+      "ג": "No change",
+      "ד": "Replacement of terminal hair with vellus hair"
+    }
+  },
+  "2026::128": {
+    "stem_en": "Which treatment for condylomas (genital warts) is contraindicated in pregnancy?",
+    "options_en": {
+      "א": "TCA (trichloroacetic acid)",
+      "ב": "Liquid nitrogen",
+      "ג": "Podophyllotoxin",
+      "ד": "Laser"
+    }
+  },
+  "2026::130": {
+    "stem_en": "Which of the following is LEAST characteristic of the skin (cutaneous) involvement in Kawasaki disease?",
+    "options_en": {
+      "א": "Erythema in the groin area, which peels after about two days.",
+      "ב": "Erythema, edema, and desquamation (peeling) of the palms and soles.",
+      "ג": "Blisters (bullae).",
+      "ד": "Strawberry tongue."
+    }
+  },
+  "2026::132": {
+    "stem_en": "Nodules near the joints",
+    "options_en": {
+      "א": "Onchocerciasis",
+      "ב": "Filariasis",
+      "ג": "Cysticercosis",
+      "ד": "Gnathostomiasis"
+    }
+  },
+  "2026::129": {
+    "stem_en": "How many days should an immunocompromised patient be treated with VALACYCLOVIR for a first episode of genital herpes?",
+    "options_en": {
+      "א": "5 days.",
+      "ב": "10 days.",
+      "ג": "Until healing of all mucocutaneous lesions.",
+      "ד": "Valacyclovir should not be given to immunocompromised patients for this indication; only intravenous treatment should be used."
+    }
+  },
+  "2026::135": {
+    "stem_en": "45-year-old male",
+    "options_en": {
+      "א": "Kidneys",
+      "ב": "Lungs",
+      "ג": "Eyes",
+      "ד": "Intestines"
+    }
+  },
+  "2026::134": {
+    "stem_en": "Which of the following laboratory findings characterizes cholesterol emboli?",
+    "options_en": {
+      "א": "Hypercalcemia",
+      "ב": "Leukopenia",
+      "ג": "Eosinophilia",
+      "ד": "Hyponatremia"
+    }
+  },
+  "2026::136": {
+    "stem_en": "A patient presents with the findings shown in the image, accompanied by joint pain. Which of the following is correct regarding this disease?",
+    "options_en": {
+      "א": "It belongs to the group of seropositive arthropathies.",
+      "ב": "It is characterized by comorbidity with inflammatory bowel disease (IBD).",
+      "ג": "In 30% of cases, a lymphoproliferative disease is expected to develop.",
+      "ד": "There is a correlation between the activity of the joint disease and the activity of the skin disease."
+    }
+  },
+  "2026::133": {
+    "stem_en": "A 45-year-old woman presents to the clinic due to recurrent episodes of a fine, macular, petechial rash with papules (approximately 5-6 mm in diameter), accompanied by a sensation of itching and burning.",
+    "options_en": {
+      "א": "Anti-SSA antibody",
+      "ב": "Anti-mitochondrial antibody (AMA)",
+      "ג": "C-ANCA (cytoplasmic anti-neutrophil cytoplasmic antibody)",
+      "ד": "Anti-Jo-1 antibody"
+    }
+  },
+  "2026::137": {
+    "stem_en": "A 30-year-old man presented to the emergency department with high fever and a rash as shown in the image, which appeared on day ___.",
+    "options_en": {
+      "א": "Drug hypersensitivity reaction",
+      "ב": "Sweet syndrome",
+      "ג": "Herpes zoster",
+      "ד": "Erythema marginatum"
+    }
+  },
+  "2026::127": {
+    "stem_en": "A patient presents with umbilicated papules and round plaques with a central crust on the face and neck, as shown in the image. On smear, a round fungal organism with a thick capsule, approximately 10 microns in diameter, is seen. Which of the following statements about this fungus in an HIV-infected patient is INCORRECT?",
+    "options_en": {
+      "א": "The route of transmission is from person to person.",
+      "ב": "The mucous membranes are not involved.",
+      "ג": "Cutaneous involvement occurs in the majority of patients.",
+      "ד": "Extrapulmonary involvement of this fungus in an HIV-positive patient defines him as having AIDS."
+    }
+  },
+  "2026::142": {
+    "stem_en": "In which of the following diseases would you NOT expect to see a connective tissue nevus?",
+    "options_en": {
+      "א": "Tuberous sclerosis",
+      "ב": "Neurofibromatosis type II",
+      "ג": "Buschke-Ollendorf syndrome",
+      "ד": "Proteus syndrome"
+    }
+  },
+  "2026::144": {
+    "stem_en": "Which of the following is correct regarding the rash shown in the image?",
+    "options_en": {
+      "א": "It usually begins in the second decade of life.",
+      "ב": "In most cases, it is accompanied by systemic involvement.",
+      "ג": "It begins on the face and palms/soles and spreads to the trunk.",
+      "ד": "This is the common morphology seen in adults."
+    }
+  },
+  "2026::145": {
+    "stem_en": "A 70-year-old patient presents with a rapidly growing nodular lesion. Histology showed immunohistochemical staining positive for MUM-1 and CD20. Which additional immunohistochemical marker would be expected to be positive in this case?",
+    "options_en": {
+      "א": "BCL-2",
+      "ב": "CD5",
+      "ג": "CD30",
+      "ד": "Cytokeratin"
+    }
+  },
+  "2026::147": {
+    "stem_en": "Which of the following is true regarding Epidermophyton floccosum?",
+    "options_en": {
+      "א": "It causes tinea capitis in adults.",
+      "ב": "It is characterized by causing chronic infection.",
+      "ג": "The culture shows a red color on the reverse (underside) of the colony.",
+      "ד": "It is a common cause of tinea cruris (jock itch)."
+    }
+  },
+  "2026::148": {
+    "stem_en": "Which of the following carcinomas is the least common source of metastases to the scalp?",
+    "options_en": {
+      "א": "Colon carcinoma",
+      "ב": "Lung carcinoma",
+      "ג": "Breast carcinoma",
+      "ד": "Kidney (renal) carcinoma"
+    }
+  },
+  "2026::149": {
+    "stem_en": "A 76-year-old patient treated with peritoneal dialysis suffers from generalized itching (pruritus). What is the first-line systemic treatment?",
+    "options_en": {
+      "א": "Gabapentin.",
+      "ב": "Switching to hemodialysis.",
+      "ג": "Thalidomide.",
+      "ד": "Plasmapheresis."
+    }
+  },
+  "2026::146": {
+    "stem_en": "",
+    "options_en": {
+      "א": "The lesions usually ulcerate.",
+      "ב": "Mortality of approximately 30% in the first year.",
+      "ג": "More common in women over the age of 55.",
+      "ד": "About half of the cases are accompanied by systemic fever and fatigue."
+    }
+  },
+  "2025::34": {
+    "stem_en": "A 16-year-old boy, suffering for 3",
+    "options_en": {
+      "א": "Represents",
+      "ב": "A manifestation of celiac disease. Acantholysis is minimal or absent in most biopsies.",
+      "ג": "A short, self-limited course.",
+      "ד": "The most common bullous disease among children."
+    }
+  },
+  "2025::53": {
+    "stem_en": "An 8-year-old boy... [garbled OCR text]. Tuberculin skin test negative. Tissue culture grew M. tuberculosis. What is the most likely mode of infection in this case?",
+    "options_en": {
+      "א": "Auto-inoculation",
+      "ב": "Hetero-inoculation",
+      "ג": "Direct spread from a lymph node",
+      "ד": "Hematogenous spread"
+    }
+  },
+  "2025::11": {
+    "stem_en": "Which of the following characterizes Lofgren syndrome?",
+    "options_en": {
+      "א": "Asymptomatic skin lesions on the shins.",
+      "ב": "Severe uveitis.",
+      "ג": "Enlargement of cervical lymph nodes.",
+      "ד": "Spontaneous resolution within two years."
+    }
+  },
+  "2025::40": {
+    "stem_en": "Which of the following is correct regarding tanning?",
+    "options_en": {
+      "א": "Tanning induced by UVA provides less protection against sunburn than tanning induced by UVB.",
+      "ב": "In most cases, immediate pigment darkening of the skin occurs following exposure to UVB.",
+      "ג": "Fair-skinned individuals usually tan after exposure to a sub-erythemogenic dose of UVB.",
+      "ד": "Peak tanning appears one week after exposure to UVB."
+    }
+  },
+  "2025::12": {
+    "stem_en": "Which of the following is true regarding LICHENOID KERATOSIS?",
+    "options_en": {
+      "א": "The most common location is the legs.",
+      "ב": "",
+      "ג": "The lesions usually appear in young adolescents and are more common in women.",
+      "ד": "It usually presents as multiple lesions."
+    }
+  },
+  "2025::6": {
+    "stem_en": "A 22-year-old male presents with a clinical picture as described below, indicating the diagnosis:",
+    "options_en": {
+      "א": "Recurrent skin and soft tissue infections mainly with Staphylococcus aureus, chronic diarrhea, and several episodes of recurrent pneumonia.",
+      "ב": "Physical examination reveals lymphadenopathy and hepatosplenomegaly. Laboratory tests show leukocytosis and hypergammaglobulinemia. Which of the following tests would confirm the diagnosis?\n1. Sequencing of the STAT-1 gene.\n2. Fluorescent in situ hybridization.",
+      "ג": "Nitroblue tetrazolium (NBT) reduction assay.",
+      "ד": "Immunohistochemical staining for CD117."
+    }
+  },
+  "2025::70": {
+    "stem_en": "A farmer with no allergic background developed the rash shown in the accompanying image on his exposed arms during his first day of work. Which fruit/plant is most likely to explain his condition?",
+    "options_en": {
+      "א": "",
+      "ב": "",
+      "ג": "Cashew nut",
+      "ד": "Date palm"
+    }
+  },
+  "2025::71": {
+    "stem_en": "Which of the following is correct regarding administering oral steroids twice a day?",
+    "options_en": {
+      "א": "It does not increase toxicity.",
+      "ב": "It is more effective than giving the same total dose once a day.",
+      "ג": "It is preferred in cases of chronic allergic dermatitis.",
+      "ד": "It can be given in diabetic patients."
+    }
+  },
+  "2025::67": {
+    "stem_en": "A patient is scheduled to undergo knee replacement surgery, and reports that in the past he underwent a patch test that showed sensitivity to nickel. What would be the correct recommendation for this patient?",
+    "options_en": {
+      "א": "To undergo an extended patch test, including a metal series, before the surgery.",
+      "ב": "To undergo the surgery, and if an allergic reaction develops, to undergo an extended patch test, including a multiple metal series.",
+      "ג": "To take oral steroids before the surgery and for a week afterward.",
+      "ד": "To postpone the surgery and start a nickel-restricted diet for six months."
+    }
+  },
+  "2025::77": {
+    "stem_en": "A 10-year-old girl is referred to the emergency department due to a rash that has been present for 4 days, showing gradual worsening, accompanied by fever up to 38.5°C and pain in the left knee and right elbow.",
+    "options_en": {
+      "א": "This is the most common location of the lesions.",
+      "ב": "",
+      "ג": "The lesions are usually accompanied by itching, and the most common associated clinical manifestation is carditis.",
+      "ד": "The rash is mainly common in the chronic stage of the disease."
+    }
+  },
+  "2025::76": {
+    "stem_en": "Which of the following is correct regarding C1 esterase inhibitor deficiency?",
+    "options_en": {
+      "א": "Most cases are acquired, and only a minority are hereditary.",
+      "ב": "Most hereditary cases are caused by biallelic mutations (recessive inheritance).",
+      "ג": "Gain-of-function mutations in the gene encoding Factor XII are associated with a subtype of the disease.",
+      "ד": "The subtype characterized by normal C1 esterase inhibitor activity is caused by an autosomal dominant mutation in the C1NH gene."
+    }
+  },
+  "2025::82": {
+    "stem_en": "A 13-year-old girl with prominent papules on the dorsum of the hands, present since childhood. No itching is described; the clinical appearance is shown in the accompanying image.",
+    "options_en": {
+      "א": "This is a common phenomenon.",
+      "ב": "The most characteristic location is on the shins/lower legs.",
+      "ג": "",
+      "ד": "Spontaneous resolution of the papules occurs; in familial cases, a verrucous variant exists."
+    }
+  },
+  "2025::89": {
+    "stem_en": "In cryosurgery treatment, what is the target temperature (below which freezing must occur) to cause lethal cell death?",
+    "options_en": {
+      "א": "For melanocytes, minus 4 degrees Celsius.",
+      "ב": "For melanocytes, minus 20 degrees Celsius.",
+      "ג": "For malignant cells, minus 50 degrees Celsius.",
+      "ד": "For endothelial cells, minus 10 degrees Celsius."
+    }
+  },
+  "2025::103": {
+    "stem_en": "Which of the following ulcers/wounds is suitable for treatment with a Vacuum-Assisted Closure (VAC) system?",
+    "options_en": {
+      "א": "An ulcer due to active vasculitis.",
+      "ב": "A sternal wound after bypass surgery with mild serous discharge.",
+      "ג": "An ulcerated basal cell carcinoma (BCC).",
+      "ד": "An infected ulcer with underlying osteomyelitis."
+    }
+  },
+  "2025::92": {
+    "stem_en": "Which of the following is correct regarding complement components?",
+    "options_en": {
+      "א": "C3 is specific to the classical pathway.",
+      "ב": "C5a acts as a chemotactic factor for neutrophils and mast cells, causing their activation/degranulation.",
+      "ג": "C4 has a protective role against gonococcal infection.",
+      "ד": "Low levels of C1 cause angioedema."
+    }
+  },
+  "2025::106": {
+    "stem_en": "Which of the following characterizes APOCRINE sweat glands as opposed to ECCRINE sweat glands?",
+    "options_en": {
+      "א": "They are present in most areas of the skin.",
+      "ב": "The secretory duct is short and wide.",
+      "ג": "They appear/become active around puberty.",
+      "ד": "The secretory duct opens into the lower part of the hair follicle canal."
+    }
+  },
+  "2025::94": {
+    "stem_en": "A 65-year-old male on peritoneal dialysis presents with generalized itching without any skin rash. Workup revealed a normal IgE level, normal PTH level, normal liver function tests, and normal renal function tests (within dialysis parameters). What is the most appropriate recommendation?",
+    "options_en": {
+      "א": "Switch to hemodialysis.",
+      "ב": "Parathyroidectomy.",
+      "ג": "Administer a non-sedating antihistamine, up to 4 times daily at maximal dose.",
+      "ד": "Administer gabapentin."
+    }
+  },
+  "2025::99": {
+    "stem_en": "Which of the following is correct regarding cutaneous involvement in toxoplasmosis?",
+    "options_en": {
+      "א": "Most infected individuals will have cutaneous involvement.",
+      "ב": "Erythroderma will occur in most cases with cutaneous involvement.",
+      "ג": "The characteristic rash in congenital toxoplasmosis in the newborn consists of hemorrhagic or petechial nodules.",
+      "ד": "A cat scratch at a localized site precedes the generalized rash."
+    }
+  },
+  "2025::113": {
+    "stem_en": "Which of the following characterizes ashy dermatosis (erythema dyschromicum perstans)?",
+    "options_en": {
+      "א": "Wagyu beef-like dots",
+      "ב": "",
+      "ג": "The center of the lesion is usually raised",
+      "ד": "It regresses in most cases in adults"
+    }
+  },
+  "2025::123": {
+    "stem_en": "A 30-year-old woman presents with mononeuritis multiplex, nasal polyposis, asthma, and a positive ANTI-MPO. What is the expected skin finding in this disease?",
+    "options_en": {
+      "א": "Firm papules with a crusted/scaly surface over the extensor aspects of the elbows.",
+      "ב": "Folliculitis.",
+      "ג": "Keratoderma.",
+      "ד": "Hyperpigmentation of the skin folds."
+    }
+  },
+  "2025::133": {
+    "stem_en": "What characteristic is shared by Pageto­id reticulosis and Hypopigmented mycosis fungoides?",
+    "options_en": {
+      "א": "In most cases, a widespread rash involving extensive areas of skin.",
+      "ב": "High mortality rates.",
+      "ג": "The phenotype of the malignant cells can be CD3+ CD4- CD8+.",
+      "ד": "The malignant infiltrate is mainly dermal."
+    }
+  },
+  "2025::114": {
+    "stem_en": "Which of the following is correct regarding mutations in keratinocytes with respect to non-melanoma skin cancers?",
+    "options_en": {
+      "א": "In one-third of them there are mutations in TP53.",
+      "ב": "Activation of the PTCH1 gene leads to the development of SCC.",
+      "ג": "Activation of the PTCH1 gene usually constitutes a late stage in malignant transformation.",
+      "ד": "Keratinocytes in UV-exposed skin can accumulate a large number of mutations without developing malignant transformation."
+    }
+  },
+  "2025::122": {
+    "stem_en": "A 50-year-old man suddenly developed blue discoloration of the fingers and livedo reticularis, which progressed to retiform purpura. Which of the following is most likely associated with this presentation?",
+    "options_en": {
+      "א": "Atrial myxoma.",
+      "ב": "High fever, blood cultures positive for Pseudomonas aeruginosa.",
+      "ג": "A half-hour stay in an ice bath.",
+      "ד": "COVID-19 disease."
+    }
+  },
+  "2025::137": {
+    "stem_en": "Which of the following is correct regarding the pathological protein in secondary systemic amyloidosis?",
+    "options_en": {
+      "א": "",
+      "ב": "In most cases it causes skin involvement.",
+      "ג": "It is produced in the bone marrow.",
+      "ד": "The protein can be identified in subcutaneous fat."
+    }
+  },
+  "2025::136": {
+    "stem_en": "A 53-year-old man, with a history of MGUS, presents with a rash accompanied by...",
+    "options_en": {
+      "א": "Three weeks... dysphagia and a burning sensation in the palms of the hands.",
+      "ב": "TSH test. Which of the following findings appears in the clinical picture. Which of the following is correct regarding this patient? A. Paraprotein levels are found to correlate with disease severity. B. Autologous bone marrow transplantation may lead to clinical remission.",
+      "ג": "More common in men.",
+      "ד": "A minority of patients have a plasma cell dyscrasia."
+    }
+  },
+  "2025::148": {
+    "stem_en": "Which of the following is correct regarding side effects of topical calcineurin inhibitors?",
+    "options_en": {
+      "א": "An expert task force recommended lowering the black box warning regarding systemic malignancy risk.",
+      "ב": "The most common side effect is allergic contact dermatitis.",
+      "ג": "In patients with atopic dermatitis, there is an increase in Staphylococcus aureus colonization in these patients.",
+      "ד": "A burning sensation at the application site is common."
+    }
+  },
+  "2026::9": {
+    "stem_en": "From the age of 5 months, an infant developed a pustular rash accompanied by itching on the palms and soles. The parents describe episodic flares occurring every 3-5 weeks, with spontaneous regression over the course of a week. Which of the following is expected to be found on direct smear?",
+    "options_en": {
+      "א": "Hyphae.",
+      "ב": "Neutrophils and a few eosinophils.",
+      "ג": "Gram-positive cocci.",
+      "ד": "Multinucleated giant cells."
+    }
+  },
+  "2026::5": {
+    "stem_en": "A 74-year-old male... [OCR garbled/unclear text, appears to reference immunofluorescence findings]. He was hospitalized due to a bullous rash as described in the images, with linear/granular deposition of IgG as shown in the image. This occurred during the first year of his illness. Which underlying disease is the main risk factor for mortality after diagnosis?",
+    "options_en": {
+      "א": "Hypothyroidism.",
+      "ב": "Dementia.",
+      "ג": "Cerebrovascular accident (CVA).",
+      "ד": "Osteoarthritis."
+    }
+  },
+  "2026::40": {
+    "stem_en": "Regarding vaccination against Herpes Zoster, which of the following is correct?",
+    "options_en": {
+      "א": "ZOSTAVAX is the vaccine of choice for immunosuppressed patients.",
+      "ב": "",
+      "ג": "It is recommended for those previously vaccinated with a live attenuated varicella vaccine. SHINGRIX reduces the risk of zoster but not of post-herpetic neuralgia.",
+      "ד": "It is a recombinant vaccine given in two doses."
+    }
+  },
+  "2026::30": {
+    "stem_en": "Regarding erythropoietic protoporphyria (EPP), which of the following is correct?",
+    "options_en": {
+      "א": "The most common clinical presentation is tense blisters on exposed skin areas and the backs of the hands.",
+      "ב": "Deep scars develop due to recurrent flares.",
+      "ג": "There is a rare form occurring in adults with a background of myelodysplastic syndrome.",
+      "ד": "Clinical symptoms appear 24-72 hours after sun exposure."
+    }
+  },
+  "2026::46": {
+    "stem_en": "Which of the following is most consistent with the attached capillaroscopy image?",
+    "options_en": {
+      "א": "A 65-year-old man with muscle weakness and red nodules over the knuckles (joints) of the hands.",
+      "ב": "A 40-year-old woman with edematous violaceous plaques on the back and upper chest (décolletage).",
+      "ג": "A child with purpuric nodules on the shins for the past two days.",
+      "ד": "A 40-year-old man with well-demarcated plaques covered with silvery scale on the scalp, and pitting of the fingernails."
+    }
+  },
+  "2026::55": {
+    "stem_en": "Which of the following is a common complication of linear morphea?",
+    "options_en": {
+      "א": "Arthritis.",
+      "ב": "Lung disease.",
+      "ג": "Ocular involvement.",
+      "ד": "Viral involvement."
+    }
+  },
+  "2026::73": {
+    "stem_en": "Which of the following is correct regarding ptosis of the upper eyelid following Botox injection?",
+    "options_en": {
+      "א": "It is recommended to use the smallest amount of a high-concentration substance.",
+      "ב": "An additional Botox injection is a possible treatment option.",
+      "ג": "It usually resolves after about a week.",
+      "ד": "It should be treated with eye drops containing an alpha-adrenergic agonist."
+    }
+  },
+  "2026::72": {
+    "stem_en": "Which of the following is correct regarding candidates for hair transplantation?",
+    "options_en": {
+      "א": "Preference is given to young patients starting from age 25.",
+      "ב": "In patients with black hair, follicular units with a higher number of hair follicles should be transplanted at the frontal hairline in order to achieve an optimal aesthetic result.",
+      "ג": "Patients with a donor area follicular density of more than 80 units per square centimeter are suitable candidates.",
+      "ד": "The aesthetic improvement is more pronounced in vertex balding compared to frontal scalp balding."
+    }
+  },
+  "2026::66": {
+    "stem_en": "Which of the following is correct regarding isotretinoin?",
+    "options_en": {
+      "א": "It accumulates in the liver and in adipose tissue.",
+      "ב": "One month after completing oral treatment, pregnancy can be attempted.",
+      "ג": "Its effect on the sebaceous glands is mediated by RAR/RXR receptors.",
+      "ד": "In plasma, it is mostly found in free (unbound) form."
+    }
+  },
+  "2026::74": {
+    "stem_en": "A 32-year-old man returned from a two-week trip to forests in North America and reported eating large amounts of blueberries. He presented to the emergency department with the finding shown in the image, with his hands appearing blue. What is the preferred treatment in this case?",
+    "options_en": {
+      "א": "Doxycycline 200 mg/day.",
+      "ב": "Cyclosporine A 3-5 mg/kg/day.",
+      "ג": "Prednisone 0.5 mg/kg/day.",
+      "ד": "No treatment is required."
+    }
+  },
+  "2026::82": {
+    "stem_en": "Which of the following is correct regarding conventional photodynamic therapy with the mALA preparation?",
+    "options_en": {
+      "א": "Use of concentrations of 7-20%.",
+      "ב": "Ingestion of the preparation about two hours before treatment.",
+      "ג": "Exposure to sunlight for two hours after use of the preparation.",
+      "ד": "The surrounding healthy skin is well protected by standard sunscreen."
+    }
+  },
+  "2026::85": {
+    "stem_en": "Which of the following is a commonly used indication for liquid nitrogen (cryotherapy)?",
+    "options_en": {
+      "א": "Removal of an ingrown toenail.",
+      "ב": "Anesthesia prior to shave removal of a seborrheic keratosis.",
+      "ג": "A nodular Kaposi's sarcoma on the sole of the foot.",
+      "ד": "A solar keratosis anterior to the ear."
+    }
+  },
+  "2026::56": {
+    "stem_en": "Which of the following is correct regarding the clinical presentation of relapsing polychondritis?",
+    "options_en": {
+      "א": "Nasal involvement occurs in most cases.",
+      "ב": "",
+      "ג": "The lesions are usually asymptomatic.",
+      "ד": "Recurrent involvement of a single cartilage is sufficient for diagnosis."
+    }
+  },
+  "2026::99": {
+    "stem_en": "A 45-year-old male presents with a lesion as described on the scalp. The histopathological findings are as described. Which of the following statements regarding the pathogenesis relevant to this finding is correct?",
+    "options_en": {
+      "א": "Multiple lesions are associated with a pathogenic mutation in FCLN.",
+      "ב": "Multiple lesions are associated with a pathogenic mutation in the gene that also causes MULTIPLE FAMILIAL TRICHOEPITHELIOMAS.",
+      "ג": "In most familial cases, the inheritance pattern is autosomal recessive.",
+      "ד": "The lesions are caused by a mutation in the CTNNB1 gene, which encodes BETA-CATENIN."
+    }
+  },
+  "2026::104": {
+    "stem_en": "Which of the following is correct regarding the phenomenon shown in the image?",
+    "options_en": {
+      "א": "It can develop de novo, even without preceding findings",
+      "ב": "The first stage in the development of this condition is fibrosis",
+      "ג": "There is an increased risk of sebaceous carcinoma",
+      "ד": "It results from hypertrophy of smooth muscle and vascular proliferation"
+    }
+  },
+  "2026::139": {
+    "stem_en": "Which of the following is correct regarding INTRAHEPATIC CHOLESTASIS OF PREGNANCY?",
+    "options_en": {
+      "א": "It usually appears at the beginning of pregnancy.",
+      "ב": "In most cases it is accompanied by jaundice.",
+      "ג": "The itching resolves within days after delivery.",
+      "ד": "The disease may recur with subsequent use of oral contraceptive pills or with future pregnancy."
+    }
+  },
+  "2026::101": {
+    "stem_en": "A 15-year-old boy of Iranian descent, treated with growth hormone. He has a history of recurrent/persistent candidal infections of the oral and genital mucosa. He now presents with the appearance of hypopigmented patches on the limbs. Examination now reveals findings (as shown): oral mucosa and nails involvement, anemia, elevated liver enzymes.\n\nLaboratory workup demonstrated elevated TSH and elevated RF. Which of the following laboratory findings is most characteristic for the diagnosis in this case?",
+    "options_en": {
+      "א": "Complete absence of T cells specific to Candida",
+      "ב": "Autoantibodies against type I interferon",
+      "ג": "Elevated IgE levels < 2000 IU/ml",
+      "ד": "Positive HIV serology"
+    }
+  },
+  "2026::111": {
+    "stem_en": "What is the histological correlate of the blue-white veil?",
+    "options_en": {
+      "א": "A thickened epidermis with focal hypergranulosis, overlying compact orthokeratosis, with pigmented melanocytes/melanin in the dermis.",
+      "ב": "Aggregates of melanin/pigment in the papillary dermis.",
+      "ג": "",
+      "ד": "Thickened papillary dermis with fibrosis and melanophages; melanocytic nests merging at the dermo-epidermal junction area."
+    }
+  },
+  "2026::143": {
+    "stem_en": "A 45-year-old woman presents with localized painful nodules on the skin, along with abdominal pain and increased menstrual bleeding. Imaging revealed a papillary renal cell carcinoma. What are these nodules?",
+    "options_en": {
+      "א": "Leiomyomas",
+      "ב": "",
+      "ג": "Keloids",
+      "ד": "Spiradenomas"
+    }
+  },
+  "2026::140": {
+    "stem_en": "A 75-year-old man presents with angiosarcoma of the face due to prior radiation therapy of the forehead.",
+    "options_en": {
+      "א": "The initial lesion can resemble a bruise-like hematoma.",
+      "ב": "The prognosis is good, with more than 80% probability of 5-year survival.",
+      "ג": "Radiation therapy alone is the first line of treatment.",
+      "ד": "There is an etiological association with HHV-6."
+    }
+  },
+  "2026::131": {
+    "stem_en": "Which of the following patients, all of whom have positive syphilis serology, should receive treatment with a single dose of Benzathine Penicillin, 2.4 million units?",
+    "options_en": {
+      "א": "A pregnant woman with a chancre.",
+      "ב": "A woman after treatment for a morbilliform rash, whose VDRL titer decreased from 1:128 to 1:64.",
+      "ג": "An HIV-positive patient with a chancre.",
+      "ד": "A newborn born to a mother with syphilis who was not treated."
+    }
+  },
+  "2026::141": {
+    "stem_en": "An 81-year-old former farmer underwent kidney transplantation 10 years ago, presents due to a firm red nodule on the skin of his right back that has doubled in size within a month. A skin biopsy demonstrates a dermal nodule composed of small round blue cells with scant cytoplasm and high mitotic activity. Staining for CK-20 is positive. Which of the following is correct regarding this finding?",
+    "options_en": {
+      "א": "There is an etiological association with HHV-8.",
+      "ב": "In one third of cases, the disease is already metastatic at initial presentation.",
+      "ג": "It typically shows positive staining for S-100 and SOX10.",
+      "ד": "This tumor is common in women."
+    }
+  }
+}

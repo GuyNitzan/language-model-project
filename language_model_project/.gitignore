@@ -1,0 +1,6 @@
+language_model_project/eval/data/indices/400_80__openai.faiss
+language_model_project/pipeline/data/chunks/chunks_baseline_buggy_embedded.jsonl
+
+# Environment variables
+.env
+.env.local

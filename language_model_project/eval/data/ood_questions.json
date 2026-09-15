@@ -1,0 +1,98 @@
+[
+  {
+    "question": "What is the most common valvular abnormality associated with rheumatic heart disease?",
+    "domain": "cardiology"
+  },
+  {
+    "question": "Which coronary artery is most frequently occluded in an anterior wall myocardial infarction?",
+    "domain": "cardiology"
+  },
+  {
+    "question": "What is the normal ejection fraction range for a healthy adult left ventricle?",
+    "domain": "cardiology"
+  },
+  {
+    "question": "What class of antiarrhythmic drugs primarily block sodium channels?",
+    "domain": "cardiology"
+  },
+  {
+    "question": "What is the typical surgical approach used for a total hip replacement called when accessed from the side?",
+    "domain": "orthopedic surgery"
+  },
+  {
+    "question": "Which bone is most commonly fractured in a child's forearm during a fall on an outstretched hand?",
+    "domain": "orthopedic surgery"
+  },
+  {
+    "question": "What is the name of the classification system used to grade the severity of open fractures?",
+    "domain": "orthopedic surgery"
+  },
+  {
+    "question": "What ligament is most commonly torn during a non-contact pivoting knee injury in athletes?",
+    "domain": "orthopedic surgery"
+  },
+  {
+    "question": "What hormone deficiency causes central precocious puberty when overproduced too early?",
+    "domain": "pediatric endocrinology"
+  },
+  {
+    "question": "What is the most common cause of congenital hypothyroidism worldwide?",
+    "domain": "pediatric endocrinology"
+  },
+  {
+    "question": "Which enzyme deficiency is responsible for classic congenital adrenal hyperplasia?",
+    "domain": "pediatric endocrinology"
+  },
+  {
+    "question": "What is the typical age range considered normal for the onset of puberty in girls?",
+    "domain": "pediatric endocrinology"
+  },
+  {
+    "question": "What is the primary function of the juxtaglomerular apparatus in the kidney?",
+    "domain": "nephrology"
+  },
+  {
+    "question": "Which electrolyte abnormality is most commonly associated with chronic kidney disease progression?",
+    "domain": "nephrology"
+  },
+  {
+    "question": "What is the estimated glomerular filtration rate threshold used to define stage 5 chronic kidney disease?",
+    "domain": "nephrology"
+  },
+  {
+    "question": "What type of dialysis access is created by surgically connecting an artery directly to a vein?",
+    "domain": "nephrology"
+  },
+  {
+    "question": "What is the recommended daily intake of dietary fiber for an average adult according to most nutrition guidelines?",
+    "domain": "general nutrition science"
+  },
+  {
+    "question": "Which vitamin deficiency is the primary cause of the disease scurvy?",
+    "domain": "general nutrition science"
+  },
+  {
+    "question": "What is the caloric value per gram of dietary fat compared to carbohydrates and protein?",
+    "domain": "general nutrition science"
+  },
+  {
+    "question": "Which essential amino acid is often the limiting factor in plant-based protein sources like grains?",
+    "domain": "general nutrition science"
+  },
+  {
+    "question": "What is the name of the boundary that separates the Milky Way's galactic bulge from its outer disk?",
+    "domain": "astronomy"
+  },
+  {
+    "question": "Which planet in our solar system has the shortest orbital period around the Sun?",
+    "domain": "astronomy"
+  },
+  {
+    "question": "What type of star remnant is formed when a massive star undergoes core collapse and exceeds the Tolman-Oppenheimer-Volkoff limit?",
+    "domain": "astronomy"
+  },
+  {
+    "question": "In what year did the Byzantine Empire fall with the capture of Constantinople?",
+    "domain": "world history"
+  }
+]

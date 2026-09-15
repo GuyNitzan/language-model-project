@@ -1,0 +1,29 @@
+{
+  "n_covered": 503,
+  "n_uncovered": 14,
+  "n_ungraded_excluded": 0,
+  "covered__hebrew_raw": {
+    "n": 503,
+    "hit_at_1": 0.0318,
+    "hit_at_10": 0.1054,
+    "mrr_at_10": 0.0511
+  },
+  "covered__english_claude": {
+    "n": 502,
+    "hit_at_1": 0.0378,
+    "hit_at_10": 0.1275,
+    "mrr_at_10": 0.0619
+  },
+  "uncovered__hebrew_raw": {
+    "n": 14,
+    "hit_at_1": 0.0,
+    "hit_at_10": 0.1429,
+    "mrr_at_10": 0.0268
+  },
+  "uncovered__english_claude": {
+    "n": 14,
+    "hit_at_1": 0.0,
+    "hit_at_10": 0.0,
+    "mrr_at_10": 0.0
+  }
+}
