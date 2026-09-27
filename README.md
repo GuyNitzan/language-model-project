@@ -1,6 +1,6 @@
 # DermaForce — RAG + QLoRA for Dermatology Board-Exam Question Answering
 
-> **Educational project, not a clinical tool.** This system is a course project on
+> **Educational project, not a clinical tool.** This system is a project on
 > retrieval-augmented generation and parameter-efficient fine-tuning. It is not
 > validated for clinical use, must not be used for real diagnostic or treatment
 > decisions, and its outputs should not be trusted over a qualified physician.
@@ -25,12 +25,12 @@ This README is the submission-facing summary of it.
                                      │                                              │
                                      └─ compare: raw-Hebrew query vs translated ────┘   (cross-lingual experiment)
 
-                    ┌─ PRODUCT (exists) ────────────────────────┐
+                    ┌─ PRODUCT ────────────────────────┐
   question ────────▶│ Qdrant + OpenAI embeds → Claude → answer  │──▶ Next.js UI
                     │                          ↳ Verifier agent │
                     └───────────────────────────────────────────┘
 
-                    ┌─ MEASUREMENT (built for this course project) ─┐
+                    ┌─ MEASUREMENT ─┐
   chunks.jsonl ────▶│ FAISS index variants → retrieval metrics      │──▶ plots
        └───────────▶│ Claude distills QA set → QLoRA Qwen2.5-3B     │──▶ curves + tables
                     └────────────────────────────────────────────┘
@@ -354,10 +354,8 @@ language_model_project/
 
 ## Disclaimer
 
-This project is for educational purposes as part of an Applied Language
-Models course assignment. It is **not a medical device, not clinically
+This project is for educational purposes. It is **not a medical device, not clinically
 validated, and not intended to inform real diagnostic or treatment
 decisions.** Both underlying corpora (Bolognia's Dermatology, the Israeli
 Medical Association board exams) are copyrighted and used here under
-fair-use/educational terms for a private, non-redistributed course
-submission.
+fair-use/educational terms.
